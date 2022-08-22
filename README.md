@@ -27,22 +27,10 @@ This service auto generates iCalendar & Google Calendar subscriptions for NYU's 
 
 ## Development
 
-### Clone the repository
-
 ```bash
 git clone git@github.com:Jkker/nyu-academic-calendar.git
-```
-
-### Install dependencies
-
-```bash
 npm install
-```
-
-### Run Once
-
-```bash
-npm run start
+npm run build
 ```
 
 ## FAQ
