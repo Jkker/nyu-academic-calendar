@@ -3,7 +3,7 @@ This service auto generates iCalendar & Google Calendar subscriptions for NYU's 
 
 <div>
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Jkker/nyu-academic-calendar?label=last%20update&style=flat-square">
-<img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/Jkker/nyu-academic-calendar/Node.js%20CI?style=flat-square">
+<img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/Jkker/nyu-academic-calendar/Build%20Calendar?style=flat-square">
 <a href="https://github.com/Jkker/nyu-academic-calendar/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/Jkker/nyu-academic-calendar?style=flat-square"></a>
 </div>
 
