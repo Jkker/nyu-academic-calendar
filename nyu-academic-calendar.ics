@@ -1,0 +1,1530 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+NAME:NYU Academic Calendar
+X-WR-CALNAME:NYU Academic Calendar
+X-WR-CALDESC:NYU Academic Calendar
+X-WR-TIMEZONE:America/New_York
+PRODID:Jkker/nyu-academic-calendar
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:303460
+SUMMARY:Fall 2022 Graduate Tuition Payment Deadline
+DTSTAMP:20220420T123806Z
+DTSTART;VALUE=DATE:20220825
+DESCRIPTION:Failure to meet the payment deadline may result in the cancella
+	tion of class reservations.
+URL:https://events.nyu.edu/event/303460-fall-2022-graduate-tuition-payment-
+	deadline
+CATEGORIES:2022-2023 Academic Year,Fall 2022,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:286096
+SUMMARY:Fall 2022 Classes Begin
+DTSTAMP:20211208T214915Z
+DTSTART;VALUE=DATE:20220901
+URL:https://events.nyu.edu/event/286096-fall-2022-classes-begin
+CATEGORIES:2022-2023 Academic Year,Fall 2022,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:304768
+SUMMARY:REMINDER: Apply for Fall 2022 Graduation
+DTSTAMP:20220807T200928Z
+DTSTART;VALUE=DATE:20220901
+DTEND;VALUE=DATE:20221002
+DESCRIPTION:Students completing their graduation requirements by the end of
+	 Fall 2022/January 2023 semester must Apply for Graduation via Albert.*<br
+	 />\n<em>Though related\, your eligibility for attending All-University Co
+	mmencement and school ceremonies are separate unique processes and more in
+	formation can be found here…</em>
+URL:https://events.nyu.edu/event/304768-reminder-apply-for-fall-2022-gradua
+	tion
+CATEGORIES:2022-2023 Academic Year,Fall 2022,Graduation,StudentLink
+END:VEVENT
+BEGIN:VEVENT
+UID:286097
+SUMMARY:Labor Day
+DTSTAMP:20211208T214915Z
+DTSTART;VALUE=DATE:20220905
+DESCRIPTION:<span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;:&q
+	uot\;In New York\, no classes are scheduled and University offices are clo
+	sed.&quot\;}" data-sheets-userformat="{&quot\;2&quot\;:15273\,&quot\;3&quo
+	t\;:{&quot\;1&quot\;:0}\,&quot\;6&quot\;:{&quot\;1&quot\;:[{&quot\;1&quot\
+	;:2\,&quot\;2&quot\;:0\,&quot\;5&quot\;:[null\,2\,0]}\,{&quot\;1&quot\;:0\
+	,&quot\;2&quot\;:0\,&quot\;3&quot\;:3}\,{&quot\;1&quot\;:1\,&quot\;2&quot\
+	;:0\,&quot\;4&quot\;:1}]}\,&quot\;8&quot\;:{&quot\;1&quot\;:[{&quot\;1&quo
+	t\;:2\,&quot\;2&quot\;:0\,&quot\;5&quot\;:[null\,2\,0]}\,{&quot\;1&quot\;:
+	0\,&quot\;2&quot\;:0\,&quot\;3&quot\;:3}\,{&quot\;1&quot\;:1\,&quot\;2&quo
+	t\;:0\,&quot\;4&quot\;:1}]}\,&quot\;10&quot\;:1\,&quot\;11&quot\;:4\,&quot
+	\;12&quot\;:0\,&quot\;14&quot\;:[null\,2\,0]\,&quot\;15&quot\;:&quot\;Cali
+	bri\, sans-serif&quot\;\,&quot\;16&quot\;:11}">In New York\, no classes ar
+	e scheduled and University offices are closed.</span>
+URL:https://events.nyu.edu/event/286097-labor-day
+CATEGORIES:2022-2023 Academic Year,Fall 2022,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303461
+SUMMARY:Fall 2022 Late Registration Begins
+DTSTAMP:20220421T205124Z
+DTSTART;VALUE=DATE:20220910
+DESCRIPTION:Beginning today students who are Initially registering for fall
+	 2022 classes will incur a late registration fee.
+URL:https://events.nyu.edu/event/303461-fall-2022-late-registration-begins
+CATEGORIES:2022-2023 Academic Year,Fall 2022,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:296846
+SUMMARY:Fall 2022 100% Refund Deadline
+DTSTAMP:20211208T214915Z
+DTSTART;VALUE=DATE:20220914
+DESCRIPTION:Tuition and fees for individual classes dropped on or before th
+	is date will be refunded 100% for students who remain enrolled in at least
+	 one class. For term and/or total withdrawal refund information\, refer to
+	 the Refund Schedule for Complete Withdrawal on the <a href="https://www.n
+	yu.edu/students/student-information-and-resources/bills-payments-and-refun
+	ds/refunds-and-withdrawals/dropping-classes.html">Bursar’s website</a>. &#
+	160\;
+URL:https://events.nyu.edu/event/296846-fall-2022-100-refund-deadline
+CATEGORIES:2022-2023 Academic Year,Fall 2022,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:296845
+SUMMARY:Fall 2022 Add/Drop Deadline
+DTSTAMP:20211208T214915Z
+DTSTART;VALUE=DATE:20220914
+URL:https://events.nyu.edu/event/296845-fall-2022-adddrop-deadline
+CATEGORIES:2022-2023 Academic Year,Fall 2022,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:296847
+SUMMARY:Fall 2022 Withdrawal Period Begins
+DTSTAMP:20211208T214915Z
+DTSTART;VALUE=DATE:20220915
+DESCRIPTION:Classes dropped on or after this date result in a “W” grade on 
+	the student transcript. To withdraw from a class\, students may <a href="h
+	ttps://www.nyu.edu/students/student-information-and-resources/registration
+	-records-and-graduation/albert-help/training/students/registration/request
+	-class-withdrawal.html">Request a Class Withdrawal</a> in Albert.<br />\nS
+	tudents can no longer be enrolled into a class from a waitlist and waitlis
+	ts are purged.
+URL:https://events.nyu.edu/event/296847-fall-2022-withdrawal-period-begins
+CATEGORIES:2022-2023 Academic Year,Bursar Deadlines,Fall 2022,Registration 
+	Dates &amp; Deadlines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303462
+SUMMARY:January Term 2023 Class Schedule Published
+DTSTAMP:20220422T123213Z
+DTSTART;VALUE=DATE:20220919
+URL:https://events.nyu.edu/event/303462-january-term-2023-class-schedule-pu
+	blished
+CATEGORIES:2022-2023 Academic Year,January Term 2023,Registration Dates &am
+	p; Deadlines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:296848
+SUMMARY:Fall 2022 Census Date
+DTSTAMP:20211208T214915Z
+DTSTART;VALUE=DATE:20220921
+URL:https://events.nyu.edu/event/296848-fall-2022-census-date
+CATEGORIES:2022-2023 Academic Year,Fall 2022,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:304769
+SUMMARY:REMINDER: Apply for Fall 2022 Graduation
+DTSTAMP:20220807T200928Z
+DTSTART;VALUE=DATE:20221001
+DTEND;VALUE=DATE:20221002
+DESCRIPTION:Students completing their graduation requirements by the end of
+	 Fall 2022/January 2023 semester must Apply for Graduation via Albert.*<br
+	 />\n<em>Though related\, your eligibility for attending All-University Co
+	mmencement and school ceremonies are separate unique processes and more in
+	formation can be found here…</em>
+URL:https://events.nyu.edu/event/304769-reminder-apply-for-fall-2022-gradua
+	tion
+CATEGORIES:2022-2023 Academic Year,Fall 2022,Graduation,StudentLink
+END:VEVENT
+BEGIN:VEVENT
+UID:286098
+SUMMARY:Fall Break
+DTSTAMP:20211208T214915Z
+DTSTART;VALUE=DATE:20221010
+DESCRIPTION:<span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;:&q
+	uot\;No classes scheduled&quot\;}" data-sheets-userformat="{&quot\;2&quot\
+	;:15337\,&quot\;3&quot\;:{&quot\;1&quot\;:0}\,&quot\;6&quot\;:{&quot\;1&qu
+	ot\;:[{&quot\;1&quot\;:2\,&quot\;2&quot\;:0\,&quot\;5&quot\;:[null\,2\,0]}
+	\,{&quot\;1&quot\;:0\,&quot\;2&quot\;:0\,&quot\;3&quot\;:3}\,{&quot\;1&quo
+	t\;:1\,&quot\;2&quot\;:0\,&quot\;4&quot\;:1}]}\,&quot\;8&quot\;:{&quot\;1&
+	quot\;:[{&quot\;1&quot\;:2\,&quot\;2&quot\;:0\,&quot\;5&quot\;:[null\,2\,0
+	]}\,{&quot\;1&quot\;:0\,&quot\;2&quot\;:0\,&quot\;3&quot\;:3}\,{&quot\;1&q
+	uot\;:1\,&quot\;2&quot\;:0\,&quot\;4&quot\;:1}]}\,&quot\;9&quot\;:0\,&quot
+	\;10&quot\;:1\,&quot\;11&quot\;:4\,&quot\;12&quot\;:0\,&quot\;14&quot\;:[n
+	ull\,2\,4605510]\,&quot\;15&quot\;:&quot\;Verdana\, sans-serif&quot\;\,&qu
+	ot\;16&quot\;:9}">No classes scheduled</span>
+URL:https://events.nyu.edu/event/286098-fall-break
+CATEGORIES:2022-2023 Academic Year,Fall 2022,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:286099
+SUMMARY:Legislative Monday
+DTSTAMP:20211208T214915Z
+DTSTART;VALUE=DATE:20221011
+DESCRIPTION:<span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;:&q
+	uot\;Classes meet according to a Monday schedule.&quot\;}" data-sheets-use
+	rformat="{&quot\;2&quot\;:15337\,&quot\;3&quot\;:{&quot\;1&quot\;:0}\,&quo
+	t\;6&quot\;:{&quot\;1&quot\;:[{&quot\;1&quot\;:2\,&quot\;2&quot\;:0\,&quot
+	\;5&quot\;:[null\,2\,0]}\,{&quot\;1&quot\;:0\,&quot\;2&quot\;:0\,&quot\;3&
+	quot\;:3}\,{&quot\;1&quot\;:1\,&quot\;2&quot\;:0\,&quot\;4&quot\;:1}]}\,&q
+	uot\;8&quot\;:{&quot\;1&quot\;:[{&quot\;1&quot\;:2\,&quot\;2&quot\;:0\,&qu
+	ot\;5&quot\;:[null\,2\,0]}\,{&quot\;1&quot\;:0\,&quot\;2&quot\;:0\,&quot\;
+	3&quot\;:3}\,{&quot\;1&quot\;:1\,&quot\;2&quot\;:0\,&quot\;4&quot\;:1}]}\,
+	&quot\;9&quot\;:0\,&quot\;10&quot\;:1\,&quot\;11&quot\;:4\,&quot\;12&quot\
+	;:0\,&quot\;14&quot\;:[null\,2\,0]\,&quot\;15&quot\;:&quot\;Calibri\, sans
+	-serif&quot\;\,&quot\;16&quot\;:11}">Classes meet according to a Monday sc
+	hedule.</span>
+URL:https://events.nyu.edu/event/286099-legislative-monday
+CATEGORIES:2022-2023 Academic Year,Fall 2022,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:304770
+SUMMARY:Last Day to Apply for Fall 2022 Graduation
+DTSTAMP:20220701T050422Z
+DTSTART;VALUE=DATE:20221016
+DESCRIPTION:<em>Students completing their graduation requirements by the en
+	d of Fall 2022/January 2023 term must Apply for Graduation via Albert.*<br
+	 />\nThough related\, your eligibility for attending All-University Commen
+	cement and school ceremonies are separate unique processes and more inform
+	ation can be found here…</em>
+URL:https://events.nyu.edu/event/304770-last-day-to-apply-for-fall-2022-gra
+	duation
+CATEGORIES:2022-2023 Academic Year,Fall 2022,Graduation,January Term 2023,S
+	tudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303463
+SUMMARY:January Term 2023 Registration Begins
+DTSTAMP:20220420T125235Z
+DTSTART;VALUE=DATE:20221017
+DESCRIPTION:Undergraduate and graduate students register at specific appoin
+	tment times.
+URL:https://events.nyu.edu/event/303463-january-term-2023-registration-begi
+	ns
+CATEGORIES:2022-2023 Academic Year,January Term 2023,Registration Dates &am
+	p; Deadlines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303469
+SUMMARY:Spring 2023 Class Schedule Published
+DTSTAMP:20220420T130214Z
+DTSTART;VALUE=DATE:20221017
+URL:https://events.nyu.edu/event/303469-spring-2023-class-schedule-publishe
+	d
+CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2023,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:305761
+SUMMARY:Faculty Deadline for Entering Midterm Grades for Fall 2022
+DTSTAMP:20220815T151320Z
+DTSTART;VALUE=DATE:20221103
+URL:https://events.nyu.edu/event/305761-faculty-deadline-for-entering-midte
+	rm-grades-for
+CATEGORIES:2022-2023 Academic Year,Fall 2022,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303470
+SUMMARY:Spring 2023 Registration Begins
+DTSTAMP:20220420T132637Z
+DTSTART;VALUE=DATE:20221114
+DESCRIPTION:Undergraduate and graduate students register at specific appoin
+	tment times.
+URL:https://events.nyu.edu/event/303470-spring-2023-registration-begins
+CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2023,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:286100
+SUMMARY:Fall Break
+DTSTAMP:20211208T214915Z
+DTSTART;VALUE=DATE:20221123
+DESCRIPTION:<span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;:&q
+	uot\;No classes scheduled&quot\;}" data-sheets-userformat="{&quot\;2&quot\
+	;:15337\,&quot\;3&quot\;:{&quot\;1&quot\;:0}\,&quot\;6&quot\;:{&quot\;1&qu
+	ot\;:[{&quot\;1&quot\;:2\,&quot\;2&quot\;:0\,&quot\;5&quot\;:[null\,2\,0]}
+	\,{&quot\;1&quot\;:0\,&quot\;2&quot\;:0\,&quot\;3&quot\;:3}\,{&quot\;1&quo
+	t\;:1\,&quot\;2&quot\;:0\,&quot\;4&quot\;:1}]}\,&quot\;8&quot\;:{&quot\;1&
+	quot\;:[{&quot\;1&quot\;:2\,&quot\;2&quot\;:0\,&quot\;5&quot\;:[null\,2\,0
+	]}\,{&quot\;1&quot\;:0\,&quot\;2&quot\;:0\,&quot\;3&quot\;:3}\,{&quot\;1&q
+	uot\;:1\,&quot\;2&quot\;:0\,&quot\;4&quot\;:1}]}\,&quot\;9&quot\;:0\,&quot
+	\;10&quot\;:1\,&quot\;11&quot\;:4\,&quot\;12&quot\;:0\,&quot\;14&quot\;:[n
+	ull\,2\,4605510]\,&quot\;15&quot\;:&quot\;Verdana\, sans-serif&quot\;\,&qu
+	ot\;16&quot\;:9}">No classes scheduled</span>
+URL:https://events.nyu.edu/event/286100-fall-break
+CATEGORIES:2022-2023 Academic Year,Fall 2022,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:286101
+SUMMARY:Thanksgiving Recess
+DTSTAMP:20211208T214915Z
+DTSTART;VALUE=DATE:20221124
+DTEND;VALUE=DATE:20221126
+DESCRIPTION:<span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;:&q
+	uot\;In New York\, no classes are scheduled and University offices are clo
+	sed.&quot\;}" data-sheets-userformat="{&quot\;2&quot\;:15337\,&quot\;3&quo
+	t\;:{&quot\;1&quot\;:0}\,&quot\;6&quot\;:{&quot\;1&quot\;:[{&quot\;1&quot\
+	;:2\,&quot\;2&quot\;:0\,&quot\;5&quot\;:[null\,2\,0]}\,{&quot\;1&quot\;:0\
+	,&quot\;2&quot\;:0\,&quot\;3&quot\;:3}\,{&quot\;1&quot\;:1\,&quot\;2&quot\
+	;:0\,&quot\;4&quot\;:1}]}\,&quot\;8&quot\;:{&quot\;1&quot\;:[{&quot\;1&quo
+	t\;:2\,&quot\;2&quot\;:0\,&quot\;5&quot\;:[null\,2\,0]}\,{&quot\;1&quot\;:
+	0\,&quot\;2&quot\;:0\,&quot\;3&quot\;:3}\,{&quot\;1&quot\;:1\,&quot\;2&quo
+	t\;:0\,&quot\;4&quot\;:1}]}\,&quot\;9&quot\;:0\,&quot\;10&quot\;:1\,&quot\
+	;11&quot\;:4\,&quot\;12&quot\;:0\,&quot\;14&quot\;:[null\,2\,0]\,&quot\;15
+	&quot\;:&quot\;Calibri\, sans-serif&quot\;\,&quot\;16&quot\;:11}">In New Y
+	ork\, no classes are scheduled and University offices are closed.</span>
+URL:https://events.nyu.edu/event/286101-thanksgiving-recess
+CATEGORIES:2022-2023 Academic Year,Fall 2022,StudentLink
+END:VEVENT
+BEGIN:VEVENT
+UID:303464
+SUMMARY:The January Term Tuition Payment is due
+DTSTAMP:20220420T125356Z
+DTSTART;VALUE=DATE:20221129
+URL:https://events.nyu.edu/event/303464-the-january-term-tuition-payment-is
+	-due
+CATEGORIES:2022-2023 Academic Year,January Term 2023,Registration Dates &am
+	p; Deadlines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:304030
+SUMMARY:Fall 2022 Deadline to Request Pass/Fail Grade Option
+DTSTAMP:20220517T001503Z
+DTSTART;VALUE=DATE:20221205
+DESCRIPTION:Last day for students in a school that permits the pass/fail gr
+	ade option to submit a request.
+URL:https://events.nyu.edu/event/304030-fall-2022-deadline-to-request-passf
+	ail-grade
+CATEGORIES:2022-2023 Academic Year,Fall 2022,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:304029
+SUMMARY:Fall 2022 Withdrawal Deadline
+DTSTAMP:20220519T123022Z
+DTSTART;VALUE=DATE:20221205
+DESCRIPTION:Last day for students to submit a request to withdraw from a cl
+	ass (or from all classes enrolled for the term). Academic calendars at glo
+	bal sites may vary\, so students should consult the academic calendar of t
+	heir home school study away site.
+URL:https://events.nyu.edu/event/304029-fall-2022-withdrawal-deadline
+CATEGORIES:2022-2023 Academic Year,Fall 2022,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:286102
+SUMMARY:Last Day of Fall 2022 Classes
+DTSTAMP:20211208T214915Z
+DTSTART;VALUE=DATE:20221214
+URL:https://events.nyu.edu/event/286102-last-day-of-fall-2022-classes
+CATEGORIES:2022-2023 Academic Year,Fall 2022,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:286103
+SUMMARY:Reading Day
+DTSTAMP:20211208T214915Z
+DTSTART;VALUE=DATE:20221215
+URL:https://events.nyu.edu/event/286103-reading-day
+CATEGORIES:2022-2023 Academic Year,Fall 2022,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:286104
+SUMMARY:Final Exam Period
+DTSTAMP:20211208T214915Z
+DTSTART;VALUE=DATE:20221216
+DTEND;VALUE=DATE:20221223
+DESCRIPTION:<span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;:&q
+	uot\;NYU Schools of Medicine\, Law\, Dentistry\, and Graduate Stern manage
+	 different final exam schedules. Refer to school-specific calendars for th
+	ese details.&quot\;}" data-sheets-userformat="{&quot\;2&quot\;:15273\,&quo
+	t\;3&quot\;:{&quot\;1&quot\;:0}\,&quot\;6&quot\;:{&quot\;1&quot\;:[{&quot\
+	;1&quot\;:2\,&quot\;2&quot\;:0\,&quot\;5&quot\;:[null\,2\,0]}\,{&quot\;1&q
+	uot\;:0\,&quot\;2&quot\;:0\,&quot\;3&quot\;:3}\,{&quot\;1&quot\;:1\,&quot\
+	;2&quot\;:0\,&quot\;4&quot\;:1}]}\,&quot\;8&quot\;:{&quot\;1&quot\;:[{&quo
+	t\;1&quot\;:2\,&quot\;2&quot\;:0\,&quot\;5&quot\;:[null\,2\,0]}\,{&quot\;1
+	&quot\;:0\,&quot\;2&quot\;:0\,&quot\;3&quot\;:3}\,{&quot\;1&quot\;:1\,&quo
+	t\;2&quot\;:0\,&quot\;4&quot\;:1}]}\,&quot\;10&quot\;:1\,&quot\;11&quot\;:
+	4\,&quot\;12&quot\;:0\,&quot\;14&quot\;:[null\,2\,0]\,&quot\;15&quot\;:&qu
+	ot\;Calibri\, sans-serif&quot\;\,&quot\;16&quot\;:11}">NYU Schools of Medi
+	cine\, Law\, Dentistry\, and Graduate Stern manage different final exam sc
+	hedules. Refer to school-specific calendars for these details.</span>
+URL:https://events.nyu.edu/event/286104-final-exam-period
+CATEGORIES:2022-2023 Academic Year,Fall 2022,StudentLink
+END:VEVENT
+BEGIN:VEVENT
+UID:286354
+SUMMARY:Winter Recess for Students
+DTSTAMP:20211110T204927Z
+DTSTART;VALUE=DATE:20221223
+DTEND;VALUE=DATE:20230102
+URL:https://events.nyu.edu/event/286354-winter-recess-for-students
+CATEGORIES:2022-2023 Academic Year,Fall 2022,StudentLink
+END:VEVENT
+BEGIN:VEVENT
+UID:305659
+SUMMARY:New Year’s Day (Observed)
+DTSTAMP:20220810T124554Z
+DTSTART;VALUE=DATE:20230102
+DESCRIPTION:<table>\n  <tbody>\n    <tr>\n      <td>\n        <table width=
+	"661">\n          <tbody>\n            <tr>\n              <td width="661"
+	>\n                In New York\, no classes are scheduled and University o
+	ffices are closed.\n              </td>\n            </tr>\n          </tb
+	ody>\n        </table>\n      </td>\n    </tr>\n  </tbody>\n</table>
+URL:https://events.nyu.edu/event/305659-new-years-day-observed
+CATEGORIES:2022-2023 Academic Year,Fall 2022,January Term 2023,Registration
+	 Dates &amp; Deadlines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:286060
+SUMMARY:January Term 2023 classes begin
+DTSTAMP:20220803T155742Z
+DTSTART;VALUE=DATE:20230103
+URL:https://events.nyu.edu/event/286060-january-term-2023-classes-begin
+CATEGORIES:2022-2023 Academic Year,January Term 2023,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303465
+SUMMARY:January Term 2023 100% Refund Deadline
+DTSTAMP:20220810T130942Z
+DTSTART;VALUE=DATE:20230104
+URL:https://events.nyu.edu/event/303465-january-term-2023-100-refund-deadli
+	ne
+CATEGORIES:2022-2023 Academic Year,January Term 2023,Registration Dates &am
+	p; Deadlines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303466
+SUMMARY:January Term 2023 Drop/Add Deadline
+DTSTAMP:20220810T131132Z
+DTSTART;VALUE=DATE:20230104
+URL:https://events.nyu.edu/event/303466-january-term-2023-dropadd-deadline
+CATEGORIES:2022-2023 Academic Year,January Term 2023,Registration Dates &am
+	p; Deadlines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303467
+SUMMARY:January 2023 Term Withdrawal Period Begins
+DTSTAMP:20220810T131223Z
+DTSTART;VALUE=DATE:20230105
+URL:https://events.nyu.edu/event/303467-january-2023-term-withdrawal-period
+	-begins
+CATEGORIES:2022-2023 Academic Year,January Term 2023,Registration Dates &am
+	p; Deadlines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303468
+SUMMARY:January Term 2023 Census Date
+DTSTAMP:20220810T131036Z
+DTSTART;VALUE=DATE:20230105
+URL:https://events.nyu.edu/event/303468-january-term-2023-census-date
+CATEGORIES:2022-2023 Academic Year,January Term 2023,Registration Dates &am
+	p; Deadlines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303471
+SUMMARY:Spring 2023 Undergraduate Tuition Payment Deadline
+DTSTAMP:20220420T132716Z
+DTSTART;VALUE=DATE:20230105
+DESCRIPTION:Failure to meet the payment deadline may result in the cancella
+	tion of class reservations.
+URL:https://events.nyu.edu/event/303471-spring-2023-undergraduate-tuition-p
+	ayment-deadline
+CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2023,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:286061
+SUMMARY:Martin Luther King\, Jr. Birthday
+DTSTAMP:20220422T121359Z
+DTSTART;VALUE=DATE:20230116
+DESCRIPTION:In New York\, no classes are scheduled and University offices a
+	re closed.
+URL:https://events.nyu.edu/event/286061-martin-luther-king-jr-birthday
+CATEGORIES:2022-2023 Academic Year,January Term 2023,Registration Dates &am
+	p; Deadlines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303323
+SUMMARY:Martin Luther King\, Jr. Birthday
+DTSTAMP:20220415T143032Z
+DTSTART;VALUE=DATE:20230116
+DESCRIPTION:<table width="661">\n  <tbody>\n    <tr>\n      <td width="661"
+	>\n        In New York\, no classes are scheduled and University offices a
+	re closed.\n      </td>\n    </tr>\n  </tbody>\n</table>
+URL:https://events.nyu.edu/event/303323-martin-luther-king-jr-birthday
+CATEGORIES:2022-2023 Academic Year,January Term 2023,Registration Dates &am
+	p; Deadlines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303472
+SUMMARY:Spring 2023 Graduate Tuition Payment Deadline
+DTSTAMP:20220420T132611Z
+DTSTART;VALUE=DATE:20230116
+DESCRIPTION:Failure to meet the payment deadline may result in the cancella
+	tion of class reservations.
+URL:https://events.nyu.edu/event/303472-spring-2023-graduate-tuition-paymen
+	t-deadline
+CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2023,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303483
+SUMMARY:Summer 2023 Class Schedule Published
+DTSTAMP:20220422T122059Z
+DTSTART;VALUE=DATE:20230116
+URL:https://events.nyu.edu/event/303483-summer-2023-class-schedule-publishe
+	d
+CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2023
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:304049
+SUMMARY:January Term 2023 Deadline to Request Pass/Fail Grade Option
+DTSTAMP:20220519T143025Z
+DTSTART;VALUE=DATE:20230117
+DESCRIPTION:<p>\n  Last day for students in a school that permits the pass/
+	fail grade option to submit a request.\n</p>
+URL:https://events.nyu.edu/event/304049-january-term-2023-deadline-to-reque
+	st-passfail
+CATEGORIES:2022-2023 Academic Year,January Term 2023,Registration Dates &am
+	p; Deadlines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:304048
+SUMMARY:January Term 2023 Withdrawal Deadline
+DTSTAMP:20220519T143125Z
+DTSTART;VALUE=DATE:20230117
+DESCRIPTION:<p>\n  Last day for students to submit a request to withdraw fr
+	om a class (or from all classes enrolled for the term). Academic calendars
+	 at global sites may vary\, so students should consult the academic calend
+	ar of their home school study away site.\n</p>
+URL:https://events.nyu.edu/event/304048-january-term-2023-withdrawal-deadli
+	ne
+CATEGORIES:2022-2023 Academic Year,January Term 2023,Registration Dates &am
+	p; Deadlines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:286062
+SUMMARY:Last Day of January Term 2023 Classes
+DTSTAMP:20210303T194557Z
+DTSTART;VALUE=DATE:20230120
+URL:https://events.nyu.edu/event/286062-last-day-of-january-term-2023-class
+	es
+CATEGORIES:2022-2023 Academic Year,January Term 2023,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:286063
+SUMMARY:Spring 2023 classes begin
+DTSTAMP:20210318T115922Z
+DTSTART;VALUE=DATE:20230123
+URL:https://events.nyu.edu/event/286063-spring-2023-classes-begin
+CATEGORIES:2022-2023 Academic Year,Spring 2023,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303473
+SUMMARY:Spring 2023 Late Registration Begins
+DTSTAMP:20220420T132748Z
+DTSTART;VALUE=DATE:20230201
+DESCRIPTION:Beginning today students who are Initially registering for fall
+	 2022 classes will incur a late registration fee.
+URL:https://events.nyu.edu/event/303473-spring-2023-late-registration-begin
+	s
+CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2023,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303480
+SUMMARY:Spring 2023 100% Refund Deadline
+DTSTAMP:20220420T144250Z
+DTSTART;VALUE=DATE:20230205
+URL:https://events.nyu.edu/event/303480-spring-2023-100-refund-deadline
+CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2023,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303474
+SUMMARY:Spring 2023 Add/Drop Deadline
+DTSTAMP:20220420T133123Z
+DTSTART;VALUE=DATE:20230205
+URL:https://events.nyu.edu/event/303474-spring-2023-adddrop-deadline
+CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2023,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303481
+SUMMARY:Spring 2023 Withdrawal Period Begins
+DTSTAMP:20220420T144611Z
+DTSTART;VALUE=DATE:20230206
+DESCRIPTION:Classes dropped on or after this date result in a “W” grade on 
+	the student transcript. To withdraw from a class\, students may Request a 
+	<a href="https://www.nyu.edu/students/student-information-and-resources/re
+	gistration-records-and-graduation/albert-help/training/students/registrati
+	on/request-class-withdrawal.html">Class Withdrawal in Albert.</a><br />\nS
+	tudents can no longer be enrolled into a class from a waitlist and waitlis
+	ts are purged.
+URL:https://events.nyu.edu/event/303481-spring-2023-withdrawal-period-begin
+	s
+CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2023,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303482
+SUMMARY:Spring 2023 Census Date
+DTSTAMP:20220420T144808Z
+DTSTART;VALUE=DATE:20230212
+URL:https://events.nyu.edu/event/303482-spring-2023-census-date
+CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2023,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303484
+SUMMARY:Summer 2023 Registration Begins
+DTSTAMP:20220422T130533Z
+DTSTART;VALUE=DATE:20230213
+DESCRIPTION:<table width="490">\n  <tbody>\n    <tr>\n      <td width="490"
+	>\n        Undergraduate and graduate students register at specific appoin
+	tment times.\n      </td>\n    </tr>\n  </tbody>\n</table>
+URL:https://events.nyu.edu/event/303484-summer-2023-registration-begins
+CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2023
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:286064
+SUMMARY:Presidents’ Day
+DTSTAMP:20210318T115904Z
+DTSTART;VALUE=DATE:20230220
+DESCRIPTION:In New York\, no classes are scheduled and University offices a
+	re closed.
+URL:https://events.nyu.edu/event/286064-presidents-day
+CATEGORIES:2022-2023 Academic Year,Spring 2023,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:286065
+SUMMARY:Spring Break
+DTSTAMP:20210318T115833Z
+DTSTART;VALUE=DATE:20230313
+DTEND;VALUE=DATE:20230320
+DESCRIPTION:No classes scheduled
+URL:https://events.nyu.edu/event/286065-spring-break
+CATEGORIES:2022-2023 Academic Year,Spring 2023,StudentLink
+END:VEVENT
+BEGIN:VEVENT
+UID:305762
+SUMMARY:Faculty Deadline for Entering Midterm Grades for Spring 2023
+DTSTAMP:20220815T151449Z
+DTSTART;VALUE=DATE:20230331
+URL:https://events.nyu.edu/event/305762-faculty-deadline-for-entering-midte
+	rm-grades-for
+CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2023,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:304051
+SUMMARY:Spring 2023 Deadline to Request Pass/Fail Grade Option
+DTSTAMP:20220519T123416Z
+DTSTART;VALUE=DATE:20230502
+DESCRIPTION:<p>\n  Last day for students in a school that permits the pass/
+	fail grade option to submit a request.\n</p>
+URL:https://events.nyu.edu/event/304051-spring-2023-deadline-to-request-pas
+	sfail-grade
+CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2023,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:304050
+SUMMARY:Spring 2023 Withdrawal Deadline
+DTSTAMP:20220519T123227Z
+DTSTART;VALUE=DATE:20230502
+DESCRIPTION:<p>\n  Last day for students to submit a request to withdraw fr
+	om a class (or from all classes enrolled for the term). Academic calendars
+	 at global sites may vary\, so students should consult the academic calend
+	ar of their home school study away site.\n</p>
+URL:https://events.nyu.edu/event/304050-spring-2023-withdrawal-deadline
+CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2023,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:286068
+SUMMARY:Last Day of spring 2023 Classes
+DTSTAMP:20210318T115813Z
+DTSTART;VALUE=DATE:20230508
+URL:https://events.nyu.edu/event/286068-last-day-of-spring-2023-classes
+CATEGORIES:2022-2023 Academic Year,Spring 2023,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:286071
+SUMMARY:Reading Day
+DTSTAMP:20210318T115745Z
+DTSTART;VALUE=DATE:20230509
+URL:https://events.nyu.edu/event/286071-reading-day
+CATEGORIES:2022-2023 Academic Year,Spring 2023,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303485
+SUMMARY:Summer 2023 Tuition Payment Deadline
+DTSTAMP:20220421T183612Z
+DTSTART;VALUE=DATE:20230509
+URL:https://events.nyu.edu/event/303485-summer-2023-tuition-payment-deadlin
+	e
+CATEGORIES:2022-2023 Academic Year,Bursar Deadlines,Registration Dates &amp
+	; Deadlines,StudentLink,Summer 2023
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:286072
+SUMMARY:Final Exam Period
+DTSTAMP:20220420T150159Z
+DTSTART;VALUE=DATE:20230510
+DTEND;VALUE=DATE:20230517
+DESCRIPTION:NYU Schools of Medicine\, Law\, Dentistry\, and Graduate Stern 
+	manage different final exam schedules. Refer to school-specific calendars 
+	for these details.
+URL:https://events.nyu.edu/event/286072-final-exam-period
+CATEGORIES:2022-2023 Academic Year,Spring 2023,StudentLink
+END:VEVENT
+BEGIN:VEVENT
+UID:286073
+SUMMARY:Commencement (Tentative)
+DTSTAMP:20210318T115635Z
+DTSTART;VALUE=DATE:20230517
+DESCRIPTION:Please review the Graduation and Diplomas page for more informa
+	tion.
+URL:https://events.nyu.edu/event/286073-commencement-tentative
+CATEGORIES:2022-2023 Academic Year,Spring 2023,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:286074
+SUMMARY:Summer 2023 Classes Begin: 12-Week\, 10-Week\, 7-Week\, First 6-Wee
+	k\, First 3-Week\, and Special Sessions
+DTSTAMP:20220422T131604Z
+DTSTART;VALUE=DATE:20230522
+URL:https://events.nyu.edu/event/286074-summer-2023-classes-begin-12-week-1
+	0-week-7-week
+CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2023
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303486
+SUMMARY:100% Refund Deadline: First 3-Week Session
+DTSTAMP:20220422T131616Z
+DTSTART;VALUE=DATE:20230523
+URL:https://events.nyu.edu/event/303486-100-refund-deadline-first-3-week-se
+	ssion
+CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2023
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303487
+SUMMARY:“Summer 2023 Drop/Add Deadline: First 3-Week Session”
+DTSTAMP:20220422T131628Z
+DTSTART;VALUE=DATE:20230523
+URL:https://events.nyu.edu/event/303487-summer-2023-dropadd-deadline-first-
+	3-week-session
+CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2023
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303564
+SUMMARY:Withdrawal Period Begins: First 3-Week Session
+DTSTAMP:20220421T205801Z
+DTSTART;VALUE=DATE:20230524
+URL:https://events.nyu.edu/event/303564-withdrawal-period-begins-first-3-we
+	ek-session
+CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2023
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303490
+SUMMARY:“100% Refund Deadline: 12-Week\,\,10-Week 7-Week\, and First 6-Week
+	 Sessions”
+DTSTAMP:20220422T131649Z
+DTSTART;VALUE=DATE:20230525
+URL:https://events.nyu.edu/event/303490-100-refund-deadline-12-week10-week-
+	7-week-and
+CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2023
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303489
+SUMMARY:“Summer 2023 Drop/Add Deadline: 12-Week\, 10-Week\, 7-Week\, and Fi
+	rst 6-Week Sessions”
+DTSTAMP:20220422T131710Z
+DTSTART;VALUE=DATE:20230525
+URL:https://events.nyu.edu/event/303489-summer-2023-dropadd-deadline-12-wee
+	k-10-week
+CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2023
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303491
+SUMMARY:Withdrawal Period Begins: 12-Week\, 10-Week. 7-Week\, and First 6-W
+	eek Sessions
+DTSTAMP:20220422T131735Z
+DTSTART;VALUE=DATE:20230526
+URL:https://events.nyu.edu/event/303491-withdrawal-period-begins-12-week-10
+	-week-7-week
+CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2023
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:286075
+SUMMARY:Memorial Day
+DTSTAMP:20220421T183954Z
+DTSTART;VALUE=DATE:20230529
+DESCRIPTION:In New York\, no classes are scheduled and University offices a
+	re closed.
+URL:https://events.nyu.edu/event/286075-memorial-day
+CATEGORIES:2022-2023 Academic Year,StudentLink,Summer 2023
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:286076
+SUMMARY:Legislative Monday
+DTSTAMP:20210303T184809Z
+DTSTART;VALUE=DATE:20230531
+DESCRIPTION:Classes meet according to a Monday schedule.
+URL:https://events.nyu.edu/event/286076-legislative-monday
+CATEGORIES:2022-2023 Academic Year,StudentLink,Summer 2023
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303565
+SUMMARY:Last Day of Summer 2023 Classes: First 3-Week Session
+DTSTAMP:20220421T205943Z
+DTSTART;VALUE=DATE:20230611
+URL:https://events.nyu.edu/event/303565-last-day-of-summer-2023-classes-fir
+	st-3-week
+CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2023
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303530
+SUMMARY:“Summer 2023 Classes Begin: Second 3-Week Session”
+DTSTAMP:20220422T131751Z
+DTSTART;VALUE=DATE:20230612
+URL:https://events.nyu.edu/event/303530-summer-2023-classes-begin-second-3-
+	week-session
+CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2023
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303529
+SUMMARY:“100% Refund Deadline: Second 3-Week Session”
+DTSTAMP:20220422T131810Z
+DTSTART;VALUE=DATE:20230613
+URL:https://events.nyu.edu/event/303529-100-refund-deadline-second-3-week-s
+	ession
+CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2023
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303528
+SUMMARY:“Summer 2023 Drop/Add Deadline: Second 3-Week Session”
+DTSTAMP:20220422T131826Z
+DTSTART;VALUE=DATE:20230613
+URL:https://events.nyu.edu/event/303528-summer-2023-dropadd-deadline-second
+	-3-week-session
+CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2023
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303527
+SUMMARY:“Withdrawal Period Begins: Second 3-Week Session”
+DTSTAMP:20220422T131845Z
+DTSTART;VALUE=DATE:20230614
+URL:https://events.nyu.edu/event/303527-withdrawal-period-begins-second-3-w
+	eek-session
+CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2023
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:286078
+SUMMARY:Juneteenth
+DTSTAMP:20210303T183358Z
+DTSTART;VALUE=DATE:20230619
+DESCRIPTION:In New York\, no classes are scheduled and University offices a
+	re closed.
+URL:https://events.nyu.edu/event/286078-juneteenth
+CATEGORIES:2022-2023 Academic Year,StudentLink,Summer 2023
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:286080
+SUMMARY:Independence Day
+DTSTAMP:20210303T183725Z
+DTSTART;VALUE=DATE:20230704
+DESCRIPTION:In New York\, no classes are scheduled and University offices a
+	re closed.
+URL:https://events.nyu.edu/event/286080-independence-day
+CATEGORIES:2022-2023 Academic Year,StudentLink,Summer 2023
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303526
+SUMMARY:“Last Day of Summer 2023 Classes: First 6-Week and Second 3-Week Se
+	ssions”
+DTSTAMP:20220422T131912Z
+DTSTART;VALUE=DATE:20230705
+URL:https://events.nyu.edu/event/303526-last-day-of-summer-2023-classes-fir
+	st-6-week-and
+CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2023
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303525
+SUMMARY:“Summer 2023 Classes Begin: Second 6-Week and Third 3-Week Sessions
+	”
+DTSTAMP:20220422T131945Z
+DTSTART;VALUE=DATE:20230706
+URL:https://events.nyu.edu/event/303525-summer-2023-classes-begin-second-6-
+	week-and-third
+CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2023
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303523
+SUMMARY:“100% Refund Deadline: Third 3-Week Session”
+DTSTAMP:20220422T132000Z
+DTSTART;VALUE=DATE:20230707
+URL:https://events.nyu.edu/event/303523-100-refund-deadline-third-3-week-se
+	ssion
+CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2023
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303524
+SUMMARY:“Summer 2023 Drop/Add Deadline: Third 3-Week Session”
+DTSTAMP:20220422T132029Z
+DTSTART;VALUE=DATE:20230707
+URL:https://events.nyu.edu/event/303524-summer-2023-dropadd-deadline-third-
+	3-week-session
+CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2023
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303522
+SUMMARY:“Withdrawal Period Begins: Third 3-Week Session”
+DTSTAMP:20220422T132046Z
+DTSTART;VALUE=DATE:20230708
+URL:https://events.nyu.edu/event/303522-withdrawal-period-begins-third-3-we
+	ek-session
+CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2023
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303520
+SUMMARY:“100% Refund Deadline: Second 6-Week Session”
+DTSTAMP:20220422T132119Z
+DTSTART;VALUE=DATE:20230709
+URL:https://events.nyu.edu/event/303520-100-refund-deadline-second-6-week-s
+	ession
+CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2023
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303521
+SUMMARY:“Summer 2023 Drop/Add Deadline: Second 6-Week Session”
+DTSTAMP:20220422T132134Z
+DTSTART;VALUE=DATE:20230709
+URL:https://events.nyu.edu/event/303521-summer-2023-dropadd-deadline-second
+	-6-week-session
+CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2023
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303519
+SUMMARY:Withdrawal Period Begins: Second 6-Week Session
+DTSTAMP:20220422T132146Z
+DTSTART;VALUE=DATE:20230710
+URL:https://events.nyu.edu/event/303519-withdrawal-period-begins-second-6-w
+	eek-session
+CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2023
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303566
+SUMMARY:Last Day of Summer 2023 Classes: 7-Week Session
+DTSTAMP:20220421T210146Z
+DTSTART;VALUE=DATE:20230712
+URL:https://events.nyu.edu/event/303566-last-day-of-summer-2023-classes-7-w
+	eek-session
+CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2023
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303517
+SUMMARY:Last Day of Summer 2023 Classes: Third 3-Week Session
+DTSTAMP:20220422T132208Z
+DTSTART;VALUE=DATE:20230726
+URL:https://events.nyu.edu/event/303517-last-day-of-summer-2023-classes-thi
+	rd-3-week
+CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2023
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303498
+SUMMARY:Summer 2023 Census Date
+DTSTAMP:20220420T164456Z
+DTSTART;VALUE=DATE:20230727
+URL:https://events.nyu.edu/event/303498-summer-2023-census-date
+CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2023
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303567
+SUMMARY:Summer 2023 Classes Begin: Fourth 3-Week Session
+DTSTAMP:20220421T210325Z
+DTSTART;VALUE=DATE:20230727
+URL:https://events.nyu.edu/event/303567-summer-2023-classes-begin-fourth-3-
+	week-session
+CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2023
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303496
+SUMMARY:“100% Refund Deadline: Fourth 3-Week Session”
+DTSTAMP:20220422T131504Z
+DTSTART;VALUE=DATE:20230728
+URL:https://events.nyu.edu/event/303496-100-refund-deadline-fourth-3-week-s
+	ession
+CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2023
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303497
+SUMMARY:“Summer 2023 Drop/Add Deadline: Fourth 3-Week Session”
+DTSTAMP:20220422T131514Z
+DTSTART;VALUE=DATE:20230728
+URL:https://events.nyu.edu/event/303497-summer-2023-dropadd-deadline-fourth
+	-3-week-session
+CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2023
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303494
+SUMMARY:Withdrawal Period Begins: Fourth 3-Week Session
+DTSTAMP:20220420T163610Z
+DTSTART;VALUE=DATE:20230729
+URL:https://events.nyu.edu/event/303494-withdrawal-period-begins-fourth-3-w
+	eek-session
+CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2023
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:304053
+SUMMARY:Summer 2023 Deadline to Request Pass/Fail Grade Option
+DTSTAMP:20220519T123728Z
+DTSTART;VALUE=DATE:20230731
+DESCRIPTION:<p>\n  Last day for students in a school that permits the pass/
+	fail grade option to submit a request.\n</p>
+URL:https://events.nyu.edu/event/304053-summer-2023-deadline-to-request-pas
+	sfail-grade
+CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2023
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:304052
+SUMMARY:Summer 2023 Withdrawal Deadline
+DTSTAMP:20220519T123550Z
+DTSTART;VALUE=DATE:20230731
+DESCRIPTION:<p>\n  Last day for students to submit a request to withdraw fr
+	om a class (or from all classes enrolled for the term). Academic calendars
+	 at global sites may vary\, so students should consult the academic calend
+	ar of their home school study away site.\n</p>
+URL:https://events.nyu.edu/event/304052-summer-2023-withdrawal-deadline
+CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2023
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:303493
+SUMMARY:Last Day of Summer 2023 Classes: 10-Week Session
+DTSTAMP:20220422T131526Z
+DTSTART;VALUE=DATE:20230802
+URL:https://events.nyu.edu/event/303493-last-day-of-summer-2023-classes-10-
+	week-session
+CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2023
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:286082
+SUMMARY:Last Day of Summer 2023 Classes: 12-Week\, Second 6-Week\, Fourth 3
+	-Week\, and the Special Session
+DTSTAMP:20220422T131447Z
+DTSTART;VALUE=DATE:20230816
+URL:https://events.nyu.edu/event/286082-last-day-of-summer-2023-classes-12-
+	week-second
+CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2023
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:286090
+SUMMARY:Labor Day
+DTSTAMP:20210305T182446Z
+DTSTART;VALUE=DATE:20230904
+DESCRIPTION:In New York\, no classes are scheduled and University offices a
+	re closed.
+URL:https://events.nyu.edu/event/286090-labor-day
+CATEGORIES:2023-2024 Academic Year,Fall 2023,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:286091
+SUMMARY:Fall 2023 Classes Begin
+DTSTAMP:20210305T182413Z
+DTSTART;VALUE=DATE:20230905
+URL:https://events.nyu.edu/event/286091-fall-2023-classes-begin
+CATEGORIES:2023-2024 Academic Year,Fall 2023,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:286105
+SUMMARY:Fall Break
+DTSTAMP:20210305T182329Z
+DTSTART;VALUE=DATE:20231009
+DESCRIPTION:No classes scheduled
+URL:https://events.nyu.edu/event/286105-fall-break
+CATEGORIES:2023-2024 Academic Year,Fall 2023,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:286106
+SUMMARY:Legislative Monday
+DTSTAMP:20210305T182245Z
+DTSTART;VALUE=DATE:20231010
+DESCRIPTION:Classes meet according to a Monday schedule.
+URL:https://events.nyu.edu/event/286106-legislative-monday
+CATEGORIES:2023-2024 Academic Year,Fall 2023,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:286107
+SUMMARY:Fall Break
+DTSTAMP:20210305T182206Z
+DTSTART;VALUE=DATE:20231122
+DESCRIPTION:No classes scheduled
+URL:https://events.nyu.edu/event/286107-fall-break
+CATEGORIES:2023-2024 Academic Year,Fall 2023,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:286108
+SUMMARY:Thanksgiving Recess
+DTSTAMP:20210303T193750Z
+DTSTART;VALUE=DATE:20231123
+DTEND;VALUE=DATE:20231125
+DESCRIPTION:In New York\, no classes are scheduled and University offices a
+	re closed.
+URL:https://events.nyu.edu/event/286108-thanksgiving-recess
+CATEGORIES:2023-2024 Academic Year,Fall 2023,StudentLink
+END:VEVENT
+BEGIN:VEVENT
+UID:286109
+SUMMARY:Last Day of Fall 2023 Classes
+DTSTAMP:20210305T182111Z
+DTSTART;VALUE=DATE:20231215
+URL:https://events.nyu.edu/event/286109-last-day-of-fall-2023-classes
+CATEGORIES:2023-2024 Academic Year,Fall 2023,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:292998
+SUMMARY:Reading Day
+DTSTAMP:20210915T161908Z
+DTSTART;VALUE=DATE:20231216
+DTEND;VALUE=DATE:20231218
+URL:https://events.nyu.edu/event/292998-reading-day
+CATEGORIES:2023-2024 Academic Year,Fall 2023,StudentLink
+END:VEVENT
+BEGIN:VEVENT
+UID:292999
+SUMMARY:Final Exam Period
+DTSTAMP:20210915T162522Z
+DTSTART;VALUE=DATE:20231218
+DTEND;VALUE=DATE:20231223
+DESCRIPTION:<span class="event-text event-summary"><span data-sheets-value=
+	"{&quot\;1&quot\;:2\,&quot\;2&quot\;:&quot\;NYU Schools of Medicine\, Law\
+	, Dentistry\, and Graduate Stern manage different final exam schedules. Re
+	fer to school-specific calendars for these details.&quot\;}" data-sheets-u
+	serformat="{&quot\;2&quot\;:15273\,&quot\;3&quot\;:{&quot\;1&quot\;:0}\,&q
+	uot\;6&quot\;:{&quot\;1&quot\;:[{&quot\;1&quot\;:2\,&quot\;2&quot\;:0\,&qu
+	ot\;5&quot\;:[null\,2\,0]}\,{&quot\;1&quot\;:0\,&quot\;2&quot\;:0\,&quot\;
+	3&quot\;:3}\,{&quot\;1&quot\;:1\,&quot\;2&quot\;:0\,&quot\;4&quot\;:1}]}\,
+	&quot\;8&quot\;:{&quot\;1&quot\;:[{&quot\;1&quot\;:2\,&quot\;2&quot\;:0\,&
+	quot\;5&quot\;:[null\,2\,0]}\,{&quot\;1&quot\;:0\,&quot\;2&quot\;:0\,&quot
+	\;3&quot\;:3}\,{&quot\;1&quot\;:1\,&quot\;2&quot\;:0\,&quot\;4&quot\;:1}]}
+	\,&quot\;10&quot\;:1\,&quot\;11&quot\;:4\,&quot\;12&quot\;:0\,&quot\;14&qu
+	ot\;:[null\,2\,0]\,&quot\;15&quot\;:&quot\;Calibri\, sans-serif&quot\;\,&q
+	uot\;16&quot\;:11}">NYU Schools of Medicine\, Law\, Dentistry\, and Gradua
+	te Stern manage different final exam schedules. Refer to school-specific c
+	alendars for these details.</span></span>
+URL:https://events.nyu.edu/event/292999-final-exam-period
+CATEGORIES:2023-2024 Academic Year,Fall 2023,StudentLink
+END:VEVENT
+BEGIN:VEVENT
+UID:293000
+SUMMARY:Winter Recess for Students
+DTSTAMP:20210915T162440Z
+DTSTART;VALUE=DATE:20231223
+DTEND;VALUE=DATE:20240108
+URL:https://events.nyu.edu/event/293000-winter-recess-for-students
+CATEGORIES:2023-2024 Academic Year,Fall 2023,StudentLink
+END:VEVENT
+BEGIN:VEVENT
+UID:286116
+SUMMARY:January Term 2024 classes begin
+DTSTAMP:20210303T194135Z
+DTSTART;VALUE=DATE:20240108
+URL:https://events.nyu.edu/event/286116-january-term-2024-classes-begin
+CATEGORIES:2023-2024 Academic Year,January Term 2024,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:286119
+SUMMARY:Martin Luther King\, Jr. Birthday
+DTSTAMP:20210303T194242Z
+DTSTART;VALUE=DATE:20240115
+DESCRIPTION:In New York\, no classes are scheduled and University offices a
+	re closed.
+URL:https://events.nyu.edu/event/286119-martin-luther-king-jr-birthday
+CATEGORIES:2023-2024 Academic Year,January Term 2024,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:286122
+SUMMARY:Last Day of January Term 2024 Classes
+DTSTAMP:20210303T194405Z
+DTSTART;VALUE=DATE:20240126
+URL:https://events.nyu.edu/event/286122-last-day-of-january-term-2024-class
+	es
+CATEGORIES:2023-2024 Academic Year,January Term 2024,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:286110
+SUMMARY:Spring 2024 class begin
+DTSTAMP:20210303T193753Z
+DTSTART;VALUE=DATE:20240129
+URL:https://events.nyu.edu/event/286110-spring-2024-class-begin
+CATEGORIES:2023-2024 Academic Year,Spring 2024,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:286111
+SUMMARY:Presidents’ Day
+DTSTAMP:20210303T193831Z
+DTSTART;VALUE=DATE:20240219
+DESCRIPTION:<span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;:&q
+	uot\;In New York\, no classes are scheduled and University offices are clo
+	sed.&quot\;}" data-sheets-userformat="{&quot\;2&quot\;:15275\,&quot\;3&quo
+	t\;:{&quot\;1&quot\;:0}\,&quot\;4&quot\;:{&quot\;1&quot\;:2\,&quot\;2&quot
+	\;:13228792}\,&quot\;6&quot\;:{&quot\;1&quot\;:[{&quot\;1&quot\;:2\,&quot\
+	;2&quot\;:0\,&quot\;5&quot\;:[null\,2\,0]}\,{&quot\;1&quot\;:0\,&quot\;2&q
+	uot\;:0\,&quot\;3&quot\;:3}\,{&quot\;1&quot\;:1\,&quot\;2&quot\;:0\,&quot\
+	;4&quot\;:1}]}\,&quot\;8&quot\;:{&quot\;1&quot\;:[{&quot\;1&quot\;:2\,&quo
+	t\;2&quot\;:0\,&quot\;5&quot\;:[null\,2\,0]}\,{&quot\;1&quot\;:0\,&quot\;2
+	&quot\;:0\,&quot\;3&quot\;:3}\,{&quot\;1&quot\;:1\,&quot\;2&quot\;:0\,&quo
+	t\;4&quot\;:1}]}\,&quot\;10&quot\;:1\,&quot\;11&quot\;:4\,&quot\;12&quot\;
+	:0\,&quot\;14&quot\;:[null\,2\,0]\,&quot\;15&quot\;:&quot\;Calibri\, sans-
+	serif&quot\;\,&quot\;16&quot\;:11}">In New York\, no classes are scheduled
+	 and University offices are closed.</span>
+URL:https://events.nyu.edu/event/286111-presidents-day
+CATEGORIES:2023-2024 Academic Year,Spring 2024,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:286112
+SUMMARY:Spring Break
+DTSTAMP:20210303T193911Z
+DTSTART;VALUE=DATE:20240318
+DTEND;VALUE=DATE:20240325
+DESCRIPTION:<span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;:&q
+	uot\;No classes scheduled&quot\;}" data-sheets-userformat="{&quot\;2&quot\
+	;:15339\,&quot\;3&quot\;:{&quot\;1&quot\;:0}\,&quot\;4&quot\;:{&quot\;1&qu
+	ot\;:2\,&quot\;2&quot\;:13228792}\,&quot\;6&quot\;:{&quot\;1&quot\;:[{&quo
+	t\;1&quot\;:2\,&quot\;2&quot\;:0\,&quot\;5&quot\;:[null\,2\,0]}\,{&quot\;1
+	&quot\;:0\,&quot\;2&quot\;:0\,&quot\;3&quot\;:3}\,{&quot\;1&quot\;:1\,&quo
+	t\;2&quot\;:0\,&quot\;4&quot\;:1}]}\,&quot\;8&quot\;:{&quot\;1&quot\;:[{&q
+	uot\;1&quot\;:2\,&quot\;2&quot\;:0\,&quot\;5&quot\;:[null\,2\,0]}\,{&quot\
+	;1&quot\;:0\,&quot\;2&quot\;:0\,&quot\;3&quot\;:3}\,{&quot\;1&quot\;:1\,&q
+	uot\;2&quot\;:0\,&quot\;4&quot\;:1}]}\,&quot\;9&quot\;:0\,&quot\;10&quot\;
+	:1\,&quot\;11&quot\;:4\,&quot\;12&quot\;:0\,&quot\;14&quot\;:[null\,2\,460
+	5510]\,&quot\;15&quot\;:&quot\;Verdana\, sans-serif&quot\;\,&quot\;16&quot
+	\;:9}">No classes scheduled</span>
+URL:https://events.nyu.edu/event/286112-spring-break
+CATEGORIES:2023-2024 Academic Year,Spring 2024,StudentLink
+END:VEVENT
+BEGIN:VEVENT
+UID:286113
+SUMMARY:Last Day of spring 2024 Classes
+DTSTAMP:20210303T193957Z
+DTSTART;VALUE=DATE:20240513
+URL:https://events.nyu.edu/event/286113-last-day-of-spring-2024-classes
+CATEGORIES:2023-2024 Academic Year,Spring 2024,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:286114
+SUMMARY:Reading Day
+DTSTAMP:20210303T194028Z
+DTSTART;VALUE=DATE:20240514
+URL:https://events.nyu.edu/event/286114-reading-day
+CATEGORIES:2023-2024 Academic Year,Spring 2024,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:286115
+SUMMARY:Final Exam Period
+DTSTAMP:20210303T194107Z
+DTSTART;VALUE=DATE:20240515
+DTEND;VALUE=DATE:20240522
+DESCRIPTION:<span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;:&q
+	uot\;NYU Schools of Medicine\, Law\, Dentistry\, and Graduate Stern manage
+	 different final exam schedules. Refer to school-specific calendars for th
+	ese details.&quot\;}" data-sheets-userformat="{&quot\;2&quot\;:15275\,&quo
+	t\;3&quot\;:{&quot\;1&quot\;:0}\,&quot\;4&quot\;:{&quot\;1&quot\;:2\,&quot
+	\;2&quot\;:13228792}\,&quot\;6&quot\;:{&quot\;1&quot\;:[{&quot\;1&quot\;:2
+	\,&quot\;2&quot\;:0\,&quot\;5&quot\;:[null\,2\,0]}\,{&quot\;1&quot\;:0\,&q
+	uot\;2&quot\;:0\,&quot\;3&quot\;:3}\,{&quot\;1&quot\;:1\,&quot\;2&quot\;:0
+	\,&quot\;4&quot\;:1}]}\,&quot\;8&quot\;:{&quot\;1&quot\;:[{&quot\;1&quot\;
+	:2\,&quot\;2&quot\;:0\,&quot\;5&quot\;:[null\,2\,0]}\,{&quot\;1&quot\;:0\,
+	&quot\;2&quot\;:0\,&quot\;3&quot\;:3}\,{&quot\;1&quot\;:1\,&quot\;2&quot\;
+	:0\,&quot\;4&quot\;:1}]}\,&quot\;10&quot\;:1\,&quot\;11&quot\;:4\,&quot\;1
+	2&quot\;:0\,&quot\;14&quot\;:[null\,2\,0]\,&quot\;15&quot\;:&quot\;Calibri
+	\, sans-serif&quot\;\,&quot\;16&quot\;:11}">NYU Schools of Medicine\, Law\
+	, Dentistry\, and Graduate Stern manage different final exam schedules. Re
+	fer to school-specific calendars for these details.</span>
+URL:https://events.nyu.edu/event/286115-final-exam-period
+CATEGORIES:2023-2024 Academic Year,Spring 2024,StudentLink
+END:VEVENT
+BEGIN:VEVENT
+UID:286117
+SUMMARY:Commencement (tentative)
+DTSTAMP:20210303T194153Z
+DTSTART;VALUE=DATE:20240522
+DESCRIPTION:<span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;:&q
+	uot\;Please review the Graduation and Diplomas page for more information.&
+	quot\;}" data-sheets-userformat="{&quot\;2&quot\;:15275\,&quot\;3&quot\;:{
+	&quot\;1&quot\;:0}\,&quot\;4&quot\;:{&quot\;1&quot\;:2\,&quot\;2&quot\;:13
+	228792}\,&quot\;6&quot\;:{&quot\;1&quot\;:[{&quot\;1&quot\;:2\,&quot\;2&qu
+	ot\;:0\,&quot\;5&quot\;:[null\,2\,0]}\,{&quot\;1&quot\;:0\,&quot\;2&quot\;
+	:0\,&quot\;3&quot\;:3}\,{&quot\;1&quot\;:1\,&quot\;2&quot\;:0\,&quot\;4&qu
+	ot\;:1}]}\,&quot\;8&quot\;:{&quot\;1&quot\;:[{&quot\;1&quot\;:2\,&quot\;2&
+	quot\;:0\,&quot\;5&quot\;:[null\,2\,0]}\,{&quot\;1&quot\;:0\,&quot\;2&quot
+	\;:0\,&quot\;3&quot\;:3}\,{&quot\;1&quot\;:1\,&quot\;2&quot\;:0\,&quot\;4&
+	quot\;:1}]}\,&quot\;10&quot\;:1\,&quot\;11&quot\;:4\,&quot\;12&quot\;:0\,&
+	quot\;14&quot\;:[null\,2\,0]\,&quot\;15&quot\;:&quot\;Calibri\, sans-serif
+	&quot\;\,&quot\;16&quot\;:11}">Please review the Graduation and Diplomas p
+	age for more information.</span>
+URL:https://events.nyu.edu/event/286117-commencement-tentative
+CATEGORIES:2023-2024 Academic Year,Spring 2024,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:286118
+SUMMARY:Memorial Day
+DTSTAMP:20210318T114846Z
+DTSTART;VALUE=DATE:20240527
+DESCRIPTION:<span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;:&q
+	uot\;In New York\, no classes are scheduled and University offices are clo
+	sed.&quot\;}" data-sheets-userformat="{&quot\;2&quot\;:15275\,&quot\;3&quo
+	t\;:{&quot\;1&quot\;:0}\,&quot\;4&quot\;:{&quot\;1&quot\;:2\,&quot\;2&quot
+	\;:13228792}\,&quot\;6&quot\;:{&quot\;1&quot\;:[{&quot\;1&quot\;:2\,&quot\
+	;2&quot\;:0\,&quot\;5&quot\;:[null\,2\,0]}\,{&quot\;1&quot\;:0\,&quot\;2&q
+	uot\;:0\,&quot\;3&quot\;:3}\,{&quot\;1&quot\;:1\,&quot\;2&quot\;:0\,&quot\
+	;4&quot\;:1}]}\,&quot\;8&quot\;:{&quot\;1&quot\;:[{&quot\;1&quot\;:2\,&quo
+	t\;2&quot\;:0\,&quot\;5&quot\;:[null\,2\,0]}\,{&quot\;1&quot\;:0\,&quot\;2
+	&quot\;:0\,&quot\;3&quot\;:3}\,{&quot\;1&quot\;:1\,&quot\;2&quot\;:0\,&quo
+	t\;4&quot\;:1}]}\,&quot\;10&quot\;:1\,&quot\;11&quot\;:4\,&quot\;12&quot\;
+	:0\,&quot\;14&quot\;:[null\,2\,0]\,&quot\;15&quot\;:&quot\;Calibri\, sans-
+	serif&quot\;\,&quot\;16&quot\;:11}">In New York\, no classes are scheduled
+	 and University offices are closed.</span>
+URL:https://events.nyu.edu/event/286118-memorial-day
+CATEGORIES:2023-2024 Academic Year,StudentLink,Summer 2024
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:286120
+SUMMARY:Summer 2024 classes begin
+DTSTAMP:20210318T114715Z
+DTSTART;VALUE=DATE:20240528
+URL:https://events.nyu.edu/event/286120-summer-2024-classes-begin
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2024
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:286121
+SUMMARY:Juneteenth
+DTSTAMP:20210318T114835Z
+DTSTART;VALUE=DATE:20240619
+DESCRIPTION:<span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;:&q
+	uot\;In New York\, no classes are scheduled and University offices are clo
+	sed.&quot\;}" data-sheets-userformat="{&quot\;2&quot\;:15275\,&quot\;3&quo
+	t\;:{&quot\;1&quot\;:0}\,&quot\;4&quot\;:{&quot\;1&quot\;:2\,&quot\;2&quot
+	\;:13228792}\,&quot\;6&quot\;:{&quot\;1&quot\;:[{&quot\;1&quot\;:2\,&quot\
+	;2&quot\;:0\,&quot\;5&quot\;:[null\,2\,0]}\,{&quot\;1&quot\;:0\,&quot\;2&q
+	uot\;:0\,&quot\;3&quot\;:3}\,{&quot\;1&quot\;:1\,&quot\;2&quot\;:0\,&quot\
+	;4&quot\;:1}]}\,&quot\;8&quot\;:{&quot\;1&quot\;:[{&quot\;1&quot\;:2\,&quo
+	t\;2&quot\;:0\,&quot\;5&quot\;:[null\,2\,0]}\,{&quot\;1&quot\;:0\,&quot\;2
+	&quot\;:0\,&quot\;3&quot\;:3}\,{&quot\;1&quot\;:1\,&quot\;2&quot\;:0\,&quo
+	t\;4&quot\;:1}]}\,&quot\;10&quot\;:1\,&quot\;11&quot\;:4\,&quot\;12&quot\;
+	:0\,&quot\;14&quot\;:[null\,2\,0]\,&quot\;15&quot\;:&quot\;Calibri\, sans-
+	serif&quot\;\,&quot\;16&quot\;:11}">In New York\, no classes are scheduled
+	 and University offices are closed.</span>
+URL:https://events.nyu.edu/event/286121-juneteenth
+CATEGORIES:2023-2024 Academic Year,StudentLink,Summer 2024
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:286123
+SUMMARY:Independence Day
+DTSTAMP:20210318T114818Z
+DTSTART;VALUE=DATE:20240704
+DESCRIPTION:<span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;:&q
+	uot\;In New York\, no classes are scheduled and University offices are clo
+	sed.&quot\;}" data-sheets-userformat="{&quot\;2&quot\;:15275\,&quot\;3&quo
+	t\;:{&quot\;1&quot\;:0}\,&quot\;4&quot\;:{&quot\;1&quot\;:2\,&quot\;2&quot
+	\;:13228792}\,&quot\;6&quot\;:{&quot\;1&quot\;:[{&quot\;1&quot\;:2\,&quot\
+	;2&quot\;:0\,&quot\;5&quot\;:[null\,2\,0]}\,{&quot\;1&quot\;:0\,&quot\;2&q
+	uot\;:0\,&quot\;3&quot\;:3}\,{&quot\;1&quot\;:1\,&quot\;2&quot\;:0\,&quot\
+	;4&quot\;:1}]}\,&quot\;8&quot\;:{&quot\;1&quot\;:[{&quot\;1&quot\;:2\,&quo
+	t\;2&quot\;:0\,&quot\;5&quot\;:[null\,2\,0]}\,{&quot\;1&quot\;:0\,&quot\;2
+	&quot\;:0\,&quot\;3&quot\;:3}\,{&quot\;1&quot\;:1\,&quot\;2&quot\;:0\,&quo
+	t\;4&quot\;:1}]}\,&quot\;10&quot\;:1\,&quot\;11&quot\;:4\,&quot\;12&quot\;
+	:0\,&quot\;14&quot\;:[null\,2\,0]\,&quot\;15&quot\;:&quot\;Calibri\, sans-
+	serif&quot\;\,&quot\;16&quot\;:11}">In New York\, no classes are scheduled
+	 and University offices are closed.</span>
+URL:https://events.nyu.edu/event/286123-independence-day
+CATEGORIES:2023-2024 Academic Year,StudentLink,Summer 2024
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:286124
+SUMMARY:Legislative Thursday
+DTSTAMP:20210318T114547Z
+DTSTART;VALUE=DATE:20240709
+DESCRIPTION:<span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;:&q
+	uot\;Classes meet according to a Thursday schedule.&quot\;}" data-sheets-u
+	serformat="{&quot\;2&quot\;:15275\,&quot\;3&quot\;:{&quot\;1&quot\;:0}\,&q
+	uot\;4&quot\;:{&quot\;1&quot\;:2\,&quot\;2&quot\;:13228792}\,&quot\;6&quot
+	\;:{&quot\;1&quot\;:[{&quot\;1&quot\;:2\,&quot\;2&quot\;:0\,&quot\;5&quot\
+	;:[null\,2\,0]}\,{&quot\;1&quot\;:0\,&quot\;2&quot\;:0\,&quot\;3&quot\;:3}
+	\,{&quot\;1&quot\;:1\,&quot\;2&quot\;:0\,&quot\;4&quot\;:1}]}\,&quot\;8&qu
+	ot\;:{&quot\;1&quot\;:[{&quot\;1&quot\;:2\,&quot\;2&quot\;:0\,&quot\;5&quo
+	t\;:[null\,2\,0]}\,{&quot\;1&quot\;:0\,&quot\;2&quot\;:0\,&quot\;3&quot\;:
+	3}\,{&quot\;1&quot\;:1\,&quot\;2&quot\;:0\,&quot\;4&quot\;:1}]}\,&quot\;10
+	&quot\;:1\,&quot\;11&quot\;:4\,&quot\;12&quot\;:0\,&quot\;14&quot\;:[null\
+	,2\,0]\,&quot\;15&quot\;:&quot\;Calibri\, sans-serif&quot\;\,&quot\;16&quo
+	t\;:11}">Classes meet according to a Thursday schedule.</span>
+URL:https://events.nyu.edu/event/286124-legislative-thursday
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2024
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:286125
+SUMMARY:Last Day of summer 2024 Classes
+DTSTAMP:20210318T114532Z
+DTSTART;VALUE=DATE:20240821
+URL:https://events.nyu.edu/event/286125-last-day-of-summer-2024-classes
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2024
+DURATION:P1DT
+END:VEVENT
+END:VCALENDAR
