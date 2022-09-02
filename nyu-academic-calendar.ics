@@ -9,30 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:286096
-SUMMARY:Fall 2022 Classes Begin
-DTSTAMP:20211208T214915Z
-DTSTART;VALUE=DATE:20220901
-URL:https://events.nyu.edu/event/286096-fall-2022-classes-begin
-CATEGORIES:2022-2023 Academic Year,Fall 2022,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
-UID:304768
-SUMMARY:REMINDER: Apply for Fall 2022 Graduation
-DTSTAMP:20220807T200928Z
-DTSTART;VALUE=DATE:20220901
-DTEND;VALUE=DATE:20221002
-DESCRIPTION:Students completing their graduation requirements by the end of
-	 Fall 2022/January 2023 semester must Apply for Graduation via Albert.*<br
-	 />\n<em>Though related\, your eligibility for attending All-University Co
-	mmencement and school ceremonies are separate unique processes and more in
-	formation can be found here…</em>
-URL:https://events.nyu.edu/event/304768-reminder-apply-for-fall-2022-gradua
-	tion
-CATEGORIES:2022-2023 Academic Year,Fall 2022,Graduation,StudentLink
-END:VEVENT
-BEGIN:VEVENT
 UID:286097
 SUMMARY:Labor Day
 DTSTAMP:20211208T214915Z
@@ -464,18 +440,6 @@ CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Sprin
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:286061
-SUMMARY:Martin Luther King\, Jr. Birthday
-DTSTAMP:20220422T121359Z
-DTSTART;VALUE=DATE:20230116
-DESCRIPTION:In New York\, no classes are scheduled and University offices a
-	re closed.
-URL:https://events.nyu.edu/event/286061-martin-luther-king-jr-birthday
-CATEGORIES:2022-2023 Academic Year,January Term 2023,Registration Dates &am
-	p; Deadlines,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:303323
 SUMMARY:Martin Luther King\, Jr. Birthday
 DTSTAMP:20220415T143032Z
@@ -484,6 +448,18 @@ DESCRIPTION:<table width="661">\n  <tbody>\n    <tr>\n      <td width="661"
 	>\n        In New York\, no classes are scheduled and University offices a
 	re closed.\n      </td>\n    </tr>\n  </tbody>\n</table>
 URL:https://events.nyu.edu/event/303323-martin-luther-king-jr-birthday
+CATEGORIES:2022-2023 Academic Year,January Term 2023,Registration Dates &am
+	p; Deadlines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:286061
+SUMMARY:Martin Luther King\, Jr. Birthday
+DTSTAMP:20220422T121359Z
+DTSTART;VALUE=DATE:20230116
+DESCRIPTION:In New York\, no classes are scheduled and University offices a
+	re closed.
+URL:https://events.nyu.edu/event/286061-martin-luther-king-jr-birthday
 CATEGORIES:2022-2023 Academic Year,January Term 2023,Registration Dates &am
 	p; Deadlines,StudentLink
 DURATION:P1DT
