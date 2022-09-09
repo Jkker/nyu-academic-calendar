@@ -86,6 +86,17 @@ CATEGORIES:2022-2023 Academic Year,Fall 2022,Registration Dates &amp; Deadl
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:306840
+SUMMARY:Summer 2022 Conferral (September Graduates)
+DTSTAMP:20220909T125851Z
+DTSTART;VALUE=DATE:20220926
+URL:https://events.nyu.edu/event/306840-summer-2022-conferral-september-gra
+	duates
+CATEGORIES:2021-2022 Academic Year,2022-2023 Academic Year,Fall 2022,Gradua
+	tion,StudentLink,Summer 2022
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:304769
 SUMMARY:REMINDER: Apply for Fall 2022 Graduation
 DTSTAMP:20220807T200928Z
