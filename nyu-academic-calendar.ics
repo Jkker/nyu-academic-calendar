@@ -9,18 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:303461
-SUMMARY:Fall 2022 Late Registration Begins
-DTSTAMP:20220421T205124Z
-DTSTART;VALUE=DATE:20220910
-DESCRIPTION:Beginning today students who are Initially registering for fall
-	 2022 classes will incur a late registration fee.
-URL:https://events.nyu.edu/event/303461-fall-2022-late-registration-begins
-CATEGORIES:2022-2023 Academic Year,Fall 2022,Registration Dates &amp; Deadl
-	ines,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:296846
 SUMMARY:Fall 2022 100% Refund Deadline
 DTSTAMP:20211208T214915Z
