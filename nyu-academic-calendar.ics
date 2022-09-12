@@ -417,6 +417,18 @@ CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Sprin
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:286061
+SUMMARY:Martin Luther King\, Jr. Birthday
+DTSTAMP:20220422T121359Z
+DTSTART;VALUE=DATE:20230116
+DESCRIPTION:In New York\, no classes are scheduled and University offices a
+	re closed.
+URL:https://events.nyu.edu/event/286061-martin-luther-king-jr-birthday
+CATEGORIES:2022-2023 Academic Year,January Term 2023,Registration Dates &am
+	p; Deadlines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:303323
 SUMMARY:Martin Luther King\, Jr. Birthday
 DTSTAMP:20220415T143032Z
@@ -425,18 +437,6 @@ DESCRIPTION:<table width="661">\n  <tbody>\n    <tr>\n      <td width="661"
 	>\n        In New York\, no classes are scheduled and University offices a
 	re closed.\n      </td>\n    </tr>\n  </tbody>\n</table>
 URL:https://events.nyu.edu/event/303323-martin-luther-king-jr-birthday
-CATEGORIES:2022-2023 Academic Year,January Term 2023,Registration Dates &am
-	p; Deadlines,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
-UID:286061
-SUMMARY:Martin Luther King\, Jr. Birthday
-DTSTAMP:20220422T121359Z
-DTSTART;VALUE=DATE:20230116
-DESCRIPTION:In New York\, no classes are scheduled and University offices a
-	re closed.
-URL:https://events.nyu.edu/event/286061-martin-luther-king-jr-birthday
 CATEGORIES:2022-2023 Academic Year,January Term 2023,Registration Dates &am
 	p; Deadlines,StudentLink
 DURATION:P1DT
@@ -501,6 +501,17 @@ DTSTART;VALUE=DATE:20230120
 URL:https://events.nyu.edu/event/286062-last-day-of-january-term-2023-class
 	es
 CATEGORIES:2022-2023 Academic Year,January Term 2023,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:306965
+SUMMARY:Monday\, January 23rd - Fall 2022 Conferral (January Graduates)
+DTSTAMP:20220912T214951Z
+DTSTART;VALUE=DATE:20230123
+URL:https://events.nyu.edu/event/306965-monday-january-23rd-fall-2022-confe
+	rral-january
+CATEGORIES:2022-2023 Academic Year,Fall 2022,Graduation,January Term 2023,R
+	egistration Dates &amp; Deadlines,StudentLink
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
@@ -695,6 +706,17 @@ DESCRIPTION:Please review the Graduation and Diplomas page for more informa
 	tion.
 URL:https://events.nyu.edu/event/286073-commencement-tentative
 CATEGORIES:2022-2023 Academic Year,Spring 2023,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:306966
+SUMMARY:Wednesday\, May 17th - Spring 2022 Conferral (May Graduates)
+DTSTAMP:20220912T215204Z
+DTSTART;VALUE=DATE:20230517
+URL:https://events.nyu.edu/event/306966-wednesday-may-17th-spring-2022-conf
+	erral-may
+CATEGORIES:2022-2023 Academic Year,Graduation,Registration Dates &amp; Dead
+	lines,Spring 2023,StudentLink
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
@@ -1113,6 +1135,18 @@ CATEGORIES:2023-2024 Academic Year,Fall 2023,StudentLink
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:306967
+SUMMARY:Monday\, September 25th - Summer 2022 Conferral (September Graduate
+	s)
+DTSTAMP:20220912T215541Z
+DTSTART;VALUE=DATE:20230925
+URL:https://events.nyu.edu/event/306967-monday-september-25th-summer-2022-c
+	onferral
+CATEGORIES:2022-2023 Academic Year,Fall 2023,Graduation,Registration Dates 
+	&amp; Deadlines,StudentLink,Summer 2023
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:286105
 SUMMARY:Fall Break
 DTSTAMP:20210305T182329Z
@@ -1226,6 +1260,17 @@ CATEGORIES:2023-2024 Academic Year,January Term 2024,StudentLink
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:306968
+SUMMARY:Monday\, January 22nd - Fall 2023 Conferral (January Graduates)
+DTSTAMP:20220912T215743Z
+DTSTART;VALUE=DATE:20240122
+URL:https://events.nyu.edu/event/306968-monday-january-22nd-fall-2023-confe
+	rral-january
+CATEGORIES:2023-2024 Academic Year,Fall 2023,Graduation,January Term 2024,R
+	egistration Dates &amp; Deadlines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:286122
 SUMMARY:Last Day of January Term 2024 Classes
 DTSTAMP:20210303T194405Z
@@ -1331,6 +1376,17 @@ DESCRIPTION:<span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;:&q
 	fer to school-specific calendars for these details.</span>
 URL:https://events.nyu.edu/event/286115-final-exam-period
 CATEGORIES:2023-2024 Academic Year,Spring 2024,StudentLink
+END:VEVENT
+BEGIN:VEVENT
+UID:306969
+SUMMARY:Wednesday\, May 15th - Spring 2023 Conferral (May Graduates)
+DTSTAMP:20220912T215902Z
+DTSTART;VALUE=DATE:20240515
+URL:https://events.nyu.edu/event/306969-wednesday-may-15th-spring-2023-conf
+	erral-may
+CATEGORIES:2023-2024 Academic Year,Graduation,Registration Dates &amp; Dead
+	lines,Spring 2024,StudentLink
+DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
 UID:286117
@@ -1465,6 +1521,18 @@ DTSTART;VALUE=DATE:20240821
 URL:https://events.nyu.edu/event/286125-last-day-of-summer-2024-classes
 CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2024
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:306970
+SUMMARY:Monday\, September 23rd - Summer 2023 Conferral (September Graduate
+	s)
+DTSTAMP:20220912T220034Z
+DTSTART;VALUE=DATE:20240923
+URL:https://events.nyu.edu/event/306970-monday-september-23rd-summer-2023-c
+	onferral
+CATEGORIES:2023-2024 Academic Year,Graduation,Registration Dates &amp; Dead
+	lines,StudentLink,Summer 2024
 DURATION:P1DT
 END:VEVENT
 END:VCALENDAR
