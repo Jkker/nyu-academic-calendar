@@ -9,33 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:296846
-SUMMARY:Fall 2022 100% Refund Deadline
-DTSTAMP:20211208T214915Z
-DTSTART;VALUE=DATE:20220914
-DESCRIPTION:Tuition and fees for individual classes dropped on or before th
-	is date will be refunded 100% for students who remain enrolled in at least
-	 one class. For term and/or total withdrawal refund information\, refer to
-	 the Refund Schedule for Complete Withdrawal on the <a href="https://www.n
-	yu.edu/students/student-information-and-resources/bills-payments-and-refun
-	ds/refunds-and-withdrawals/dropping-classes.html">Bursar’s website</a>. &#
-	160\;
-URL:https://events.nyu.edu/event/296846-fall-2022-100-refund-deadline
-CATEGORIES:2022-2023 Academic Year,Fall 2022,Registration Dates &amp; Deadl
-	ines,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
-UID:296845
-SUMMARY:Fall 2022 Add/Drop Deadline
-DTSTAMP:20211208T214915Z
-DTSTART;VALUE=DATE:20220914
-URL:https://events.nyu.edu/event/296845-fall-2022-adddrop-deadline
-CATEGORIES:2022-2023 Academic Year,Fall 2022,Registration Dates &amp; Deadl
-	ines,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:296847
 SUMMARY:Fall 2022 Withdrawal Period Begins
 DTSTAMP:20211208T214915Z
