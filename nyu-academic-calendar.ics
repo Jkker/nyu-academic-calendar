@@ -9,17 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:303462
-SUMMARY:January Term 2023 Class Schedule Published
-DTSTAMP:20220422T123213Z
-DTSTART;VALUE=DATE:20220919
-URL:https://events.nyu.edu/event/303462-january-term-2023-class-schedule-pu
-	blished
-CATEGORIES:2022-2023 Academic Year,January Term 2023,Registration Dates &am
-	p; Deadlines,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:296848
 SUMMARY:Fall 2022 Census Date
 DTSTAMP:20211208T214915Z
