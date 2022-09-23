@@ -11,7 +11,7 @@ X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:306840
 SUMMARY:Summer 2022 Conferral (September Graduates)
-DTSTAMP:20220909T125851Z
+DTSTAMP:20220923T202906Z
 DTSTART;VALUE=DATE:20220926
 URL:https://events.nyu.edu/event/306840-summer-2022-conferral-september-gra
 	duates
@@ -440,11 +440,11 @@ DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
 UID:306965
-SUMMARY:Monday\, January 23rd - Fall 2022 Conferral (January Graduates)
-DTSTAMP:20220912T214951Z
+SUMMARY:Fall 2022 Conferral (January Graduates)
+DTSTAMP:20220923T202621Z
 DTSTART;VALUE=DATE:20230123
-URL:https://events.nyu.edu/event/306965-monday-january-23rd-fall-2022-confe
-	rral-january
+URL:https://events.nyu.edu/event/306965-fall-2022-conferral-january-graduat
+	es
 CATEGORIES:2022-2023 Academic Year,Fall 2022,Graduation,January Term 2023,R
 	egistration Dates &amp; Deadlines,StudentLink
 DURATION:P1DT
@@ -645,11 +645,10 @@ DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
 UID:306966
-SUMMARY:Wednesday\, May 17th - Spring 2022 Conferral (May Graduates)
-DTSTAMP:20220912T215204Z
+SUMMARY:Spring 2023 Conferral (May Graduates)
+DTSTAMP:20220923T202919Z
 DTSTART;VALUE=DATE:20230517
-URL:https://events.nyu.edu/event/306966-wednesday-may-17th-spring-2022-conf
-	erral-may
+URL:https://events.nyu.edu/event/306966-spring-2023-conferral-may-graduates
 CATEGORIES:2022-2023 Academic Year,Graduation,Registration Dates &amp; Dead
 	lines,Spring 2023,StudentLink
 DURATION:P1DT
@@ -1071,12 +1070,11 @@ DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
 UID:306967
-SUMMARY:Monday\, September 25th - Summer 2022 Conferral (September Graduate
-	s)
-DTSTAMP:20220912T215541Z
+SUMMARY:Summer 2023 Conferral (September Graduates)
+DTSTAMP:20220923T202942Z
 DTSTART;VALUE=DATE:20230925
-URL:https://events.nyu.edu/event/306967-monday-september-25th-summer-2022-c
-	onferral
+URL:https://events.nyu.edu/event/306967-summer-2023-conferral-september-gra
+	duates
 CATEGORIES:2022-2023 Academic Year,Fall 2023,Graduation,Registration Dates 
 	&amp; Deadlines,StudentLink,Summer 2023
 DURATION:P1DT
@@ -1196,11 +1194,11 @@ DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
 UID:306968
-SUMMARY:Monday\, January 22nd - Fall 2023 Conferral (January Graduates)
-DTSTAMP:20220912T215743Z
+SUMMARY:Fall 2023 Conferral (January Graduates)
+DTSTAMP:20220923T202641Z
 DTSTART;VALUE=DATE:20240122
-URL:https://events.nyu.edu/event/306968-monday-january-22nd-fall-2023-confe
-	rral-january
+URL:https://events.nyu.edu/event/306968-fall-2023-conferral-january-graduat
+	es
 CATEGORIES:2023-2024 Academic Year,Fall 2023,Graduation,January Term 2024,R
 	egistration Dates &amp; Deadlines,StudentLink
 DURATION:P1DT
@@ -1337,11 +1335,10 @@ DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
 UID:306969
-SUMMARY:Wednesday\, May 15th - Spring 2023 Conferral (May Graduates)
-DTSTAMP:20220923T194857Z
+SUMMARY:Spring 2024 Conferral (May Graduates)
+DTSTAMP:20220923T203030Z
 DTSTART;VALUE=DATE:20240522
-URL:https://events.nyu.edu/event/306969-wednesday-may-15th-spring-2023-conf
-	erral-may
+URL:https://events.nyu.edu/event/306969-spring-2024-conferral-may-graduates
 CATEGORIES:2023-2024 Academic Year,Graduation,Registration Dates &amp; Dead
 	lines,Spring 2024,StudentLink
 DURATION:P1DT
@@ -1460,12 +1457,11 @@ DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
 UID:306970
-SUMMARY:Monday\, September 23rd - Summer 2023 Conferral (September Graduate
-	s)
-DTSTAMP:20220912T220034Z
+SUMMARY:Summer 2024 Conferral (September Graduates)
+DTSTAMP:20220923T203010Z
 DTSTART;VALUE=DATE:20240923
-URL:https://events.nyu.edu/event/306970-monday-september-23rd-summer-2023-c
-	onferral
+URL:https://events.nyu.edu/event/306970-summer-2024-conferral-september-gra
+	duates
 CATEGORIES:2023-2024 Academic Year,Graduation,Registration Dates &amp; Dead
 	lines,StudentLink,Summer 2024
 DURATION:P1DT
