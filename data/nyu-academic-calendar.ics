@@ -1313,17 +1313,6 @@ URL:https://events.nyu.edu/event/286115-final-exam-period
 CATEGORIES:2023-2024 Academic Year,Spring 2024,StudentLink
 END:VEVENT
 BEGIN:VEVENT
-UID:306969
-SUMMARY:Wednesday\, May 15th - Spring 2023 Conferral (May Graduates)
-DTSTAMP:20220912T215902Z
-DTSTART;VALUE=DATE:20240515
-URL:https://events.nyu.edu/event/306969-wednesday-may-15th-spring-2023-conf
-	erral-may
-CATEGORIES:2023-2024 Academic Year,Graduation,Registration Dates &amp; Dead
-	lines,Spring 2024,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:286117
 SUMMARY:Commencement (tentative)
 DTSTAMP:20210303T194153Z
@@ -1344,6 +1333,17 @@ DESCRIPTION:<span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;:&q
 	age for more information.</span>
 URL:https://events.nyu.edu/event/286117-commencement-tentative
 CATEGORIES:2023-2024 Academic Year,Spring 2024,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:306969
+SUMMARY:Wednesday\, May 15th - Spring 2023 Conferral (May Graduates)
+DTSTAMP:20220923T194857Z
+DTSTART;VALUE=DATE:20240522
+URL:https://events.nyu.edu/event/306969-wednesday-may-15th-spring-2023-conf
+	erral-may
+CATEGORIES:2023-2024 Academic Year,Graduation,Registration Dates &amp; Dead
+	lines,Spring 2024,StudentLink
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
