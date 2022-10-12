@@ -9,28 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:286099
-SUMMARY:Legislative Monday
-DTSTAMP:20211208T214915Z
-DTSTART;VALUE=DATE:20221011
-DESCRIPTION:<span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;:&q
-	uot\;Classes meet according to a Monday schedule.&quot\;}" data-sheets-use
-	rformat="{&quot\;2&quot\;:15337\,&quot\;3&quot\;:{&quot\;1&quot\;:0}\,&quo
-	t\;6&quot\;:{&quot\;1&quot\;:[{&quot\;1&quot\;:2\,&quot\;2&quot\;:0\,&quot
-	\;5&quot\;:[null\,2\,0]}\,{&quot\;1&quot\;:0\,&quot\;2&quot\;:0\,&quot\;3&
-	quot\;:3}\,{&quot\;1&quot\;:1\,&quot\;2&quot\;:0\,&quot\;4&quot\;:1}]}\,&q
-	uot\;8&quot\;:{&quot\;1&quot\;:[{&quot\;1&quot\;:2\,&quot\;2&quot\;:0\,&qu
-	ot\;5&quot\;:[null\,2\,0]}\,{&quot\;1&quot\;:0\,&quot\;2&quot\;:0\,&quot\;
-	3&quot\;:3}\,{&quot\;1&quot\;:1\,&quot\;2&quot\;:0\,&quot\;4&quot\;:1}]}\,
-	&quot\;9&quot\;:0\,&quot\;10&quot\;:1\,&quot\;11&quot\;:4\,&quot\;12&quot\
-	;:0\,&quot\;14&quot\;:[null\,2\,0]\,&quot\;15&quot\;:&quot\;Calibri\, sans
-	-serif&quot\;\,&quot\;16&quot\;:11}">Classes meet according to a Monday sc
-	hedule.</span>
-URL:https://events.nyu.edu/event/286099-legislative-monday
-CATEGORIES:2022-2023 Academic Year,Fall 2022,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:304770
 SUMMARY:Last Day to Apply for Fall 2022 Graduation
 DTSTAMP:20220701T050422Z
