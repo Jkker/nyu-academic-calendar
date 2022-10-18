@@ -9,30 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:303463
-SUMMARY:January Term 2023 Registration Begins
-DTSTAMP:20220420T125235Z
-DTSTART;VALUE=DATE:20221017
-DESCRIPTION:Undergraduate and graduate students register at specific appoin
-	tment times.
-URL:https://events.nyu.edu/event/303463-january-term-2023-registration-begi
-	ns
-CATEGORIES:2022-2023 Academic Year,January Term 2023,Registration Dates &am
-	p; Deadlines,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
-UID:303469
-SUMMARY:Spring 2023 Class Schedule Published
-DTSTAMP:20220420T130214Z
-DTSTART;VALUE=DATE:20221017
-URL:https://events.nyu.edu/event/303469-spring-2023-class-schedule-publishe
-	d
-CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Sprin
-	g 2023,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:305761
 SUMMARY:Faculty Deadline for Entering Midterm Grades for Fall 2022
 DTSTAMP:20220815T151320Z
