@@ -287,18 +287,6 @@ CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Sprin
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:286061
-SUMMARY:Martin Luther King\, Jr. Birthday
-DTSTAMP:20220422T121359Z
-DTSTART;VALUE=DATE:20230116
-DESCRIPTION:In New York\, no classes are scheduled and University offices a
-	re closed.
-URL:https://events.nyu.edu/event/286061-martin-luther-king-jr-birthday
-CATEGORIES:2022-2023 Academic Year,January Term 2023,Registration Dates &am
-	p; Deadlines,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:303323
 SUMMARY:Martin Luther King\, Jr. Birthday
 DTSTAMP:20220415T143032Z
@@ -307,6 +295,18 @@ DESCRIPTION:<table width="661">\n  <tbody>\n    <tr>\n      <td width="661"
 	>\n        In New York\, no classes are scheduled and University offices a
 	re closed.\n      </td>\n    </tr>\n  </tbody>\n</table>
 URL:https://events.nyu.edu/event/303323-martin-luther-king-jr-birthday
+CATEGORIES:2022-2023 Academic Year,January Term 2023,Registration Dates &am
+	p; Deadlines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:286061
+SUMMARY:Martin Luther King\, Jr. Birthday
+DTSTAMP:20220422T121359Z
+DTSTART;VALUE=DATE:20230116
+DESCRIPTION:In New York\, no classes are scheduled and University offices a
+	re closed.
+URL:https://events.nyu.edu/event/286061-martin-luther-king-jr-birthday
 CATEGORIES:2022-2023 Academic Year,January Term 2023,Registration Dates &am
 	p; Deadlines,StudentLink
 DURATION:P1DT
@@ -480,6 +480,21 @@ DESCRIPTION:<table width="490">\n  <tbody>\n    <tr>\n      <td width="490"
 URL:https://events.nyu.edu/event/303484-summer-2023-registration-begins
 CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2023
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:310402
+SUMMARY:Last Day to Apply for Spring 2023 Graduation
+DTSTAMP:20221031T222749Z
+DTSTART;VALUE=DATE:20230215
+DESCRIPTION:<em>Students completing their graduation requirements by the en
+	d of Spring 2023 term must Apply for Graduation via Albert.*<br />\nThough
+	 related\, your eligibility for attending All-University Commencement and 
+	school ceremonies are separate unique processes and more information can b
+	e found here…</em>
+URL:https://events.nyu.edu/event/310402-last-day-to-apply-for-spring-2023-g
+	raduation
+CATEGORIES:2022-2023 Academic Year,Graduation,Spring 2023,StudentLink
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
