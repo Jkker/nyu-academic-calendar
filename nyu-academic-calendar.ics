@@ -11,16 +11,18 @@ X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:310279
 SUMMARY:Apply for Spring 2023 Graduation
-DTSTAMP:20221028T130338Z
+DTSTAMP:20221101T121600Z
 DTSTART;VALUE=DATE:20221101
 DTEND;VALUE=DATE:20230202
 DESCRIPTION:Students completing their graduation requirements by the end of
-	 Spring 2023 semester must Apply for Graduation via Albert.*<br />\n<em>Th
-	ough related\, your eligibility for attending All-University Commencement 
-	and school ceremonies are separate unique processes and more information c
-	an be found here…</em>
+	 Spring 2023 semester must Apply for Graduation via Albert.* If you are ta
+	king summer courses you must apply for Summer Graduation in March.<br />\n
+	<em>Though related\, your eligibility for attending All-University Commenc
+	ement and school ceremonies are separate unique processes and more informa
+	tion can be found here…</em>
 URL:https://events.nyu.edu/event/310279-apply-for-spring-2023-graduation
-CATEGORIES:2022-2023 Academic Year,Graduation,Spring 2023,StudentLink
+CATEGORIES:2022-2023 Academic Year,Fall 2022,Graduation,Spring 2023,Student
+	Link
 END:VEVENT
 BEGIN:VEVENT
 UID:305761
@@ -36,13 +38,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:303470
 SUMMARY:Spring 2023 Registration Begins
-DTSTAMP:20220420T132637Z
+DTSTAMP:20221101T122407Z
 DTSTART;VALUE=DATE:20221114
 DESCRIPTION:Undergraduate and graduate students register at specific appoin
 	tment times.
 URL:https://events.nyu.edu/event/303470-spring-2023-registration-begins
-CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Sprin
-	g 2023,StudentLink
+CATEGORIES:2022-2023 Academic Year,Fall 2022,Registration Dates &amp; Deadl
+	ines,Spring 2023,StudentLink
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
@@ -102,17 +104,19 @@ END:VEVENT
 BEGIN:VEVENT
 UID:310280
 SUMMARY:REMINDER: Apply for Spring 2023 Graduation
-DTSTAMP:20221028T130457Z
+DTSTAMP:20221101T121600Z
 DTSTART;VALUE=DATE:20221201
 DTEND;VALUE=DATE:20230202
 DESCRIPTION:Students completing their graduation requirements by the end of
-	 Spring 2023 semester must Apply for Graduation via Albert.*<br />\n<em>Th
-	ough related\, your eligibility for attending All-University Commencement 
-	and school ceremonies are separate unique processes and more information c
-	an be found here…</em>
+	 Spring 2023 semester must Apply for Graduation via Albert.* If you are ta
+	king summer courses you must apply for Summer Graduation in March.<br />\n
+	<em>Though related\, your eligibility for attending All-University Commenc
+	ement and school ceremonies are separate unique processes and more informa
+	tion can be found here…</em>
 URL:https://events.nyu.edu/event/310280-reminder-apply-for-spring-2023-grad
 	uation
-CATEGORIES:2022-2023 Academic Year,Graduation,Spring 2023,StudentLink
+CATEGORIES:2022-2023 Academic Year,Fall 2022,Graduation,Spring 2023,Student
+	Link
 END:VEVENT
 BEGIN:VEVENT
 UID:304030
@@ -186,26 +190,28 @@ END:VEVENT
 BEGIN:VEVENT
 UID:286354
 SUMMARY:Winter Recess for Students
-DTSTAMP:20211110T204927Z
+DTSTAMP:20221101T121004Z
 DTSTART;VALUE=DATE:20221223
-DTEND;VALUE=DATE:20230102
+DTEND;VALUE=DATE:20230103
 URL:https://events.nyu.edu/event/286354-winter-recess-for-students
 CATEGORIES:2022-2023 Academic Year,Fall 2022,StudentLink
 END:VEVENT
 BEGIN:VEVENT
 UID:310281
 SUMMARY:REMINDER: Apply for Spring 2023 Graduation
-DTSTAMP:20221028T130457Z
+DTSTAMP:20221101T121600Z
 DTSTART;VALUE=DATE:20230101
 DTEND;VALUE=DATE:20230202
 DESCRIPTION:Students completing their graduation requirements by the end of
-	 Spring 2023 semester must Apply for Graduation via Albert.*<br />\n<em>Th
-	ough related\, your eligibility for attending All-University Commencement 
-	and school ceremonies are separate unique processes and more information c
-	an be found here…</em>
+	 Spring 2023 semester must Apply for Graduation via Albert.* If you are ta
+	king summer courses you must apply for Summer Graduation in March.<br />\n
+	<em>Though related\, your eligibility for attending All-University Commenc
+	ement and school ceremonies are separate unique processes and more informa
+	tion can be found here…</em>
 URL:https://events.nyu.edu/event/310281-reminder-apply-for-spring-2023-grad
 	uation
-CATEGORIES:2022-2023 Academic Year,Graduation,Spring 2023,StudentLink
+CATEGORIES:2022-2023 Academic Year,Fall 2022,Graduation,Spring 2023,Student
+	Link
 END:VEVENT
 BEGIN:VEVENT
 UID:305659
@@ -396,17 +402,19 @@ END:VEVENT
 BEGIN:VEVENT
 UID:310282
 SUMMARY:REMINDER: Apply for Spring 2023 Graduation
-DTSTAMP:20221028T130457Z
+DTSTAMP:20221101T121600Z
 DTSTART;VALUE=DATE:20230201
 DTEND;VALUE=DATE:20230202
 DESCRIPTION:Students completing their graduation requirements by the end of
-	 Spring 2023 semester must Apply for Graduation via Albert.*<br />\n<em>Th
-	ough related\, your eligibility for attending All-University Commencement 
-	and school ceremonies are separate unique processes and more information c
-	an be found here…</em>
+	 Spring 2023 semester must Apply for Graduation via Albert.* If you are ta
+	king summer courses you must apply for Summer Graduation in March.<br />\n
+	<em>Though related\, your eligibility for attending All-University Commenc
+	ement and school ceremonies are separate unique processes and more informa
+	tion can be found here…</em>
 URL:https://events.nyu.edu/event/310282-reminder-apply-for-spring-2023-grad
 	uation
-CATEGORIES:2022-2023 Academic Year,Graduation,Spring 2023,StudentLink
+CATEGORIES:2022-2023 Academic Year,Fall 2022,Graduation,Spring 2023,Student
+	Link
 END:VEVENT
 BEGIN:VEVENT
 UID:303473
