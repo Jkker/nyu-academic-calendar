@@ -9,22 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:310279
-SUMMARY:Apply for Spring 2023 Graduation
-DTSTAMP:20221101T121600Z
-DTSTART;VALUE=DATE:20221101
-DTEND;VALUE=DATE:20230202
-DESCRIPTION:Students completing their graduation requirements by the end of
-	 Spring 2023 semester must Apply for Graduation via Albert.* If you are ta
-	king summer courses you must apply for Summer Graduation in March.<br />\n
-	<em>Though related\, your eligibility for attending All-University Commenc
-	ement and school ceremonies are separate unique processes and more informa
-	tion can be found here…</em>
-URL:https://events.nyu.edu/event/310279-apply-for-spring-2023-graduation
-CATEGORIES:2022-2023 Academic Year,Fall 2022,Graduation,Spring 2023,Student
-	Link
-END:VEVENT
-BEGIN:VEVENT
 UID:305761
 SUMMARY:Faculty Deadline for Entering Midterm Grades for Fall 2022
 DTSTAMP:20220815T151320Z
