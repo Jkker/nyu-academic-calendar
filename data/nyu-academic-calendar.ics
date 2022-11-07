@@ -580,12 +580,12 @@ CATEGORIES:2022-2023 Academic Year,Spring 2023,StudentLink
 END:VEVENT
 BEGIN:VEVENT
 UID:286073
-SUMMARY:Commencement (Tentative)
-DTSTAMP:20210318T115635Z
+SUMMARY:Commencement
+DTSTAMP:20221107T213036Z
 DTSTART;VALUE=DATE:20230517
 DESCRIPTION:Please review the Graduation and Diplomas page for more informa
 	tion.
-URL:https://events.nyu.edu/event/286073-commencement-tentative
+URL:https://events.nyu.edu/event/286073-commencement
 CATEGORIES:2022-2023 Academic Year,Spring 2023,StudentLink
 DURATION:P1DT
 END:VEVENT
