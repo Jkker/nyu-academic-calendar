@@ -9,28 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:286101
-SUMMARY:Thanksgiving Recess
-DTSTAMP:20211208T214915Z
-DTSTART;VALUE=DATE:20221124
-DTEND;VALUE=DATE:20221126
-DESCRIPTION:<span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;:&q
-	uot\;In New York\, no classes are scheduled and University offices are clo
-	sed.&quot\;}" data-sheets-userformat="{&quot\;2&quot\;:15337\,&quot\;3&quo
-	t\;:{&quot\;1&quot\;:0}\,&quot\;6&quot\;:{&quot\;1&quot\;:[{&quot\;1&quot\
-	;:2\,&quot\;2&quot\;:0\,&quot\;5&quot\;:[null\,2\,0]}\,{&quot\;1&quot\;:0\
-	,&quot\;2&quot\;:0\,&quot\;3&quot\;:3}\,{&quot\;1&quot\;:1\,&quot\;2&quot\
-	;:0\,&quot\;4&quot\;:1}]}\,&quot\;8&quot\;:{&quot\;1&quot\;:[{&quot\;1&quo
-	t\;:2\,&quot\;2&quot\;:0\,&quot\;5&quot\;:[null\,2\,0]}\,{&quot\;1&quot\;:
-	0\,&quot\;2&quot\;:0\,&quot\;3&quot\;:3}\,{&quot\;1&quot\;:1\,&quot\;2&quo
-	t\;:0\,&quot\;4&quot\;:1}]}\,&quot\;9&quot\;:0\,&quot\;10&quot\;:1\,&quot\
-	;11&quot\;:4\,&quot\;12&quot\;:0\,&quot\;14&quot\;:[null\,2\,0]\,&quot\;15
-	&quot\;:&quot\;Calibri\, sans-serif&quot\;\,&quot\;16&quot\;:11}">In New Y
-	ork\, no classes are scheduled and University offices are closed.</span>
-URL:https://events.nyu.edu/event/286101-thanksgiving-recess
-CATEGORIES:2022-2023 Academic Year,Fall 2022,StudentLink
-END:VEVENT
-BEGIN:VEVENT
 UID:303464
 SUMMARY:The January Term Tuition Payment is due
 DTSTAMP:20220420T125356Z
@@ -234,18 +212,6 @@ CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Sprin
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:286061
-SUMMARY:Martin Luther King\, Jr. Birthday
-DTSTAMP:20220422T121359Z
-DTSTART;VALUE=DATE:20230116
-DESCRIPTION:In New York\, no classes are scheduled and University offices a
-	re closed.
-URL:https://events.nyu.edu/event/286061-martin-luther-king-jr-birthday
-CATEGORIES:2022-2023 Academic Year,January Term 2023,Registration Dates &am
-	p; Deadlines,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:303323
 SUMMARY:Martin Luther King\, Jr. Birthday
 DTSTAMP:20220415T143032Z
@@ -254,6 +220,18 @@ DESCRIPTION:<table width="661">\n  <tbody>\n    <tr>\n      <td width="661"
 	>\n        In New York\, no classes are scheduled and University offices a
 	re closed.\n      </td>\n    </tr>\n  </tbody>\n</table>
 URL:https://events.nyu.edu/event/303323-martin-luther-king-jr-birthday
+CATEGORIES:2022-2023 Academic Year,January Term 2023,Registration Dates &am
+	p; Deadlines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:286061
+SUMMARY:Martin Luther King\, Jr. Birthday
+DTSTAMP:20220422T121359Z
+DTSTART;VALUE=DATE:20230116
+DESCRIPTION:In New York\, no classes are scheduled and University offices a
+	re closed.
+URL:https://events.nyu.edu/event/286061-martin-luther-king-jr-birthday
 CATEGORIES:2022-2023 Academic Year,January Term 2023,Registration Dates &am
 	p; Deadlines,StudentLink
 DURATION:P1DT
