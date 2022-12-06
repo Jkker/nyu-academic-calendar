@@ -9,34 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:304030
-SUMMARY:Fall 2022 Deadline to Request Pass/Fail Grade Option
-DTSTAMP:20220517T001503Z
-DTSTART;VALUE=DATE:20221205
-DESCRIPTION:Last day for students in a school that permits the pass/fail gr
-	ade option to submit a request.
-URL:https://events.nyu.edu/event/304030-fall-2022-deadline-to-request-passf
-	ail-grade
-CATEGORIES:2022-2023 Academic Year,Fall 2022,Registration Dates &amp; Deadl
-	ines,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
-UID:304029
-SUMMARY:Fall 2022 Withdrawal Deadline
-DTSTAMP:20221123T162959Z
-DTSTART;VALUE=DATE:20221205
-DESCRIPTION:Last day for students to submit a request to (a) withdraw from 
-	any or all Fall class(es) and (b) totally withdraw from the University for
-	 Fall.<br />\n<br />\nAcademic calendars at global sites may vary\, so stu
-	dents should consult the academic calendar of their home school study away
-	 site.
-URL:https://events.nyu.edu/event/304029-fall-2022-withdrawal-deadline
-CATEGORIES:2022-2023 Academic Year,Fall 2022,Registration Dates &amp; Deadl
-	ines,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:286102
 SUMMARY:Last Day of Fall 2022 Classes
 DTSTAMP:20211208T214915Z
