@@ -12,7 +12,7 @@ BEGIN:VEVENT
 UID:286104
 SUMMARY:Final Exam Period
 DTSTAMP:20221116T180439Z
-DTSTART;VALUE=DATE:20221216
+DTSTART;VALUE=DATE:20221218
 DTEND;VALUE=DATE:20221223
 DESCRIPTION:<span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;:&q
 	uot\;NYU Schools of Medicine\, Law\, Dentistry\, and Graduate Stern manage
