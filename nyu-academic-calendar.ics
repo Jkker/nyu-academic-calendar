@@ -12,7 +12,7 @@ BEGIN:VEVENT
 UID:286104
 SUMMARY:Final Exam Period
 DTSTAMP:20221116T180439Z
-DTSTART;VALUE=DATE:20221219
+DTSTART;VALUE=DATE:20221220
 DTEND;VALUE=DATE:20221223
 DESCRIPTION:<span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;:&q
 	uot\;NYU Schools of Medicine\, Law\, Dentistry\, and Graduate Stern manage
@@ -138,18 +138,6 @@ CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Sprin
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:286061
-SUMMARY:Martin Luther King\, Jr. Birthday
-DTSTAMP:20220422T121359Z
-DTSTART;VALUE=DATE:20230116
-DESCRIPTION:In New York\, no classes are scheduled and University offices a
-	re closed.
-URL:https://events.nyu.edu/event/286061-martin-luther-king-jr-birthday
-CATEGORIES:2022-2023 Academic Year,January Term 2023,Registration Dates &am
-	p; Deadlines,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:303323
 SUMMARY:Martin Luther King\, Jr. Birthday
 DTSTAMP:20220415T143032Z
@@ -158,6 +146,18 @@ DESCRIPTION:<table width="661">\n  <tbody>\n    <tr>\n      <td width="661"
 	>\n        In New York\, no classes are scheduled and University offices a
 	re closed.\n      </td>\n    </tr>\n  </tbody>\n</table>
 URL:https://events.nyu.edu/event/303323-martin-luther-king-jr-birthday
+CATEGORIES:2022-2023 Academic Year,January Term 2023,Registration Dates &am
+	p; Deadlines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:286061
+SUMMARY:Martin Luther King\, Jr. Birthday
+DTSTAMP:20220422T121359Z
+DTSTART;VALUE=DATE:20230116
+DESCRIPTION:In New York\, no classes are scheduled and University offices a
+	re closed.
+URL:https://events.nyu.edu/event/286061-martin-luther-king-jr-birthday
 CATEGORIES:2022-2023 Academic Year,January Term 2023,Registration Dates &am
 	p; Deadlines,StudentLink
 DURATION:P1DT
