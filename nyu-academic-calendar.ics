@@ -9,30 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:286104
-SUMMARY:Final Exam Period
-DTSTAMP:20221116T180439Z
-DTSTART;VALUE=DATE:20221222
-DTEND;VALUE=DATE:20221223
-DESCRIPTION:<span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;:&q
-	uot\;NYU Schools of Medicine\, Law\, Dentistry\, and Graduate Stern manage
-	 different final exam schedules. Refer to school-specific calendars for th
-	ese details.&quot\;}" data-sheets-userformat="{&quot\;2&quot\;:15273\,&quo
-	t\;3&quot\;:{&quot\;1&quot\;:0}\,&quot\;6&quot\;:{&quot\;1&quot\;:[{&quot\
-	;1&quot\;:2\,&quot\;2&quot\;:0\,&quot\;5&quot\;:[null\,2\,0]}\,{&quot\;1&q
-	uot\;:0\,&quot\;2&quot\;:0\,&quot\;3&quot\;:3}\,{&quot\;1&quot\;:1\,&quot\
-	;2&quot\;:0\,&quot\;4&quot\;:1}]}\,&quot\;8&quot\;:{&quot\;1&quot\;:[{&quo
-	t\;1&quot\;:2\,&quot\;2&quot\;:0\,&quot\;5&quot\;:[null\,2\,0]}\,{&quot\;1
-	&quot\;:0\,&quot\;2&quot\;:0\,&quot\;3&quot\;:3}\,{&quot\;1&quot\;:1\,&quo
-	t\;2&quot\;:0\,&quot\;4&quot\;:1}]}\,&quot\;10&quot\;:1\,&quot\;11&quot\;:
-	4\,&quot\;12&quot\;:0\,&quot\;14&quot\;:[null\,2\,0]\,&quot\;15&quot\;:&qu
-	ot\;Calibri\, sans-serif&quot\;\,&quot\;16&quot\;:11}">NYU Schools of Medi
-	cine\, Law\, Dentistry\, and Graduate Stern manage different final exam sc
-	hedules. Refer to school-specific calendars for these details.</span>
-URL:https://events.nyu.edu/event/286104-final-exam-period
-CATEGORIES:2022-2023 Academic Year,Fall 2022,StudentLink
-END:VEVENT
-BEGIN:VEVENT
 UID:286354
 SUMMARY:Winter Recess for Students
 DTSTAMP:20221101T121004Z
