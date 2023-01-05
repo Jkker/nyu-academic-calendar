@@ -9,27 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:303465
-SUMMARY:January Term 2023 100% Refund Deadline
-DTSTAMP:20220810T130942Z
-DTSTART;VALUE=DATE:20230104
-URL:https://events.nyu.edu/event/303465-january-term-2023-100-refund-deadli
-	ne
-CATEGORIES:2022-2023 Academic Year,January Term 2023,Registration Dates &am
-	p; Deadlines,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
-UID:303466
-SUMMARY:January Term 2023 Drop/Add Deadline
-DTSTAMP:20220810T131132Z
-DTSTART;VALUE=DATE:20230104
-URL:https://events.nyu.edu/event/303466-january-term-2023-dropadd-deadline
-CATEGORIES:2022-2023 Academic Year,January Term 2023,Registration Dates &am
-	p; Deadlines,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:303467
 SUMMARY:January 2023 Term Withdrawal Period Begins
 DTSTAMP:20220810T131223Z
