@@ -9,40 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:303467
-SUMMARY:January 2023 Term Withdrawal Period Begins
-DTSTAMP:20220810T131223Z
-DTSTART;VALUE=DATE:20230105
-URL:https://events.nyu.edu/event/303467-january-2023-term-withdrawal-period
-	-begins
-CATEGORIES:2022-2023 Academic Year,January Term 2023,Registration Dates &am
-	p; Deadlines,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
-UID:303468
-SUMMARY:January Term 2023 Census Date
-DTSTAMP:20220810T131036Z
-DTSTART;VALUE=DATE:20230105
-URL:https://events.nyu.edu/event/303468-january-term-2023-census-date
-CATEGORIES:2022-2023 Academic Year,January Term 2023,Registration Dates &am
-	p; Deadlines,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
-UID:303471
-SUMMARY:Spring 2023 Undergraduate Tuition Payment Deadline
-DTSTAMP:20220420T132716Z
-DTSTART;VALUE=DATE:20230105
-DESCRIPTION:Failure to meet the payment deadline may result in the cancella
-	tion of class reservations.
-URL:https://events.nyu.edu/event/303471-spring-2023-undergraduate-tuition-p
-	ayment-deadline
-CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Sprin
-	g 2023,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:286061
 SUMMARY:Martin Luther King\, Jr. Birthday
 DTSTAMP:20220422T121359Z
