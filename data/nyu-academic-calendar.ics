@@ -137,10 +137,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:303473
 SUMMARY:Spring 2023 Late Registration Begins
-DTSTAMP:20220420T132748Z
+DTSTAMP:20230111T214440Z
 DTSTART;VALUE=DATE:20230201
-DESCRIPTION:Beginning today students who are Initially registering for fall
-	 2022 classes will incur a late registration fee.
+DESCRIPTION:Beginning today students who are Initially registering for Spri
+	ng 2023 classes will incur a late registration fee.
 URL:https://events.nyu.edu/event/303473-spring-2023-late-registration-begin
 	s
 CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Sprin
