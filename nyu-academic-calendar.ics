@@ -9,35 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:304049
-SUMMARY:January Term 2023 Deadline to Request Pass/Fail Grade Option
-DTSTAMP:20220519T143025Z
-DTSTART;VALUE=DATE:20230117
-DESCRIPTION:<p>\n  Last day for students in a school that permits the pass/
-	fail grade option to submit a request.\n</p>
-URL:https://events.nyu.edu/event/304049-january-term-2023-deadline-to-reque
-	st-passfail
-CATEGORIES:2022-2023 Academic Year,January Term 2023,Registration Dates &am
-	p; Deadlines,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
-UID:304048
-SUMMARY:January Term 2023 Withdrawal Deadline
-DTSTAMP:20221123T163157Z
-DTSTART;VALUE=DATE:20230117
-DESCRIPTION:<p>\n  Last day for students to submit a request to (a) withdra
-	w from any or all January class(es) and (b) totally withdraw from the Univ
-	ersity for January. Academic calendars at global sites may vary\, so stude
-	nts should consult the academic calendar of their home school study away s
-	ite.\n</p>
-URL:https://events.nyu.edu/event/304048-january-term-2023-withdrawal-deadli
-	ne
-CATEGORIES:2022-2023 Academic Year,January Term 2023,Registration Dates &am
-	p; Deadlines,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:286062
 SUMMARY:Last Day of January Term 2023 Classes
 DTSTAMP:20210303T194557Z
