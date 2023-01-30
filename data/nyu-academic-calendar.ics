@@ -89,14 +89,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:303484
 SUMMARY:Summer 2023 Registration Begins
-DTSTAMP:20220422T130533Z
+DTSTAMP:20230130T194551Z
 DTSTART;VALUE=DATE:20230213
 DESCRIPTION:<table width="490">\n  <tbody>\n    <tr>\n      <td width="490"
 	>\n        Undergraduate and graduate students register at specific appoin
 	tment times.\n      </td>\n    </tr>\n  </tbody>\n</table>
 URL:https://events.nyu.edu/event/303484-summer-2023-registration-begins
-CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
-	ntLink,Summer 2023
+CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2023,StudentLink,Summer 2023
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
