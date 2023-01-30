@@ -126,6 +126,21 @@ CATEGORIES:2022-2023 Academic Year,Spring 2023,StudentLink
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:313396
+SUMMARY:Apply for Summer 2023 Graduation
+DTSTAMP:20230130T161337Z
+DTSTART;VALUE=DATE:20230301
+DTEND;VALUE=DATE:20230602
+DESCRIPTION:Students completing their graduation requirements by the end of
+	 Summer 2023 must Apply for Graduation via Albert.*<br />\n<em>Though rela
+	ted\, your eligibility for attending All-University Commencement and schoo
+	l ceremonies are separate unique processes and more information can be fou
+	nd here…</em>
+URL:https://events.nyu.edu/event/313396-apply-for-summer-2023-graduation
+CATEGORIES:2023-2024 Academic Year,Graduation,Spring 2023,StudentLink,Summe
+	r 2023
+END:VEVENT
+BEGIN:VEVENT
 UID:286065
 SUMMARY:Spring Break
 DTSTAMP:20210318T115833Z
@@ -145,6 +160,36 @@ URL:https://events.nyu.edu/event/305762-faculty-deadline-for-entering-midte
 CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Sprin
 	g 2023,StudentLink
 DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:313397
+SUMMARY:Apply for Summer 2023 Graduation
+DTSTAMP:20230130T161337Z
+DTSTART;VALUE=DATE:20230401
+DTEND;VALUE=DATE:20230602
+DESCRIPTION:Students completing their graduation requirements by the end of
+	 Summer 2023 must Apply for Graduation via Albert.*<br />\n<em>Though rela
+	ted\, your eligibility for attending All-University Commencement and schoo
+	l ceremonies are separate unique processes and more information can be fou
+	nd here…</em>
+URL:https://events.nyu.edu/event/313397-apply-for-summer-2023-graduation
+CATEGORIES:2023-2024 Academic Year,Graduation,Spring 2023,StudentLink,Summe
+	r 2023
+END:VEVENT
+BEGIN:VEVENT
+UID:313398
+SUMMARY:Apply for Summer 2023 Graduation
+DTSTAMP:20230130T161337Z
+DTSTART;VALUE=DATE:20230501
+DTEND;VALUE=DATE:20230602
+DESCRIPTION:Students completing their graduation requirements by the end of
+	 Summer 2023 must Apply for Graduation via Albert.*<br />\n<em>Though rela
+	ted\, your eligibility for attending All-University Commencement and schoo
+	l ceremonies are separate unique processes and more information can be fou
+	nd here…</em>
+URL:https://events.nyu.edu/event/313398-apply-for-summer-2023-graduation
+CATEGORIES:2023-2024 Academic Year,Graduation,Spring 2023,StudentLink,Summe
+	r 2023
 END:VEVENT
 BEGIN:VEVENT
 UID:304051
@@ -337,6 +382,21 @@ DESCRIPTION:Classes meet according to a Monday schedule.
 URL:https://events.nyu.edu/event/286076-legislative-monday
 CATEGORIES:2022-2023 Academic Year,StudentLink,Summer 2023
 DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:313399
+SUMMARY:Apply for Summer 2023 Graduation
+DTSTAMP:20230130T161337Z
+DTSTART;VALUE=DATE:20230601
+DTEND;VALUE=DATE:20230602
+DESCRIPTION:Students completing their graduation requirements by the end of
+	 Summer 2023 must Apply for Graduation via Albert.*<br />\n<em>Though rela
+	ted\, your eligibility for attending All-University Commencement and schoo
+	l ceremonies are separate unique processes and more information can be fou
+	nd here…</em>
+URL:https://events.nyu.edu/event/313399-apply-for-summer-2023-graduation
+CATEGORIES:2023-2024 Academic Year,Graduation,Spring 2023,StudentLink,Summe
+	r 2023
 END:VEVENT
 BEGIN:VEVENT
 UID:303565
