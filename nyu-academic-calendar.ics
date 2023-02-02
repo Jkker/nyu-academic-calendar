@@ -9,36 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:310282
-SUMMARY:REMINDER: Apply for Spring 2023 Graduation
-DTSTAMP:20230130T142957Z
-DTSTART;VALUE=DATE:20230201
-DTEND;VALUE=DATE:20230202
-DESCRIPTION:Students completing their graduation requirements by the end of
-	 Spring 2023 semester must Apply for Graduation via Albert.* If you are ta
-	king summer courses you must apply for Summer Graduation in March.<br />\n
-	<em>Though related\, your eligibility for attending All-University Commenc
-	ement and school ceremonies are separate unique processes and more informa
-	tion can be found here…</em>
-URL:https://events.nyu.edu/event/310282-reminder-apply-for-spring-2023-grad
-	uation
-CATEGORIES:2022-2023 Academic Year,Fall 2022,Graduation,Spring 2023,Student
-	Link
-END:VEVENT
-BEGIN:VEVENT
-UID:303473
-SUMMARY:Spring 2023 Late Registration Begins
-DTSTAMP:20230111T214440Z
-DTSTART;VALUE=DATE:20230201
-DESCRIPTION:Beginning today students who are Initially registering for Spri
-	ng 2023 classes will incur a late registration fee.
-URL:https://events.nyu.edu/event/303473-spring-2023-late-registration-begin
-	s
-CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Sprin
-	g 2023,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:303480
 SUMMARY:Spring 2023 100% Refund Deadline
 DTSTAMP:20220420T144250Z
