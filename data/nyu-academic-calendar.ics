@@ -9,26 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:303480
-SUMMARY:Spring 2023 100% Refund Deadline
-DTSTAMP:20220420T144250Z
-DTSTART;VALUE=DATE:20230205
-URL:https://events.nyu.edu/event/303480-spring-2023-100-refund-deadline
-CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Sprin
-	g 2023,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
-UID:303474
-SUMMARY:Spring 2023 Add/Drop Deadline
-DTSTAMP:20220420T133123Z
-DTSTART;VALUE=DATE:20230205
-URL:https://events.nyu.edu/event/303474-spring-2023-adddrop-deadline
-CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Sprin
-	g 2023,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:303481
 SUMMARY:Spring 2023 Withdrawal Period Begins
 DTSTAMP:20220420T144611Z
