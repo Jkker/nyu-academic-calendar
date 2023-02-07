@@ -9,24 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:303481
-SUMMARY:Spring 2023 Withdrawal Period Begins
-DTSTAMP:20220420T144611Z
-DTSTART;VALUE=DATE:20230206
-DESCRIPTION:Classes dropped on or after this date result in a “W” grade on 
-	the student transcript. To withdraw from a class\, students may Request a 
-	<a href="https://www.nyu.edu/students/student-information-and-resources/re
-	gistration-records-and-graduation/albert-help/training/students/registrati
-	on/request-class-withdrawal.html">Class Withdrawal in Albert.</a><br />\nS
-	tudents can no longer be enrolled into a class from a waitlist and waitlis
-	ts are purged.
-URL:https://events.nyu.edu/event/303481-spring-2023-withdrawal-period-begin
-	s
-CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Sprin
-	g 2023,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:303482
 SUMMARY:Spring 2023 Census Date
 DTSTAMP:20220420T144808Z
