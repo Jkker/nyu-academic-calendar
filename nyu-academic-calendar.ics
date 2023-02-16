@@ -9,21 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:310402
-SUMMARY:Last Day to Apply for Spring 2023 Graduation
-DTSTAMP:20221031T222749Z
-DTSTART;VALUE=DATE:20230215
-DESCRIPTION:<em>Students completing their graduation requirements by the en
-	d of Spring 2023 term must Apply for Graduation via Albert.*<br />\nThough
-	 related\, your eligibility for attending All-University Commencement and 
-	school ceremonies are separate unique processes and more information can b
-	e found here…</em>
-URL:https://events.nyu.edu/event/310402-last-day-to-apply-for-spring-2023-g
-	raduation
-CATEGORIES:2022-2023 Academic Year,Graduation,Spring 2023,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:286064
 SUMMARY:Presidents’ Day
 DTSTAMP:20210318T115904Z
