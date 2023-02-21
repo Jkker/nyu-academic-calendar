@@ -9,17 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:286064
-SUMMARY:Presidents’ Day
-DTSTAMP:20210318T115904Z
-DTSTART;VALUE=DATE:20230220
-DESCRIPTION:In New York\, no classes are scheduled and University offices a
-	re closed.
-URL:https://events.nyu.edu/event/286064-presidents-day
-CATEGORIES:2022-2023 Academic Year,Spring 2023,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:313430
 SUMMARY:Apply for Summer 2023 Graduation
 DTSTAMP:20230130T164724Z
