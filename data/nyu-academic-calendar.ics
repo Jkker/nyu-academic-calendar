@@ -34,6 +34,16 @@ URL:https://events.nyu.edu/event/286065-spring-break
 CATEGORIES:2022-2023 Academic Year,Spring 2023,StudentLink
 END:VEVENT
 BEGIN:VEVENT
+UID:315244
+SUMMARY:Fall 2023 Class Schedule Published
+DTSTAMP:20230228T174444Z
+DTSTART;VALUE=DATE:20230327
+URL:https://events.nyu.edu/event/315244-fall-2023-class-schedule-published
+CATEGORIES:2022-2023 Academic Year,Fall 2023,Registration Dates &amp; Deadl
+	ines,Spring 2023,StudentLink,Summer 2023
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:305762
 SUMMARY:Faculty Deadline for Entering Midterm Grades for Spring 2023
 DTSTAMP:20220815T151449Z
@@ -59,6 +69,18 @@ URL:https://events.nyu.edu/event/313425-reminder-apply-for-summer-2023-grad
 	uation
 CATEGORIES:2023-2024 Academic Year,Graduation,Spring 2023,StudentLink,Summe
 	r 2023
+END:VEVENT
+BEGIN:VEVENT
+UID:315245
+SUMMARY:Fall 2023 Registration Begins
+DTSTAMP:20230228T174925Z
+DTSTART;VALUE=DATE:20230424
+DESCRIPTION:Undergraduate and graduate students register at specific appoin
+	tment times.
+URL:https://events.nyu.edu/event/315245-fall-2023-registration-begins
+CATEGORIES:2022-2023 Academic Year,Fall 2023,Registration Dates &amp; Deadl
+	ines,Spring 2023,StudentLink,Summer 2023
+DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
 UID:313428
