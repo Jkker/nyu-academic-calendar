@@ -9,21 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:313430
-SUMMARY:Apply for Summer 2023 Graduation
-DTSTAMP:20230130T164724Z
-DTSTART;VALUE=DATE:20230301
-DESCRIPTION:Students completing their graduation requirements by the end of
-	 Summer 2023 must Apply for Graduation via Albert.*<br />\n<em>Though rela
-	ted\, your eligibility for attending All-University Commencement and schoo
-	l ceremonies are separate unique processes and more information can be fou
-	nd here…</em>
-URL:https://events.nyu.edu/event/313430-apply-for-summer-2023-graduation
-CATEGORIES:2022-2023 Academic Year,2023-2024 Academic Year,Graduation,Sprin
-	g 2023,StudentLink,Summer 2023
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:286065
 SUMMARY:Spring Break
 DTSTAMP:20210318T115833Z
