@@ -9,16 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:315244
-SUMMARY:Fall 2023 Class Schedule Published
-DTSTAMP:20230228T174444Z
-DTSTART;VALUE=DATE:20230327
-URL:https://events.nyu.edu/event/315244-fall-2023-class-schedule-published
-CATEGORIES:2022-2023 Academic Year,Fall 2023,Registration Dates &amp; Deadl
-	ines,Spring 2023,StudentLink,Summer 2023
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:305762
 SUMMARY:Faculty Deadline for Entering Midterm Grades for Spring 2023
 DTSTAMP:20220815T151449Z
