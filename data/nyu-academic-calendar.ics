@@ -575,6 +575,33 @@ CATEGORIES:2023-2024 Academic Year,Fall 2023,StudentLink
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:317549
+SUMMARY:Fall 2023 Add/Drop Deadline
+DTSTAMP:20230401T195528Z
+DTSTART;VALUE=DATE:20230918
+URL:https://events.nyu.edu/event/317549-fall-2023-adddrop-deadline
+CATEGORIES:2023-2024 Academic Year,Fall 2023,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:317550
+SUMMARY:Fall 2023 Withdrawal Period Begins
+DTSTAMP:20230401T200126Z
+DTSTART;VALUE=DATE:20230919
+DESCRIPTION:Classes dropped on or after this date result in a “W” grade on 
+	the student transcript. To withdraw from a class\, students may Request a 
+	<a href="https://www.nyu.edu/students/student-information-and-resources/re
+	gistration-records-and-graduation/albert-help/training/students/registrati
+	on/request-class-withdrawal.html">Class Withdrawal in Albert.</a><br />\nS
+	tudents can no longer be enrolled into a class from a waitlist and waitlis
+	ts are purged.
+URL:https://events.nyu.edu/event/317550-fall-2023-withdrawal-period-begins
+CATEGORIES:2023-2024 Academic Year,Fall 2023,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:306967
 SUMMARY:Summer 2023 Conferral (September Graduates)
 DTSTAMP:20220923T202942Z
