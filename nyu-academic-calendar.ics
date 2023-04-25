@@ -9,18 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:315245
-SUMMARY:Fall 2023 Registration Begins
-DTSTAMP:20230228T174925Z
-DTSTART;VALUE=DATE:20230424
-DESCRIPTION:Undergraduate and graduate students register at specific appoin
-	tment times.
-URL:https://events.nyu.edu/event/315245-fall-2023-registration-begins
-CATEGORIES:2022-2023 Academic Year,Fall 2023,Registration Dates &amp; Deadl
-	ines,Spring 2023,StudentLink,Summer 2023
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:313428
 SUMMARY:REMINDER: Apply for Summer 2023 Graduation
 DTSTAMP:20230130T164422Z
