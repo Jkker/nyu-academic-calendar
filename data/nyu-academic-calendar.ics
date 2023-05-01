@@ -679,8 +679,8 @@ CATEGORIES:2023-2024 Academic Year,Fall 2023,StudentLink
 END:VEVENT
 BEGIN:VEVENT
 UID:286116
-SUMMARY:January Term 2024 classes begin
-DTSTAMP:20230501T003210Z
+SUMMARY:January Term 2024 Classes Begin
+DTSTAMP:20230501T200322Z
 DTSTART;VALUE=DATE:20240103
 URL:https://events.nyu.edu/event/286116-january-term-2024-classes-begin
 CATEGORIES:2023-2024 Academic Year,January Term 2024,StudentLink
@@ -850,8 +850,8 @@ DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
 UID:286120
-SUMMARY:Summer 2024 classes begin
-DTSTAMP:20230501T004801Z
+SUMMARY:Summer 2024 Classes Begin
+DTSTAMP:20230501T200618Z
 DTSTART;VALUE=DATE:20240520
 URL:https://events.nyu.edu/event/286120-summer-2024-classes-begin
 CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
@@ -879,6 +879,29 @@ DESCRIPTION:<span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;:&q
 	 and University offices are closed.</span>
 URL:https://events.nyu.edu/event/286118-memorial-day
 CATEGORIES:2023-2024 Academic Year,StudentLink,Summer 2024
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:319097
+SUMMARY:Legislative Wednesday
+DTSTAMP:20230501T201151Z
+DTSTART;VALUE=DATE:20240618
+DESCRIPTION:<span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;:&q
+	uot\;Classes meet according to a Thursday schedule.&quot\;}" data-sheets-u
+	serformat="{&quot\;2&quot\;:15275\,&quot\;3&quot\;:{&quot\;1&quot\;:0}\,&q
+	uot\;4&quot\;:{&quot\;1&quot\;:2\,&quot\;2&quot\;:13228792}\,&quot\;6&quot
+	\;:{&quot\;1&quot\;:[{&quot\;1&quot\;:2\,&quot\;2&quot\;:0\,&quot\;5&quot\
+	;:[null\,2\,0]}\,{&quot\;1&quot\;:0\,&quot\;2&quot\;:0\,&quot\;3&quot\;:3}
+	\,{&quot\;1&quot\;:1\,&quot\;2&quot\;:0\,&quot\;4&quot\;:1}]}\,&quot\;8&qu
+	ot\;:{&quot\;1&quot\;:[{&quot\;1&quot\;:2\,&quot\;2&quot\;:0\,&quot\;5&quo
+	t\;:[null\,2\,0]}\,{&quot\;1&quot\;:0\,&quot\;2&quot\;:0\,&quot\;3&quot\;:
+	3}\,{&quot\;1&quot\;:1\,&quot\;2&quot\;:0\,&quot\;4&quot\;:1}]}\,&quot\;10
+	&quot\;:1\,&quot\;11&quot\;:4\,&quot\;12&quot\;:0\,&quot\;14&quot\;:[null\
+	,2\,0]\,&quot\;15&quot\;:&quot\;Calibri\, sans-serif&quot\;\,&quot\;16&quo
+	t\;:11}">Classes meet according to a Wednesday schedule.</span>
+URL:https://events.nyu.edu/event/319097-legislative-wednesday
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2024
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
@@ -928,10 +951,33 @@ CATEGORIES:2023-2024 Academic Year,StudentLink,Summer 2024
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:319098
+SUMMARY:No Classes Scheduled
+DTSTAMP:20230501T201057Z
+DTSTART;VALUE=DATE:20240705
+DESCRIPTION:<span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;:&q
+	uot\;In New York\, no classes are scheduled and University offices are clo
+	sed.&quot\;}" data-sheets-userformat="{&quot\;2&quot\;:15275\,&quot\;3&quo
+	t\;:{&quot\;1&quot\;:0}\,&quot\;4&quot\;:{&quot\;1&quot\;:2\,&quot\;2&quot
+	\;:13228792}\,&quot\;6&quot\;:{&quot\;1&quot\;:[{&quot\;1&quot\;:2\,&quot\
+	;2&quot\;:0\,&quot\;5&quot\;:[null\,2\,0]}\,{&quot\;1&quot\;:0\,&quot\;2&q
+	uot\;:0\,&quot\;3&quot\;:3}\,{&quot\;1&quot\;:1\,&quot\;2&quot\;:0\,&quot\
+	;4&quot\;:1}]}\,&quot\;8&quot\;:{&quot\;1&quot\;:[{&quot\;1&quot\;:2\,&quo
+	t\;2&quot\;:0\,&quot\;5&quot\;:[null\,2\,0]}\,{&quot\;1&quot\;:0\,&quot\;2
+	&quot\;:0\,&quot\;3&quot\;:3}\,{&quot\;1&quot\;:1\,&quot\;2&quot\;:0\,&quo
+	t\;4&quot\;:1}]}\,&quot\;10&quot\;:1\,&quot\;11&quot\;:4\,&quot\;12&quot\;
+	:0\,&quot\;14&quot\;:[null\,2\,0]\,&quot\;15&quot\;:&quot\;Calibri\, sans-
+	serif&quot\;\,&quot\;16&quot\;:11}">In New York\, no classes are scheduled
+	.</span>
+URL:https://events.nyu.edu/event/319098-no-classes-scheduled
+CATEGORIES:2023-2024 Academic Year,StudentLink,Summer 2024
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:286124
-SUMMARY:Legislative Thursday
-DTSTAMP:20210318T114547Z
-DTSTART;VALUE=DATE:20240709
+SUMMARY:Legislative Friday
+DTSTAMP:20230501T194342Z
+DTSTART;VALUE=DATE:20240814
 DESCRIPTION:<span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;:&q
 	uot\;Classes meet according to a Thursday schedule.&quot\;}" data-sheets-u
 	serformat="{&quot\;2&quot\;:15275\,&quot\;3&quot\;:{&quot\;1&quot\;:0}\,&q
@@ -944,8 +990,8 @@ DESCRIPTION:<span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;:&q
 	3}\,{&quot\;1&quot\;:1\,&quot\;2&quot\;:0\,&quot\;4&quot\;:1}]}\,&quot\;10
 	&quot\;:1\,&quot\;11&quot\;:4\,&quot\;12&quot\;:0\,&quot\;14&quot\;:[null\
 	,2\,0]\,&quot\;15&quot\;:&quot\;Calibri\, sans-serif&quot\;\,&quot\;16&quo
-	t\;:11}">Classes meet according to a Thursday schedule.</span>
-URL:https://events.nyu.edu/event/286124-legislative-thursday
+	t\;:11}">Classes meet according to a Friday schedule.</span>
+URL:https://events.nyu.edu/event/286124-legislative-friday
 CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2024
 DURATION:P1DT
