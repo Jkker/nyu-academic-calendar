@@ -720,10 +720,10 @@ DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
 UID:286110
-SUMMARY:Spring 2024 class begin
-DTSTAMP:20230501T003839Z
+SUMMARY:Spring 2024 Classes Begin
+DTSTAMP:20230501T012353Z
 DTSTART;VALUE=DATE:20240122
-URL:https://events.nyu.edu/event/286110-spring-2024-class-begin
+URL:https://events.nyu.edu/event/286110-spring-2024-classes-begin
 CATEGORIES:2023-2024 Academic Year,Spring 2024,StudentLink
 DURATION:P1DT
 END:VEVENT
