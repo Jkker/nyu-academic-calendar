@@ -9,34 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:304051
-SUMMARY:Spring 2023 Deadline to Request Pass/Fail Grade Option
-DTSTAMP:20220519T123416Z
-DTSTART;VALUE=DATE:20230502
-DESCRIPTION:<p>\n  Last day for students in a school that permits the pass/
-	fail grade option to submit a request.\n</p>
-URL:https://events.nyu.edu/event/304051-spring-2023-deadline-to-request-pas
-	sfail-grade
-CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Sprin
-	g 2023,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
-UID:304050
-SUMMARY:Spring 2023 Withdrawal Deadline
-DTSTAMP:20221123T163240Z
-DTSTART;VALUE=DATE:20230502
-DESCRIPTION:<p>\n  Last day for students to submit a request to (a) withdra
-	w from any or all Spring class(es) and (b) totally withdraw from the Unive
-	rsity for Spring. Academic calendars at global sites may vary\, so student
-	s should consult the academic calendar of their home school study away sit
-	e.\n</p>
-URL:https://events.nyu.edu/event/304050-spring-2023-withdrawal-deadline
-CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Sprin
-	g 2023,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:286068
 SUMMARY:Last Day of spring 2023 Classes
 DTSTAMP:20210318T115813Z
