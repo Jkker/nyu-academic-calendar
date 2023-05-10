@@ -9,26 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:286071
-SUMMARY:Reading Day
-DTSTAMP:20210318T115745Z
-DTSTART;VALUE=DATE:20230509
-URL:https://events.nyu.edu/event/286071-reading-day
-CATEGORIES:2022-2023 Academic Year,Spring 2023,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
-UID:303485
-SUMMARY:Summer 2023 Tuition Payment Deadline
-DTSTAMP:20220421T183612Z
-DTSTART;VALUE=DATE:20230509
-URL:https://events.nyu.edu/event/303485-summer-2023-tuition-payment-deadlin
-	e
-CATEGORIES:2022-2023 Academic Year,Bursar Deadlines,Registration Dates &amp
-	; Deadlines,StudentLink,Summer 2023
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:286072
 SUMMARY:Final Exam Period
 DTSTAMP:20220420T150159Z
