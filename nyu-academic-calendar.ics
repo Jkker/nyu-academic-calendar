@@ -405,7 +405,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:304053
 SUMMARY:Summer 2023 Deadline to Request Pass/Fail Grade Option
-DTSTAMP:20220519T123728Z
+DTSTAMP:20230513T110400Z
 DTSTART;VALUE=DATE:20230731
 DESCRIPTION:<p>\n  Last day for students in a school that permits the pass/
 	fail grade option to submit a request.\n</p>
@@ -551,6 +551,33 @@ DESCRIPTION:In New York\, no classes are scheduled and University offices a
 	re closed.
 URL:https://events.nyu.edu/event/286108-thanksgiving-recess
 CATEGORIES:2023-2024 Academic Year,Fall 2023,StudentLink
+END:VEVENT
+BEGIN:VEVENT
+UID:319399
+SUMMARY:Fall 2023 Deadline to Request Pass/Fail Grade Option
+DTSTAMP:20230513T110817Z
+DTSTART;VALUE=DATE:20231204
+DESCRIPTION:Last day for students in a school that permits the pass/fail gr
+	ade option to submit a request.
+URL:https://events.nyu.edu/event/319399-fall-2023-deadline-to-request-passf
+	ail-grade
+CATEGORIES:2023-2024 Academic Year,Fall 2023,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:319400
+SUMMARY:Fall 2023 Withdrawal Deadline
+DTSTAMP:20230513T111022Z
+DTSTART;VALUE=DATE:20231204
+DESCRIPTION:Last day for students to submit a request to (a) withdraw from 
+	any or all Spring class(es) and (b) totally withdraw from the University f
+	or Spring. Academic calendars at global sites may vary\, so students shoul
+	d consult the academic calendar of their home school study away site.
+URL:https://events.nyu.edu/event/319400-fall-2023-withdrawal-deadline
+CATEGORIES:2023-2024 Academic Year,Fall 2023,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
 UID:286109
