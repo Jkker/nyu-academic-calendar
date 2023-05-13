@@ -12,7 +12,7 @@ BEGIN:VEVENT
 UID:286072
 SUMMARY:Final Exam Period
 DTSTAMP:20220420T150159Z
-DTSTART;VALUE=DATE:20230513
+DTSTART;VALUE=DATE:20230514
 DTEND;VALUE=DATE:20230517
 DESCRIPTION:NYU Schools of Medicine\, Law\, Dentistry\, and Graduate Stern 
 	manage different final exam schedules. Refer to school-specific calendars 
