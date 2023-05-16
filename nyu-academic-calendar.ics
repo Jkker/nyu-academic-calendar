@@ -9,18 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:286072
-SUMMARY:Final Exam Period
-DTSTAMP:20220420T150159Z
-DTSTART;VALUE=DATE:20230516
-DTEND;VALUE=DATE:20230517
-DESCRIPTION:NYU Schools of Medicine\, Law\, Dentistry\, and Graduate Stern 
-	manage different final exam schedules. Refer to school-specific calendars 
-	for these details.
-URL:https://events.nyu.edu/event/286072-final-exam-period
-CATEGORIES:2022-2023 Academic Year,Spring 2023,StudentLink
-END:VEVENT
-BEGIN:VEVENT
 UID:286073
 SUMMARY:Commencement
 DTSTAMP:20221107T213036Z
