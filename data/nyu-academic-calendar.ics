@@ -9,27 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:286073
-SUMMARY:Commencement
-DTSTAMP:20221107T213036Z
-DTSTART;VALUE=DATE:20230517
-DESCRIPTION:Please review the Graduation and Diplomas page for more informa
-	tion.
-URL:https://events.nyu.edu/event/286073-commencement
-CATEGORIES:2022-2023 Academic Year,Spring 2023,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
-UID:306966
-SUMMARY:Spring 2023 Conferral (May Graduates)
-DTSTAMP:20220923T202919Z
-DTSTART;VALUE=DATE:20230517
-URL:https://events.nyu.edu/event/306966-spring-2023-conferral-may-graduates
-CATEGORIES:2022-2023 Academic Year,Graduation,Registration Dates &amp; Dead
-	lines,Spring 2023,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:286074
 SUMMARY:Summer 2023 Classes Begin: 12-Week\, 10-Week\, 7-Week\, First 6-Wee
 	k\, First 3-Week\, and Special Sessions
