@@ -9,17 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:303486
-SUMMARY:100% Refund Deadline: First 3-Week Session
-DTSTAMP:20220422T131616Z
-DTSTART;VALUE=DATE:20230523
-URL:https://events.nyu.edu/event/303486-100-refund-deadline-first-3-week-se
-	ssion
-CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
-	ntLink,Summer 2023
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:303487
 SUMMARY:“Summer 2023 Drop/Add Deadline: First 3-Week Session”
 DTSTAMP:20220422T131628Z
@@ -37,18 +26,6 @@ DTSTAMP:20220421T205801Z
 DTSTART;VALUE=DATE:20230524
 URL:https://events.nyu.edu/event/303564-withdrawal-period-begins-first-3-we
 	ek-session
-CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
-	ntLink,Summer 2023
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
-UID:303490
-SUMMARY:“100% Refund Deadline: 12-Week\,\,10-Week 7-Week\, and First 6-Week
-	 Sessions”
-DTSTAMP:20220422T131649Z
-DTSTART;VALUE=DATE:20230525
-URL:https://events.nyu.edu/event/303490-100-refund-deadline-12-week10-week-
-	7-week-and
 CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2023
 DURATION:P1DT
@@ -137,17 +114,6 @@ CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:303529
-SUMMARY:“100% Refund Deadline: Second 3-Week Session”
-DTSTAMP:20220422T131810Z
-DTSTART;VALUE=DATE:20230613
-URL:https://events.nyu.edu/event/303529-100-refund-deadline-second-3-week-s
-	ession
-CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
-	ntLink,Summer 2023
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:303528
 SUMMARY:“Summer 2023 Drop/Add Deadline: Second 3-Week Session”
 DTSTAMP:20220422T131826Z
@@ -216,17 +182,6 @@ CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:303523
-SUMMARY:“100% Refund Deadline: Third 3-Week Session”
-DTSTAMP:20220422T132000Z
-DTSTART;VALUE=DATE:20230707
-URL:https://events.nyu.edu/event/303523-100-refund-deadline-third-3-week-se
-	ssion
-CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
-	ntLink,Summer 2023
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:303524
 SUMMARY:“Summer 2023 Drop/Add Deadline: Third 3-Week Session”
 DTSTAMP:20220422T132029Z
@@ -244,17 +199,6 @@ DTSTAMP:20220422T132046Z
 DTSTART;VALUE=DATE:20230708
 URL:https://events.nyu.edu/event/303522-withdrawal-period-begins-third-3-we
 	ek-session
-CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
-	ntLink,Summer 2023
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
-UID:303520
-SUMMARY:“100% Refund Deadline: Second 6-Week Session”
-DTSTAMP:20220422T132119Z
-DTSTART;VALUE=DATE:20230709
-URL:https://events.nyu.edu/event/303520-100-refund-deadline-second-6-week-s
-	ession
 CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2023
 DURATION:P1DT
@@ -320,17 +264,6 @@ DTSTAMP:20220421T210325Z
 DTSTART;VALUE=DATE:20230727
 URL:https://events.nyu.edu/event/303567-summer-2023-classes-begin-fourth-3-
 	week-session
-CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
-	ntLink,Summer 2023
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
-UID:303496
-SUMMARY:“100% Refund Deadline: Fourth 3-Week Session”
-DTSTAMP:20220422T131504Z
-DTSTART;VALUE=DATE:20230728
-URL:https://events.nyu.edu/event/303496-100-refund-deadline-fourth-3-week-s
-	ession
 CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2023
 DURATION:P1DT
