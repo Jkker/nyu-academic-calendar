@@ -9,18 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:286074
-SUMMARY:Summer 2023 Classes Begin: 12-Week\, 10-Week\, 7-Week\, First 6-Wee
-	k\, First 3-Week\, and Special Sessions
-DTSTAMP:20220422T131604Z
-DTSTART;VALUE=DATE:20230522
-URL:https://events.nyu.edu/event/286074-summer-2023-classes-begin-12-week-1
-	0-week-7-week
-CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
-	ntLink,Summer 2023
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:303486
 SUMMARY:100% Refund Deadline: First 3-Week Session
 DTSTAMP:20220422T131616Z
