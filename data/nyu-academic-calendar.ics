@@ -9,17 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:303487
-SUMMARY:“Summer 2023 Drop/Add Deadline: First 3-Week Session”
-DTSTAMP:20220422T131628Z
-DTSTART;VALUE=DATE:20230523
-URL:https://events.nyu.edu/event/303487-summer-2023-dropadd-deadline-first-
-	3-week-session
-CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
-	ntLink,Summer 2023
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:303564
 SUMMARY:Withdrawal Period Begins: First 3-Week Session
 DTSTAMP:20220421T205801Z
