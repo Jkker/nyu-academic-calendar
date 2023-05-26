@@ -9,18 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:303489
-SUMMARY:“Summer 2023 Drop/Add Deadline: 12-Week\, 10-Week\, 7-Week\, and Fi
-	rst 6-Week Sessions”
-DTSTAMP:20220422T131710Z
-DTSTART;VALUE=DATE:20230525
-URL:https://events.nyu.edu/event/303489-summer-2023-dropadd-deadline-12-wee
-	k-10-week
-CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
-	ntLink,Summer 2023
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:303491
 SUMMARY:Withdrawal Period Begins: 12-Week\, 10-Week. 7-Week\, and First 6-W
 	eek Sessions
