@@ -9,16 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:286076
-SUMMARY:Legislative Monday
-DTSTAMP:20210303T184809Z
-DTSTART;VALUE=DATE:20230531
-DESCRIPTION:Classes meet according to a Monday schedule.
-URL:https://events.nyu.edu/event/286076-legislative-monday
-CATEGORIES:2022-2023 Academic Year,StudentLink,Summer 2023
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:313429
 SUMMARY:REMINDER: Apply for Summer 2023 Graduation
 DTSTAMP:20230130T164422Z
