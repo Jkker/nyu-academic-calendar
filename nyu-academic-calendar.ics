@@ -27,11 +27,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:319664
 SUMMARY:Withdrawal Deadline: First 3-Week Session
-DTSTAMP:20230601T195637Z
+DTSTAMP:20230601T215155Z
 DTSTART;VALUE=DATE:20230606
 URL:https://events.nyu.edu/event/319664-withdrawal-deadline-first-3-week-se
 	ssion
-CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2023
 DURATION:P1DT
 END:VEVENT
@@ -71,11 +71,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:303527
 SUMMARY:“Withdrawal Period Begins: Second 3-Week Session”
-DTSTAMP:20220422T131845Z
+DTSTAMP:20230601T215506Z
 DTSTART;VALUE=DATE:20230614
 URL:https://events.nyu.edu/event/303527-withdrawal-period-begins-second-3-w
 	eek-session
-CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2023
 DURATION:P1DT
 END:VEVENT
@@ -93,30 +93,30 @@ END:VEVENT
 BEGIN:VEVENT
 UID:319665
 SUMMARY:Withdrawal Deadline: First 6-Week
-DTSTAMP:20230601T200419Z
+DTSTAMP:20230601T215221Z
 DTSTART;VALUE=DATE:20230624
 URL:https://events.nyu.edu/event/319665-withdrawal-deadline-first-6-week
-CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2023
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
 UID:319666
 SUMMARY:Withdrawal Deadline: Second 3-Week
-DTSTAMP:20230601T200721Z
+DTSTAMP:20230601T215239Z
 DTSTART;VALUE=DATE:20230629
 URL:https://events.nyu.edu/event/319666-withdrawal-deadline-second-3-week
-CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2023
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
 UID:319667
 SUMMARY:Withdrawal Deadline: 7-Week
-DTSTAMP:20230601T200935Z
+DTSTAMP:20230601T215314Z
 DTSTART;VALUE=DATE:20230630
 URL:https://events.nyu.edu/event/319667-withdrawal-deadline-7-week
-CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2023
 DURATION:P1DT
 END:VEVENT
@@ -169,11 +169,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:303522
 SUMMARY:“Withdrawal Period Begins: Third 3-Week Session”
-DTSTAMP:20220422T132046Z
+DTSTAMP:20230601T215450Z
 DTSTART;VALUE=DATE:20230708
 URL:https://events.nyu.edu/event/303522-withdrawal-period-begins-third-3-we
 	ek-session
-CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2023
 DURATION:P1DT
 END:VEVENT
@@ -191,11 +191,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:303519
 SUMMARY:Withdrawal Period Begins: Second 6-Week Session
-DTSTAMP:20220422T132146Z
+DTSTAMP:20230601T215436Z
 DTSTART;VALUE=DATE:20230710
 URL:https://events.nyu.edu/event/303519-withdrawal-period-begins-second-6-w
 	eek-session
-CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2023
 DURATION:P1DT
 END:VEVENT
@@ -213,20 +213,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:319669
 SUMMARY:Withdrawal Deadline: 10-Week
-DTSTAMP:20230601T203353Z
+DTSTAMP:20230601T215329Z
 DTSTART;VALUE=DATE:20230717
 URL:https://events.nyu.edu/event/319669-withdrawal-deadline-10-week
-CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2023
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
 UID:319670
 SUMMARY:Withdrawal Deadline: Third 3-Week
-DTSTAMP:20230601T203832Z
+DTSTAMP:20230601T215347Z
 DTSTART;VALUE=DATE:20230722
 URL:https://events.nyu.edu/event/319670-withdrawal-deadline-third-3-week
-CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2023
 DURATION:P1DT
 END:VEVENT
@@ -276,11 +276,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:303494
 SUMMARY:Withdrawal Period Begins: Fourth 3-Week Session
-DTSTAMP:20220420T163610Z
+DTSTAMP:20230601T215420Z
 DTSTART;VALUE=DATE:20230729
 URL:https://events.nyu.edu/event/303494-withdrawal-period-begins-fourth-3-w
 	eek-session
-CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2023
 DURATION:P1DT
 END:VEVENT
@@ -300,7 +300,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:304052
 SUMMARY:Summer 2023 Withdrawal Deadline
-DTSTAMP:20221123T163223Z
+DTSTAMP:20230601T215403Z
 DTSTART;VALUE=DATE:20230731
 DESCRIPTION:<p>\n  Last day for students to submit a request to (a) withdra
 	w from any or all Summer class(es) and (b) totally withdraw from the Unive
@@ -308,7 +308,7 @@ DESCRIPTION:<p>\n  Last day for students to submit a request to (a) withdra
 	s should consult the academic calendar of their home school study away sit
 	e.\n</p>
 URL:https://events.nyu.edu/event/304052-summer-2023-withdrawal-deadline
-CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2023
 DURATION:P1DT
 END:VEVENT
@@ -507,9 +507,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:293000
 SUMMARY:Winter Recess for Students
-DTSTAMP:20210915T162440Z
+DTSTAMP:20230601T215101Z
 DTSTART;VALUE=DATE:20231223
-DTEND;VALUE=DATE:20240108
+DTEND;VALUE=DATE:20240103
 URL:https://events.nyu.edu/event/293000-winter-recess-for-students
 CATEGORIES:2023-2024 Academic Year,Fall 2023,StudentLink
 END:VEVENT
