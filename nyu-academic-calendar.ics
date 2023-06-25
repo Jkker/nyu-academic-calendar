@@ -9,16 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:319665
-SUMMARY:Withdrawal Deadline: First 6-Week
-DTSTAMP:20230601T215221Z
-DTSTART;VALUE=DATE:20230624
-URL:https://events.nyu.edu/event/319665-withdrawal-deadline-first-6-week
-CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
-	ntLink,Summer 2023
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:319666
 SUMMARY:Withdrawal Deadline: Second 3-Week
 DTSTAMP:20230601T215239Z
