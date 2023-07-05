@@ -9,17 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:286080
-SUMMARY:Independence Day
-DTSTAMP:20210303T183725Z
-DTSTART;VALUE=DATE:20230704
-DESCRIPTION:In New York\, no classes are scheduled and University offices a
-	re closed.
-URL:https://events.nyu.edu/event/286080-independence-day
-CATEGORIES:2022-2023 Academic Year,StudentLink,Summer 2023
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:303526
 SUMMARY:“Last Day of Summer 2023 Classes: First 6-Week and Second 3-Week Se
 	ssions”
