@@ -9,18 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:303525
-SUMMARY:“Summer 2023 Classes Begin: Second 6-Week and Third 3-Week Sessions
-	”
-DTSTAMP:20220422T131945Z
-DTSTART;VALUE=DATE:20230706
-URL:https://events.nyu.edu/event/303525-summer-2023-classes-begin-second-6-
-	week-and-third
-CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
-	ntLink,Summer 2023
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:303524
 SUMMARY:“Summer 2023 Drop/Add Deadline: Third 3-Week Session”
 DTSTAMP:20220422T132029Z
