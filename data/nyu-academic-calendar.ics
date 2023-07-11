@@ -9,17 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:303519
-SUMMARY:Withdrawal Period Begins: Second 6-Week Session
-DTSTAMP:20230601T215436Z
-DTSTART;VALUE=DATE:20230710
-URL:https://events.nyu.edu/event/303519-withdrawal-period-begins-second-6-w
-	eek-session
-CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
-	ntLink,Summer 2023
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:303566
 SUMMARY:Last Day of Summer 2023 Classes: 7-Week Session
 DTSTAMP:20220421T210146Z
