@@ -9,17 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:303566
-SUMMARY:Last Day of Summer 2023 Classes: 7-Week Session
-DTSTAMP:20220421T210146Z
-DTSTART;VALUE=DATE:20230712
-URL:https://events.nyu.edu/event/303566-last-day-of-summer-2023-classes-7-w
-	eek-session
-CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
-	ntLink,Summer 2023
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:319669
 SUMMARY:Withdrawal Deadline: 10-Week
 DTSTAMP:20230601T215329Z
