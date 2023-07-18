@@ -9,16 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:319669
-SUMMARY:Withdrawal Deadline: 10-Week
-DTSTAMP:20230601T215329Z
-DTSTART;VALUE=DATE:20230717
-URL:https://events.nyu.edu/event/319669-withdrawal-deadline-10-week
-CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
-	ntLink,Summer 2023
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:319670
 SUMMARY:Withdrawal Deadline: Third 3-Week
 DTSTAMP:20230601T215347Z
