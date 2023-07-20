@@ -171,6 +171,16 @@ CATEGORIES:2023-2024 Academic Year,Fall 2023,Registration Dates &amp; Deadl
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:320707
+SUMMARY:Fall 2023 Census Date
+DTSTAMP:20230720T144046Z
+DTSTART;VALUE=DATE:20230925
+URL:https://events.nyu.edu/event/320707-fall-2023-census-date
+CATEGORIES:2023-2024 Academic Year,Fall 2023,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:320389
 SUMMARY:January 2024 Class Schedule Published
 DTSTAMP:20230712T160111Z
@@ -355,6 +365,16 @@ CATEGORIES:2023-2024 Academic Year,January Term 2024,StudentLink
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:320706
+SUMMARY:January 2024 Census Date
+DTSTAMP:20230720T143800Z
+DTSTART;VALUE=DATE:20240105
+URL:https://events.nyu.edu/event/320706-january-2024-census-date
+CATEGORIES:2023-2024 Academic Year,January Term 2024,Registration Dates &am
+	p; Deadlines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:286119
 SUMMARY:Martin Luther King\, Jr. Birthday
 DTSTAMP:20210303T194242Z
@@ -404,6 +424,16 @@ DTSTAMP:20230501T012353Z
 DTSTART;VALUE=DATE:20240122
 URL:https://events.nyu.edu/event/286110-spring-2024-classes-begin
 CATEGORIES:2023-2024 Academic Year,Spring 2024,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:320708
+SUMMARY:Spring 2024 Census Date
+DTSTAMP:20230720T144312Z
+DTSTART;VALUE=DATE:20240211
+URL:https://events.nyu.edu/event/320708-spring-2024-census-date
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2024,StudentLink
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
@@ -660,6 +690,16 @@ DESCRIPTION:<span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;:&q
 	.</span>
 URL:https://events.nyu.edu/event/319098-no-classes-scheduled
 CATEGORIES:2023-2024 Academic Year,StudentLink,Summer 2024
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:320709
+SUMMARY:Summer 2024 Census Date
+DTSTAMP:20230720T144605Z
+DTSTART;VALUE=DATE:20240725
+URL:https://events.nyu.edu/event/320709-summer-2024-census-date
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2024
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
