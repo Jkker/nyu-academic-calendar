@@ -9,16 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:319670
-SUMMARY:Withdrawal Deadline: Third 3-Week
-DTSTAMP:20230601T215347Z
-DTSTART;VALUE=DATE:20230722
-URL:https://events.nyu.edu/event/319670-withdrawal-deadline-third-3-week
-CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
-	ntLink,Summer 2023
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:303517
 SUMMARY:Last Day of Summer 2023 Classes: Third 3-Week Session
 DTSTAMP:20220422T132208Z
