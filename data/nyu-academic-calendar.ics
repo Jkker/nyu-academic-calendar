@@ -91,6 +91,21 @@ CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:320842
+SUMMARY:REMINDER: Apply for Fall 2023 Graduation
+DTSTAMP:20230725T144621Z
+DTSTART;VALUE=DATE:20230801
+DTEND;VALUE=DATE:20231002
+DESCRIPTION:Students completing their graduation requirements by the end of
+	 Fall 2023/January 2024 semester must Apply for Graduation via Albert.*<br
+	 />\n<em>Though related\, your eligibility for attending All-University Co
+	mmencement and school ceremonies are separate unique processes and more in
+	formation can be found here…</em>
+URL:https://events.nyu.edu/event/320842-reminder-apply-for-fall-2023-gradua
+	tion
+CATEGORIES:2023-2024 Academic Year,Fall 2023,Graduation,StudentLink
+END:VEVENT
+BEGIN:VEVENT
 UID:303493
 SUMMARY:Last Day of Summer 2023 Classes: 10-Week Session
 DTSTAMP:20220422T131526Z
@@ -112,6 +127,21 @@ URL:https://events.nyu.edu/event/286082-last-day-of-summer-2023-classes-12-
 CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2023
 DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:320843
+SUMMARY:REMINDER: Apply for Fall 2023 Graduation
+DTSTAMP:20230725T144621Z
+DTSTART;VALUE=DATE:20230901
+DTEND;VALUE=DATE:20231002
+DESCRIPTION:Students completing their graduation requirements by the end of
+	 Fall 2023/January 2024 semester must Apply for Graduation via Albert.*<br
+	 />\n<em>Though related\, your eligibility for attending All-University Co
+	mmencement and school ceremonies are separate unique processes and more in
+	formation can be found here…</em>
+URL:https://events.nyu.edu/event/320843-reminder-apply-for-fall-2023-gradua
+	tion
+CATEGORIES:2023-2024 Academic Year,Fall 2023,Graduation,StudentLink
 END:VEVENT
 BEGIN:VEVENT
 UID:286090
@@ -191,6 +221,21 @@ URL:https://events.nyu.edu/event/306967-summer-2023-conferral-september-gra
 CATEGORIES:2022-2023 Academic Year,Fall 2023,Graduation,Registration Dates 
 	&amp; Deadlines,StudentLink,Summer 2023
 DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:320844
+SUMMARY:REMINDER: Apply for Fall 2023 Graduation
+DTSTAMP:20230725T144621Z
+DTSTART;VALUE=DATE:20231001
+DTEND;VALUE=DATE:20231002
+DESCRIPTION:Students completing their graduation requirements by the end of
+	 Fall 2023/January 2024 semester must Apply for Graduation via Albert.*<br
+	 />\n<em>Though related\, your eligibility for attending All-University Co
+	mmencement and school ceremonies are separate unique processes and more in
+	formation can be found here…</em>
+URL:https://events.nyu.edu/event/320844-reminder-apply-for-fall-2023-gradua
+	tion
+CATEGORIES:2023-2024 Academic Year,Fall 2023,Graduation,StudentLink
 END:VEVENT
 BEGIN:VEVENT
 UID:286105
