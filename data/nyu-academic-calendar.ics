@@ -9,17 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:303517
-SUMMARY:Last Day of Summer 2023 Classes: Third 3-Week Session
-DTSTAMP:20220422T132208Z
-DTSTART;VALUE=DATE:20230726
-URL:https://events.nyu.edu/event/303517-last-day-of-summer-2023-classes-thi
-	rd-3-week
-CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
-	ntLink,Summer 2023
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:303498
 SUMMARY:Summer 2023 Census Date
 DTSTAMP:20220420T164456Z
