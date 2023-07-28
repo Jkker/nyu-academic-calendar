@@ -9,27 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:303498
-SUMMARY:Summer 2023 Census Date
-DTSTAMP:20220420T164456Z
-DTSTART;VALUE=DATE:20230727
-URL:https://events.nyu.edu/event/303498-summer-2023-census-date
-CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
-	ntLink,Summer 2023
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
-UID:303567
-SUMMARY:Summer 2023 Classes Begin: Fourth 3-Week Session
-DTSTAMP:20220421T210325Z
-DTSTART;VALUE=DATE:20230727
-URL:https://events.nyu.edu/event/303567-summer-2023-classes-begin-fourth-3-
-	week-session
-CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
-	ntLink,Summer 2023
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:303497
 SUMMARY:“Summer 2023 Drop/Add Deadline: Fourth 3-Week Session”
 DTSTAMP:20220422T131514Z
