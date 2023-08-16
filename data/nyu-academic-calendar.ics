@@ -12,7 +12,7 @@ BEGIN:VEVENT
 UID:286082
 SUMMARY:Last Day of Summer 2023 Classes: 12-Week\, Second 6-Week\, Fourth 3
 	-Week\, and the Special Session
-DTSTAMP:20220422T131447Z
+DTSTAMP:20230816T203541Z
 DTSTART;VALUE=DATE:20230816
 URL:https://events.nyu.edu/event/286082-last-day-of-summer-2023-classes-12-
 	week-second
@@ -23,7 +23,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:320843
 SUMMARY:REMINDER: Apply for Fall 2023 Graduation
-DTSTAMP:20230725T144621Z
+DTSTAMP:20230816T203541Z
 DTSTART;VALUE=DATE:20230901
 DTEND;VALUE=DATE:20231002
 DESCRIPTION:Students completing their graduation requirements by the end of
@@ -38,7 +38,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:286090
 SUMMARY:Labor Day
-DTSTAMP:20210305T182446Z
+DTSTAMP:20230816T203541Z
 DTSTART;VALUE=DATE:20230904
 DESCRIPTION:In New York\, no classes are scheduled and University offices a
 	re closed.
@@ -49,7 +49,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:286091
 SUMMARY:Fall 2023 Classes Begin
-DTSTAMP:20210305T182413Z
+DTSTAMP:20230816T203541Z
 DTSTART;VALUE=DATE:20230905
 URL:https://events.nyu.edu/event/286091-fall-2023-classes-begin
 CATEGORIES:2023-2024 Academic Year,Fall 2023,StudentLink
@@ -58,7 +58,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:317549
 SUMMARY:Fall 2023 Add/Drop Deadline
-DTSTAMP:20230401T195528Z
+DTSTAMP:20230816T203541Z
 DTSTART;VALUE=DATE:20230918
 URL:https://events.nyu.edu/event/317549-fall-2023-adddrop-deadline
 CATEGORIES:2023-2024 Academic Year,Fall 2023,Registration Dates &amp; Deadl
@@ -68,15 +68,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:317550
 SUMMARY:Fall 2023 Withdrawal Period Begins
-DTSTAMP:20230401T200126Z
+DTSTAMP:20230816T203541Z
 DTSTART;VALUE=DATE:20230919
-DESCRIPTION:Classes dropped on or after this date result in a “W” grade on 
-	the student transcript. To withdraw from a class\, students may Request a 
-	<a href="https://www.nyu.edu/students/student-information-and-resources/re
-	gistration-records-and-graduation/albert-help/training/students/registrati
-	on/request-class-withdrawal.html">Class Withdrawal in Albert.</a><br />\nS
-	tudents can no longer be enrolled into a class from a waitlist and waitlis
-	ts are purged.
+DESCRIPTION:<p>Classes dropped on or after this date result in a “W” grade 
+	on the student transcript. To withdraw from a class\, students may Request
+	 a <a href="https://www.nyu.edu/students/student-information-and-resources
+	/registration-records-and-graduation/albert-help/training/students/registr
+	ation/request-class-withdrawal.html">Class Withdrawal in Albert.</a><br />
+	\nStudents can no longer be enrolled into a class from a waitlist and wait
+	lists are purged.</p>
 URL:https://events.nyu.edu/event/317550-fall-2023-withdrawal-period-begins
 CATEGORIES:2023-2024 Academic Year,Fall 2023,Registration Dates &amp; Deadl
 	ines,StudentLink
@@ -85,7 +85,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:320707
 SUMMARY:Fall 2023 Census Date
-DTSTAMP:20230720T144046Z
+DTSTAMP:20230816T203541Z
 DTSTART;VALUE=DATE:20230925
 URL:https://events.nyu.edu/event/320707-fall-2023-census-date
 CATEGORIES:2023-2024 Academic Year,Fall 2023,Registration Dates &amp; Deadl
@@ -95,7 +95,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:320389
 SUMMARY:January 2024 Class Schedule Published
-DTSTAMP:20230712T160111Z
+DTSTAMP:20230816T203541Z
 DTSTART;VALUE=DATE:20230925
 URL:https://events.nyu.edu/event/320389-january-2024-class-schedule-publish
 	ed
@@ -106,7 +106,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:306967
 SUMMARY:Summer 2023 Conferral (September Graduates)
-DTSTAMP:20220923T202942Z
+DTSTAMP:20230816T203541Z
 DTSTART;VALUE=DATE:20230925
 URL:https://events.nyu.edu/event/306967-summer-2023-conferral-september-gra
 	duates
@@ -117,7 +117,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:320844
 SUMMARY:REMINDER: Apply for Fall 2023 Graduation
-DTSTAMP:20230725T144621Z
+DTSTAMP:20230816T203541Z
 DTSTART;VALUE=DATE:20231001
 DTEND;VALUE=DATE:20231002
 DESCRIPTION:Students completing their graduation requirements by the end of
@@ -132,7 +132,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:286105
 SUMMARY:Fall Break
-DTSTAMP:20210305T182329Z
+DTSTAMP:20230816T203541Z
 DTSTART;VALUE=DATE:20231009
 DESCRIPTION:No classes scheduled
 URL:https://events.nyu.edu/event/286105-fall-break
@@ -142,7 +142,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:320390
 SUMMARY:January 2024 Registration Begins
-DTSTAMP:20230712T160153Z
+DTSTAMP:20230816T203541Z
 DTSTART;VALUE=DATE:20231010
 URL:https://events.nyu.edu/event/320390-january-2024-registration-begins
 CATEGORIES:2023-2024 Academic Year,Fall 2023,January Term 2024,Registration
@@ -152,7 +152,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:286106
 SUMMARY:Legislative Monday
-DTSTAMP:20210305T182245Z
+DTSTAMP:20230816T203541Z
 DTSTART;VALUE=DATE:20231010
 DESCRIPTION:Classes meet according to a Monday schedule.
 URL:https://events.nyu.edu/event/286106-legislative-monday
@@ -162,7 +162,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:320360
 SUMMARY:Spring 2024 Class Schedule Published
-DTSTAMP:20230711T185300Z
+DTSTAMP:20230816T203541Z
 DTSTART;VALUE=DATE:20231016
 URL:https://events.nyu.edu/event/320360-spring-2024-class-schedule-publishe
 	d
@@ -173,7 +173,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:320361
 SUMMARY:Spring 2024 Registration Begins
-DTSTAMP:20230711T185512Z
+DTSTAMP:20230816T203541Z
 DTSTART;VALUE=DATE:20231113
 DESCRIPTION:Undergraduate and graduate students register at specific appoin
 	tment times.
@@ -185,7 +185,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:286107
 SUMMARY:Fall Break
-DTSTAMP:20210305T182206Z
+DTSTAMP:20230816T203541Z
 DTSTART;VALUE=DATE:20231122
 DESCRIPTION:No classes scheduled
 URL:https://events.nyu.edu/event/286107-fall-break
@@ -195,7 +195,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:286108
 SUMMARY:Thanksgiving Recess
-DTSTAMP:20210303T193750Z
+DTSTAMP:20230816T203541Z
 DTSTART;VALUE=DATE:20231123
 DTEND;VALUE=DATE:20231125
 DESCRIPTION:In New York\, no classes are scheduled and University offices a
@@ -204,36 +204,9 @@ URL:https://events.nyu.edu/event/286108-thanksgiving-recess
 CATEGORIES:2023-2024 Academic Year,Fall 2023,StudentLink
 END:VEVENT
 BEGIN:VEVENT
-UID:319399
-SUMMARY:Fall 2023 Deadline to Request Pass/Fail Grade Option
-DTSTAMP:20230513T110817Z
-DTSTART;VALUE=DATE:20231204
-DESCRIPTION:Last day for students in a school that permits the pass/fail gr
-	ade option to submit a request.
-URL:https://events.nyu.edu/event/319399-fall-2023-deadline-to-request-passf
-	ail-grade
-CATEGORIES:2023-2024 Academic Year,Fall 2023,Registration Dates &amp; Deadl
-	ines,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
-UID:319400
-SUMMARY:Fall 2023 Withdrawal Deadline
-DTSTAMP:20230626T184856Z
-DTSTART;VALUE=DATE:20231204
-DESCRIPTION:Last day for students to submit a request to (a) withdraw from 
-	any or all Fall class(es) and (b) totally withdraw from the University for
-	 Fall. Academic calendars at global sites may vary\, so students should co
-	nsult the academic calendar of their home school study away site.
-URL:https://events.nyu.edu/event/319400-fall-2023-withdrawal-deadline
-CATEGORIES:2023-2024 Academic Year,Fall 2023,Registration Dates &amp; Deadl
-	ines,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:286109
 SUMMARY:Last Day of Fall 2023 Classes
-DTSTAMP:20210305T182111Z
+DTSTAMP:20230816T203541Z
 DTSTART;VALUE=DATE:20231215
 URL:https://events.nyu.edu/event/286109-last-day-of-fall-2023-classes
 CATEGORIES:2023-2024 Academic Year,Fall 2023,StudentLink
@@ -242,7 +215,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:292998
 SUMMARY:Reading Day
-DTSTAMP:20210915T161908Z
+DTSTAMP:20230816T203541Z
 DTSTART;VALUE=DATE:20231216
 DTEND;VALUE=DATE:20231218
 URL:https://events.nyu.edu/event/292998-reading-day
@@ -251,7 +224,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:292999
 SUMMARY:Final Exam Period
-DTSTAMP:20210915T162522Z
+DTSTAMP:20230816T203541Z
 DTSTART;VALUE=DATE:20231218
 DTEND;VALUE=DATE:20231223
 DESCRIPTION:<span class="event-text event-summary"><span data-sheets-value=
@@ -276,7 +249,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:293000
 SUMMARY:Winter Recess for Students
-DTSTAMP:20230601T215101Z
+DTSTAMP:20230816T203541Z
 DTSTART;VALUE=DATE:20231223
 DTEND;VALUE=DATE:20240103
 URL:https://events.nyu.edu/event/293000-winter-recess-for-students
@@ -285,7 +258,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:286116
 SUMMARY:January Term 2024 Classes Begin
-DTSTAMP:20230501T200322Z
+DTSTAMP:20230816T203541Z
 DTSTART;VALUE=DATE:20240103
 URL:https://events.nyu.edu/event/286116-january-term-2024-classes-begin
 CATEGORIES:2023-2024 Academic Year,January Term 2024,StudentLink
@@ -294,7 +267,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:320706
 SUMMARY:January 2024 Census Date
-DTSTAMP:20230720T143800Z
+DTSTAMP:20230816T203541Z
 DTSTART;VALUE=DATE:20240105
 URL:https://events.nyu.edu/event/320706-january-2024-census-date
 CATEGORIES:2023-2024 Academic Year,January Term 2024,Registration Dates &am
@@ -304,7 +277,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:286119
 SUMMARY:Martin Luther King\, Jr. Birthday
-DTSTAMP:20210303T194242Z
+DTSTAMP:20230816T203541Z
 DTSTART;VALUE=DATE:20240115
 DESCRIPTION:In New York\, no classes are scheduled and University offices a
 	re closed.
@@ -315,7 +288,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:320392
 SUMMARY:Summer 2024 Class Schedule Published
-DTSTAMP:20230712T160506Z
+DTSTAMP:20230816T203541Z
 DTSTART;VALUE=DATE:20240116
 URL:https://events.nyu.edu/event/320392-summer-2024-class-schedule-publishe
 	d
@@ -326,7 +299,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:286122
 SUMMARY:Last Day of January Term 2024 Classes
-DTSTAMP:20230501T003743Z
+DTSTAMP:20230816T203541Z
 DTSTART;VALUE=DATE:20240119
 URL:https://events.nyu.edu/event/286122-last-day-of-january-term-2024-class
 	es
@@ -336,7 +309,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:306968
 SUMMARY:Fall 2023 Conferral (January Graduates)
-DTSTAMP:20220923T202641Z
+DTSTAMP:20230816T203541Z
 DTSTART;VALUE=DATE:20240122
 URL:https://events.nyu.edu/event/306968-fall-2023-conferral-january-graduat
 	es
@@ -347,7 +320,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:286110
 SUMMARY:Spring 2024 Classes Begin
-DTSTAMP:20230501T012353Z
+DTSTAMP:20230816T203541Z
 DTSTART;VALUE=DATE:20240122
 URL:https://events.nyu.edu/event/286110-spring-2024-classes-begin
 CATEGORIES:2023-2024 Academic Year,Spring 2024,StudentLink
