@@ -9,18 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:286082
-SUMMARY:Last Day of Summer 2023 Classes: 12-Week\, Second 6-Week\, Fourth 3
-	-Week\, and the Special Session
-DTSTAMP:20230816T203541Z
-DTSTART;VALUE=DATE:20230816
-URL:https://events.nyu.edu/event/286082-last-day-of-summer-2023-classes-12-
-	week-second
-CATEGORIES:2022-2023 Academic Year,Registration Dates &amp; Deadlines,Stude
-	ntLink,Summer 2023
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:320843
 SUMMARY:REMINDER: Apply for Fall 2023 Graduation
 DTSTAMP:20230816T203541Z
