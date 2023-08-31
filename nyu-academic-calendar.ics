@@ -825,7 +825,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:322043
 SUMMARY:Apply for Fall 2024 Graduation
-DTSTAMP:20230831T161131Z
+DTSTAMP:20230831T163740Z
 DTSTART;VALUE=DATE:20240701
 DESCRIPTION:<p>\n  <span style="font-weight: 400\;">Students completing the
 	ir graduation requirements by the end of Fall 2024/January 2025 semester m
@@ -834,8 +834,8 @@ DESCRIPTION:<p>\n  <span style="font-weight: 400\;">Students completing the
 	niversity Commencement and school ceremonies are separate unique processes
 	 and more information can be found here&#8230\;</span></i>\n</p>
 URL:https://events.nyu.edu/event/322043-apply-for-fall-2024-graduation
-CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
-	ntLink,Summer 2024
+CATEGORIES:2023-2024 Academic Year,Graduation,Registration Dates &amp; Dead
+	lines,StudentLink,Summer 2024
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
@@ -929,11 +929,76 @@ CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:322047
+SUMMARY:Withdrawal Deadline: Third 3-Week
+DTSTAMP:20230831T161823Z
+DTSTART;VALUE=DATE:20240717
+URL:https://events.nyu.edu/event/322047-withdrawal-deadline-third-3-week
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2024
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:322048
+SUMMARY:Last Day of Summer 2024 Classes: Third 3-Week Session
+DTSTAMP:20230831T162151Z
+DTSTART;VALUE=DATE:20240723
+URL:https://events.nyu.edu/event/322048-last-day-of-summer-2024-classes-thi
+	rd-3-week
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2024
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:322049
+SUMMARY:Summer 2024 Classes Begin: Fourth 3-Week Session
+DTSTAMP:20230831T162034Z
+DTSTART;VALUE=DATE:20240724
+URL:https://events.nyu.edu/event/322049-summer-2024-classes-begin-fourth-3-
+	week-session
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2024
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:320709
 SUMMARY:Summer 2024 Census Date
 DTSTAMP:20230720T144605Z
 DTSTART;VALUE=DATE:20240725
 URL:https://events.nyu.edu/event/320709-summer-2024-census-date
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2024
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:322050
+SUMMARY:Summer 2024 Drop/Add Deadline: Fourth 3-Week Session
+DTSTAMP:20230831T162402Z
+DTSTART;VALUE=DATE:20240725
+URL:https://events.nyu.edu/event/322050-summer-2024-dropadd-deadline-fourth
+	-3-week-session
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2024
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:322051
+SUMMARY:Withdrawal Period Begins: Fourth 3-Week Session
+DTSTAMP:20230831T162507Z
+DTSTART;VALUE=DATE:20240726
+URL:https://events.nyu.edu/event/322051-withdrawal-period-begins-fourth-3-w
+	eek-session
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2024
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:322052
+SUMMARY:Last Day of Summer 2024 Classes: 10-Week Session
+DTSTAMP:20230831T162654Z
+DTSTART;VALUE=DATE:20240730
+URL:https://events.nyu.edu/event/322052-last-day-of-summer-2024-classes-10-
+	week-session
 CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2024
 DURATION:P1DT
@@ -962,21 +1027,23 @@ CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:286125
-SUMMARY:Last Day of Summer 2024 Classes
-DTSTAMP:20230501T011148Z
+UID:322053
+SUMMARY:Last Day of Summer 2024 Classes: 12-Week\, Second 6-Week\, Fourth 3
+	-Week\, and the Special Session
+DTSTAMP:20230831T162809Z
 DTSTART;VALUE=DATE:20240815
-URL:https://events.nyu.edu/event/286125-last-day-of-summer-2024-classes
+URL:https://events.nyu.edu/event/322053-last-day-of-summer-2024-classes-12-
+	week-second
 CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2024
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:306970
+UID:322054
 SUMMARY:Summer 2024 Conferral (September Graduates)
-DTSTAMP:20220923T203010Z
+DTSTAMP:20230831T163702Z
 DTSTART;VALUE=DATE:20240923
-URL:https://events.nyu.edu/event/306970-summer-2024-conferral-september-gra
+URL:https://events.nyu.edu/event/322054-summer-2024-conferral-september-gra
 	duates
 CATEGORIES:2023-2024 Academic Year,Graduation,Registration Dates &amp; Dead
 	lines,StudentLink,Summer 2024
