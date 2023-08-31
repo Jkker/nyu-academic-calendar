@@ -230,11 +230,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:292998
 SUMMARY:Reading Day
-DTSTAMP:20230830T205740Z
+DTSTAMP:20230831T124719Z
 DTSTART;VALUE=DATE:20231216
-DTEND;VALUE=DATE:20231218
 URL:https://events.nyu.edu/event/292998-reading-day
 CATEGORIES:2023-2024 Academic Year,Fall 2023,StudentLink
+DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
 UID:292999
@@ -280,11 +280,32 @@ CATEGORIES:2023-2024 Academic Year,January Term 2024,StudentLink
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:321989
+SUMMARY:January Term 2024 Drop/Add Deadline
+DTSTAMP:20230831T125458Z
+DTSTART;VALUE=DATE:20240104
+URL:https://events.nyu.edu/event/321989-january-term-2024-dropadd-deadline
+CATEGORIES:2023-2024 Academic Year,January Term 2024,Registration Dates &am
+	p; Deadlines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:320706
 SUMMARY:January 2024 Census Date
 DTSTAMP:20230830T205740Z
 DTSTART;VALUE=DATE:20240105
 URL:https://events.nyu.edu/event/320706-january-2024-census-date
+CATEGORIES:2023-2024 Academic Year,January Term 2024,Registration Dates &am
+	p; Deadlines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:321990
+SUMMARY:January 2024 Term Withdrawal Period Begins
+DTSTAMP:20230831T125743Z
+DTSTART;VALUE=DATE:20240105
+URL:https://events.nyu.edu/event/321990-january-2024-term-withdrawal-period
+	-begins
 CATEGORIES:2023-2024 Academic Year,January Term 2024,Registration Dates &am
 	p; Deadlines,StudentLink
 DURATION:P1DT
@@ -298,6 +319,35 @@ DESCRIPTION:In New York\, no classes are scheduled and University offices a
 	re closed.
 URL:https://events.nyu.edu/event/286119-martin-luther-king-jr-birthday
 CATEGORIES:2023-2024 Academic Year,January Term 2024,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:321992
+SUMMARY:January Term 2024 Deadline to Request Pass/Fail Grade Option
+DTSTAMP:20230831T130434Z
+DTSTART;VALUE=DATE:20240116
+DESCRIPTION:<p>Last day for students in a school that permits the pass/fail
+	 grade option to submit a request.</p>
+URL:https://events.nyu.edu/event/321992-january-term-2024-deadline-to-reque
+	st-passfail
+CATEGORIES:2023-2024 Academic Year,January Term 2024,Registration Dates &am
+	p; Deadlines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:321991
+SUMMARY:January Term 2024 Withdrawal Deadline
+DTSTAMP:20230831T130256Z
+DTSTART;VALUE=DATE:20240116
+DESCRIPTION:<p>Last day for students to submit a request to (a) withdraw fr
+	om any or all January class(es) and (b) totally withdraw from the Universi
+	ty for January. Academic calendars at global sites may vary\, so students 
+	should consult the academic calendar of their home school study away site.
+	</p>
+URL:https://events.nyu.edu/event/321991-january-term-2024-withdrawal-deadli
+	ne
+CATEGORIES:2023-2024 Academic Year,January Term 2024,Registration Dates &am
+	p; Deadlines,StudentLink
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
@@ -339,6 +389,34 @@ DTSTAMP:20230830T205740Z
 DTSTART;VALUE=DATE:20240122
 URL:https://events.nyu.edu/event/286110-spring-2024-classes-begin
 CATEGORIES:2023-2024 Academic Year,Spring 2024,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:321993
+SUMMARY:Spring 2024 Add/Drop Deadline
+DTSTAMP:20230831T130847Z
+DTSTART;VALUE=DATE:20240204
+URL:https://events.nyu.edu/event/321993-spring-2024-adddrop-deadline
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2024,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:321994
+SUMMARY:Spring 2024 Withdrawal Period Begins
+DTSTAMP:20230831T131052Z
+DTSTART;VALUE=DATE:20240205
+DESCRIPTION:<p>Classes dropped on or after this date result in a “W” grade 
+	on the student transcript. To withdraw from a class\, students may Request
+	 a <a href="https://www.nyu.edu/students/student-information-and-resources
+	/registration-records-and-graduation/albert-help/training/students/registr
+	ation/request-class-withdrawal.html">Class Withdrawal in Albert.</a><br />
+	\nStudents can no longer be enrolled into a class from a waitlist and wait
+	lists are purged.</p>
+URL:https://events.nyu.edu/event/321994-spring-2024-withdrawal-period-begin
+	s
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2024,StudentLink
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
@@ -385,6 +463,16 @@ CATEGORIES:2023-2024 Academic Year,Spring 2024,StudentLink
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:321995
+SUMMARY:Fall 2024 Class Schedule Published
+DTSTAMP:20230831T131421Z
+DTSTART;VALUE=DATE:20240311
+URL:https://events.nyu.edu/event/321995-fall-2024-class-schedule-published
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2024,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:286112
 SUMMARY:Spring Break
 DTSTAMP:20210303T193911Z
@@ -405,6 +493,18 @@ DESCRIPTION:<span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;:&q
 	\;:9}">No classes scheduled</span>
 URL:https://events.nyu.edu/event/286112-spring-break
 CATEGORIES:2023-2024 Academic Year,Spring 2024,StudentLink
+END:VEVENT
+BEGIN:VEVENT
+UID:322009
+SUMMARY:Fall 2024 Registration Begins
+DTSTAMP:20230831T131655Z
+DTSTART;VALUE=DATE:20240415
+DESCRIPTION:<p>Undergraduate and graduate students register at specific app
+	ointment times.</p>
+URL:https://events.nyu.edu/event/322009-fall-2024-registration-begins
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2024,StudentLink
+DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
 UID:286113
