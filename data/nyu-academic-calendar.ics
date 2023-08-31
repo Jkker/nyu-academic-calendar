@@ -623,6 +623,52 @@ CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:322014
+SUMMARY:Summer 2024 Drop/Add Deadline: First 3-Week Session
+DTSTAMP:20230831T153840Z
+DTSTART;VALUE=DATE:20240521
+URL:https://events.nyu.edu/event/322014-summer-2024-dropadd-deadline-first-
+	3-week-session
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2024
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:322015
+SUMMARY:Withdrawal Period Begins: First 3-Week Session
+DTSTAMP:20230831T153937Z
+DTSTART;VALUE=DATE:20240522
+URL:https://events.nyu.edu/event/322015-withdrawal-period-begins-first-3-we
+	ek-session
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2024
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:322016
+SUMMARY:Summer 2024 Drop/Add Deadline: 12-Week\, 10-Week\, 7-Week\, and Fir
+	st 6-Week Sessions
+DTSTAMP:20230831T154150Z
+DTSTART;VALUE=DATE:20240523
+URL:https://events.nyu.edu/event/322016-summer-2024-dropadd-deadline-12-wee
+	k-10-week
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2024
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:322017
+SUMMARY:Withdrawal Period Begins: 12-Week\, 10-Week. 7-Week\, and First 6-W
+	eek Sessions
+DTSTAMP:20230831T154309Z
+DTSTART;VALUE=DATE:20240524
+URL:https://events.nyu.edu/event/322017-withdrawal-period-begins-12-week-10
+	-week-7-week
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2024
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:286118
 SUMMARY:Memorial Day
 DTSTAMP:20210318T114846Z
@@ -643,6 +689,61 @@ DESCRIPTION:<span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;:&q
 	 and University offices are closed.</span>
 URL:https://events.nyu.edu/event/286118-memorial-day
 CATEGORIES:2023-2024 Academic Year,StudentLink,Summer 2024
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:322018
+SUMMARY:Withdrawal Deadline: First 3-Week Session
+DTSTAMP:20230831T154522Z
+DTSTART;VALUE=DATE:20240605
+URL:https://events.nyu.edu/event/322018-withdrawal-deadline-first-3-week-se
+	ssion
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2024
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:322019
+SUMMARY:Last Day of Summer 2024 Classes: First 3-Week Session
+DTSTAMP:20230831T154709Z
+DTSTART;VALUE=DATE:20240610
+URL:https://events.nyu.edu/event/322019-last-day-of-summer-2024-classes-fir
+	st-3-week
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2024
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:322026
+SUMMARY:Summer 2024 Classes Begin: Second 3-Week Session
+DTSTAMP:20230831T154844Z
+DTSTART;VALUE=DATE:20240611
+URL:https://events.nyu.edu/event/322026-summer-2024-classes-begin-second-3-
+	week-session
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2024
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:322032
+SUMMARY:Summer 2024 Drop/Add Deadline: Second 3-Week Session
+DTSTAMP:20230831T155000Z
+DTSTART;VALUE=DATE:20240612
+URL:https://events.nyu.edu/event/322032-summer-2024-dropadd-deadline-second
+	-3-week-session
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2024
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:322033
+SUMMARY:Withdrawal Period Begins: Second 3-Week Session
+DTSTAMP:20230831T155112Z
+DTSTART;VALUE=DATE:20240613
+URL:https://events.nyu.edu/event/322033-withdrawal-period-begins-second-3-w
+	eek-session
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2024
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
@@ -692,6 +793,75 @@ CATEGORIES:2023-2024 Academic Year,StudentLink,Summer 2024
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:322034
+SUMMARY:Withdrawal Deadline: First 6-Week
+DTSTAMP:20230831T155333Z
+DTSTART;VALUE=DATE:20240624
+URL:https://events.nyu.edu/event/322034-withdrawal-deadline-first-6-week
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2024
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:322036
+SUMMARY:Withdrawal Deadline: 7-Week
+DTSTAMP:20230831T155558Z
+DTSTART;VALUE=DATE:20240626
+URL:https://events.nyu.edu/event/322036-withdrawal-deadline-7-week
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2024
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:322035
+SUMMARY:Withdrawal Deadline: Second 3-Week
+DTSTAMP:20230831T155451Z
+DTSTART;VALUE=DATE:20240627
+URL:https://events.nyu.edu/event/322035-withdrawal-deadline-second-3-week
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2024
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:322043
+SUMMARY:Apply for Fall 2024 Graduation
+DTSTAMP:20230831T161131Z
+DTSTART;VALUE=DATE:20240701
+DESCRIPTION:<p>\n  <span style="font-weight: 400\;">Students completing the
+	ir graduation requirements by the end of Fall 2024/January 2025 semester m
+	ust Apply for Graduation via Albert.*</span>\n</p>\n<p>\n  <i><span style=
+	"font-weight: 400\;">Though related\, your eligibility for attending All-U
+	niversity Commencement and school ceremonies are separate unique processes
+	 and more information can be found here&#8230\;</span></i>\n</p>
+URL:https://events.nyu.edu/event/322043-apply-for-fall-2024-graduation
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2024
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:322039
+SUMMARY:Last Day of Summer 2024 Classes: First 6-Week and Second 3-Week Ses
+	sions
+DTSTAMP:20230831T155944Z
+DTSTART;VALUE=DATE:20240702
+URL:https://events.nyu.edu/event/322039-last-day-of-summer-2024-classes-fir
+	st-6-week-and
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2024
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:322040
+SUMMARY:Summer 2024 Classes Begin: Second 6-Week and Third 3-Week Sessions
+DTSTAMP:20230831T160226Z
+DTSTART;VALUE=DATE:20240703
+URL:https://events.nyu.edu/event/322040-summer-2024-classes-begin-second-6-
+	week-and-third
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2024
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:286123
 SUMMARY:Independence Day
 DTSTAMP:20210318T114818Z
@@ -735,6 +905,27 @@ DESCRIPTION:<span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;:&q
 	.</span>
 URL:https://events.nyu.edu/event/319098-no-classes-scheduled
 CATEGORIES:2023-2024 Academic Year,StudentLink,Summer 2024
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:322045
+SUMMARY:Last Day of Summer 2024 Classes: 7-Week Session
+DTSTAMP:20230831T161606Z
+DTSTART;VALUE=DATE:20240709
+URL:https://events.nyu.edu/event/322045-last-day-of-summer-2024-classes-7-w
+	eek-session
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2024
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:322046
+SUMMARY:Withdrawal Deadline: 10-Week
+DTSTAMP:20230831T161715Z
+DTSTART;VALUE=DATE:20240715
+URL:https://events.nyu.edu/event/322046-withdrawal-deadline-10-week
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2024
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
