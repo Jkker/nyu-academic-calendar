@@ -9,17 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:286090
-SUMMARY:Labor Day
-DTSTAMP:20230830T205740Z
-DTSTART;VALUE=DATE:20230904
-DESCRIPTION:In New York\, no classes are scheduled and University offices a
-	re closed.
-URL:https://events.nyu.edu/event/286090-labor-day
-CATEGORIES:2023-2024 Academic Year,Fall 2023,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:286091
 SUMMARY:Fall 2023 Classes Begin
 DTSTAMP:20230830T205740Z
