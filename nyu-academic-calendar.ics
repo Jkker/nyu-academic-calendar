@@ -83,6 +83,17 @@ URL:https://events.nyu.edu/event/320844-reminder-apply-for-fall-2023-gradua
 CATEGORIES:2023-2024 Academic Year,Fall 2023,Graduation,StudentLink
 END:VEVENT
 BEGIN:VEVENT
+UID:322760
+SUMMARY:First 7-Week Session Withdrawal Deadline
+DTSTAMP:20230914T174854Z
+DTSTART;VALUE=DATE:20231004
+URL:https://events.nyu.edu/event/322760-first-7-week-session-withdrawal-dea
+	dline
+CATEGORIES:2023-2024 Academic Year,Fall 2023,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:286105
 SUMMARY:Fall Break
 DTSTAMP:20230830T205740Z
@@ -121,6 +132,38 @@ URL:https://events.nyu.edu/event/320360-spring-2024-class-schedule-publishe
 	d
 CATEGORIES:2023-2024 Academic Year,Fall 2023,Registration Dates &amp; Deadl
 	ines,Spring 2024,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:322763
+SUMMARY:Second 7-Week Session Begins
+DTSTAMP:20230914T174640Z
+DTSTART;VALUE=DATE:20231025
+URL:https://events.nyu.edu/event/322763-second-7-week-session-begins
+CATEGORIES:2023-2024 Academic Year,Fall 2023,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:322761
+SUMMARY:Second 7-Week Session Drop/Add Deadline
+DTSTAMP:20230914T174804Z
+DTSTART;VALUE=DATE:20231031
+URL:https://events.nyu.edu/event/322761-second-7-week-session-dropadd-deadl
+	ine
+CATEGORIES:2023-2024 Academic Year,Fall 2023,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:322762
+SUMMARY:Second 7-Week Session Withdrawal Period Begins
+DTSTAMP:20230914T174934Z
+DTSTART;VALUE=DATE:20231101
+URL:https://events.nyu.edu/event/322762-second-7-week-session-withdrawal-pe
+	riod-begins
+CATEGORIES:2023-2024 Academic Year,Fall 2023,Registration Dates &amp; Deadl
+	ines,StudentLink
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
