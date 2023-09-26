@@ -9,38 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:320707
-SUMMARY:Fall 2023 Census Date
-DTSTAMP:20230830T205740Z
-DTSTART;VALUE=DATE:20230925
-URL:https://events.nyu.edu/event/320707-fall-2023-census-date
-CATEGORIES:2023-2024 Academic Year,Fall 2023,Registration Dates &amp; Deadl
-	ines,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
-UID:320389
-SUMMARY:January 2024 Class Schedule Published
-DTSTAMP:20230830T205740Z
-DTSTART;VALUE=DATE:20230925
-URL:https://events.nyu.edu/event/320389-january-2024-class-schedule-publish
-	ed
-CATEGORIES:2023-2024 Academic Year,Fall 2023,January Term 2024,Registration
-	 Dates &amp; Deadlines,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
-UID:306967
-SUMMARY:Summer 2023 Conferral (September Graduates)
-DTSTAMP:20230830T205740Z
-DTSTART;VALUE=DATE:20230925
-URL:https://events.nyu.edu/event/306967-summer-2023-conferral-september-gra
-	duates
-CATEGORIES:2022-2023 Academic Year,Fall 2023,Graduation,Registration Dates 
-	&amp; Deadlines,StudentLink,Summer 2023
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:320844
 SUMMARY:REMINDER: Apply for Fall 2023 Graduation
 DTSTAMP:20230830T205740Z
