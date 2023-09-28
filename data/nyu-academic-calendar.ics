@@ -457,26 +457,25 @@ END:VEVENT
 BEGIN:VEVENT
 UID:322009
 SUMMARY:Fall 2024 Registration Begins
-DTSTAMP:20230831T134050Z
+DTSTAMP:20230928T203110Z
 DTSTART;VALUE=DATE:20240415
 DESCRIPTION:<p>\n  Undergraduate and graduate students register at specific
 	 appointment times.\n</p>
 URL:https://events.nyu.edu/event/322009-fall-2024-registration-begins
 CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Sprin
-	g 2024,StudentLink,Summer 2024
+	g 2024,StudentLink
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
 UID:322011
 SUMMARY:Spring 2024 Deadline to Request Pass/Fail Grade Option
-DTSTAMP:20230831T132602Z
+DTSTAMP:20230928T202552Z
 DTSTART;VALUE=DATE:20240423
-DESCRIPTION:<p>Last day for students in a school that permits the pass/fail
-	 grade option to submit a request.</p>
+DESCRIPTION:<p>\n  Last day for students in a school that permits the pass/
+	fail grade option to submit a request.\n</p>
 URL:https://events.nyu.edu/event/322011-spring-2024-deadline-to-request-pas
 	sfail-grade
-CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Sprin
-	g 2024,StudentLink
+CATEGORIES:2023-2024 Academic Year,Spring 2024,StudentLink
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
