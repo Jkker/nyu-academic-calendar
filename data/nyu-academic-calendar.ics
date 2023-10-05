@@ -9,17 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:322760
-SUMMARY:First 7-Week Session Withdrawal Deadline
-DTSTAMP:20230914T174854Z
-DTSTART;VALUE=DATE:20231004
-URL:https://events.nyu.edu/event/322760-first-7-week-session-withdrawal-dea
-	dline
-CATEGORIES:2023-2024 Academic Year,Fall 2023,Registration Dates &amp; Deadl
-	ines,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:286105
 SUMMARY:Fall Break
 DTSTAMP:20230830T205740Z
