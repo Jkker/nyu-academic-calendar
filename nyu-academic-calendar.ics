@@ -61,6 +61,22 @@ CATEGORIES:2023-2024 Academic Year,Fall 2023,Registration Dates &amp; Deadl
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:324750
+SUMMARY:Apply for Spring 2024 Graduation
+DTSTAMP:20231010T032350Z
+DTSTART;VALUE=DATE:20231101
+DTEND;VALUE=DATE:20240202
+DESCRIPTION:<p>\n  Students completing their graduation requirements by the
+	 end of Spring 2024 semester must Apply for Graduation via Albert.* If you
+	 are taking summer courses you must apply for Summer Graduation in March.<
+	br />\n  <em>Though related\, your eligibility for attending All-Universit
+	y Commencement and school ceremonies are separate unique processes and mor
+	e information can be found here…</em>\n</p>
+URL:https://events.nyu.edu/event/324750-apply-for-spring-2024-graduation
+CATEGORIES:2023-2024 Academic Year,Fall 2023,Graduation,Spring 2024,Student
+	Link
+END:VEVENT
+BEGIN:VEVENT
 UID:322762
 SUMMARY:Second 7-Week Session Withdrawal Period Begins
 DTSTAMP:20230914T174934Z
@@ -114,6 +130,23 @@ DESCRIPTION:In New York\, no classes are scheduled and University offices a
 	re closed.
 URL:https://events.nyu.edu/event/286108-thanksgiving-recess
 CATEGORIES:2023-2024 Academic Year,Fall 2023,StudentLink
+END:VEVENT
+BEGIN:VEVENT
+UID:324751
+SUMMARY:REMINDER: Apply for Spring 2024 Graduation
+DTSTAMP:20231010T032416Z
+DTSTART;VALUE=DATE:20231201
+DTEND;VALUE=DATE:20240202
+DESCRIPTION:<p>\n  Students completing their graduation requirements by the
+	 end of Spring 2024 semester must Apply for Graduation via Albert.* If you
+	 are taking summer courses you must apply for Summer Graduation in March.<
+	br />\n  <em>Though related\, your eligibility for attending All-Universit
+	y Commencement and school ceremonies are separate unique processes and mor
+	e information can be found here…</em>\n</p>
+URL:https://events.nyu.edu/event/324751-reminder-apply-for-spring-2024-grad
+	uation
+CATEGORIES:2023-2024 Academic Year,Fall 2023,Graduation,Spring 2024,Student
+	Link
 END:VEVENT
 BEGIN:VEVENT
 UID:319399
@@ -193,6 +226,22 @@ DTSTART;VALUE=DATE:20231223
 DTEND;VALUE=DATE:20240103
 URL:https://events.nyu.edu/event/293000-winter-recess-for-students
 CATEGORIES:2023-2024 Academic Year,Fall 2023,StudentLink
+END:VEVENT
+BEGIN:VEVENT
+UID:324752
+SUMMARY:REMINDER: Apply for Spring 2024 Graduation
+DTSTAMP:20231010T032416Z
+DTSTART;VALUE=DATE:20240101
+DTEND;VALUE=DATE:20240202
+DESCRIPTION:<p>\n  Students completing their graduation requirements by the
+	 end of Spring 2024 semester must Apply for Graduation via Albert.* If you
+	 are taking summer courses you must apply for Summer Graduation in March.<
+	br />\n  <em>Though related\, your eligibility for attending All-Universit
+	y Commencement and school ceremonies are separate unique processes and mor
+	e information can be found here…</em>\n</p>
+URL:https://events.nyu.edu/event/324752-apply-for-spring-2024-graduation
+CATEGORIES:2023-2024 Academic Year,Fall 2023,Graduation,Spring 2024,Student
+	Link
 END:VEVENT
 BEGIN:VEVENT
 UID:286116
@@ -314,6 +363,22 @@ DTSTART;VALUE=DATE:20240122
 URL:https://events.nyu.edu/event/286110-spring-2024-classes-begin
 CATEGORIES:2023-2024 Academic Year,Spring 2024,StudentLink
 DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:324753
+SUMMARY:REMINDER: Apply for Spring 2024 Graduation
+DTSTAMP:20231010T032416Z
+DTSTART;VALUE=DATE:20240201
+DTEND;VALUE=DATE:20240202
+DESCRIPTION:<p>\n  Students completing their graduation requirements by the
+	 end of Spring 2024 semester must Apply for Graduation via Albert.* If you
+	 are taking summer courses you must apply for Summer Graduation in March.<
+	br />\n  <em>Though related\, your eligibility for attending All-Universit
+	y Commencement and school ceremonies are separate unique processes and mor
+	e information can be found here…</em>\n</p>
+URL:https://events.nyu.edu/event/324753-apply-for-spring-2024-graduation
+CATEGORIES:2023-2024 Academic Year,Fall 2023,Graduation,Spring 2024,Student
+	Link
 END:VEVENT
 BEGIN:VEVENT
 UID:321993
