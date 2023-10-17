@@ -9,17 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:320360
-SUMMARY:Spring 2024 Class Schedule Published
-DTSTAMP:20230830T205740Z
-DTSTART;VALUE=DATE:20231016
-URL:https://events.nyu.edu/event/320360-spring-2024-class-schedule-publishe
-	d
-CATEGORIES:2023-2024 Academic Year,Fall 2023,Registration Dates &amp; Deadl
-	ines,Spring 2024,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:322763
 SUMMARY:Second 7-Week Session Begins
 DTSTAMP:20230914T174640Z
