@@ -9,16 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:322763
-SUMMARY:Second 7-Week Session Begins
-DTSTAMP:20230914T174640Z
-DTSTART;VALUE=DATE:20231025
-URL:https://events.nyu.edu/event/322763-second-7-week-session-begins
-CATEGORIES:2023-2024 Academic Year,Fall 2023,Registration Dates &amp; Deadl
-	ines,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:322761
 SUMMARY:Second 7-Week Session Drop/Add Deadline
 DTSTAMP:20230914T174804Z
