@@ -9,17 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:322761
-SUMMARY:Second 7-Week Session Drop/Add Deadline
-DTSTAMP:20230914T174804Z
-DTSTART;VALUE=DATE:20231031
-URL:https://events.nyu.edu/event/322761-second-7-week-session-dropadd-deadl
-	ine
-CATEGORIES:2023-2024 Academic Year,Fall 2023,Registration Dates &amp; Deadl
-	ines,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:324750
 SUMMARY:Apply for Spring 2024 Graduation
 DTSTAMP:20231010T032350Z
