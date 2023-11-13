@@ -1217,11 +1217,21 @@ END:VEVENT
 BEGIN:VEVENT
 UID:326603
 SUMMARY:Winter Recess for Students
-DTSTAMP:20231113T034417Z
+DTSTAMP:20231113T181346Z
 DTSTART;VALUE=DATE:20241221
 DTEND;VALUE=DATE:20250102
 URL:https://events.nyu.edu/event/326603-winter-recess-for-students
 CATEGORIES:2024-2025 Academic Year,Fall 2024,Registration Dates &amp; Deadl
 	ines,StudentLink
+END:VEVENT
+BEGIN:VEVENT
+UID:326645
+SUMMARY:January Term 2025 Classes Begin
+DTSTAMP:20231113T181804Z
+DTSTART;VALUE=DATE:20250102
+URL:https://events.nyu.edu/event/326645-january-term-2025-classes-begin
+CATEGORIES:2024-2025 Academic Year,January Term 2025,Registration Dates &am
+	p; Deadlines,StudentLink
+DURATION:P1DT
 END:VEVENT
 END:VCALENDAR
