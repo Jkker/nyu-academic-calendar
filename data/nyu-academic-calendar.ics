@@ -364,11 +364,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:321995
 SUMMARY:Fall 2024 Class Schedule Published
-DTSTAMP:20230831T134000Z
+DTSTAMP:20231113T030610Z
 DTSTART;VALUE=DATE:20240311
 URL:https://events.nyu.edu/event/321995-fall-2024-class-schedule-published
-CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Sprin
-	g 2024,StudentLink,Summer 2024
+CATEGORIES:2023-2024 Academic Year,Fall 2024,Registration Dates &amp; Deadl
+	ines,Spring 2024,StudentLink
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
@@ -396,13 +396,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:322009
 SUMMARY:Fall 2024 Registration Begins
-DTSTAMP:20230928T203110Z
+DTSTAMP:20231113T030711Z
 DTSTART;VALUE=DATE:20240415
 DESCRIPTION:<p>\n  Undergraduate and graduate students register at specific
 	 appointment times.\n</p>
 URL:https://events.nyu.edu/event/322009-fall-2024-registration-begins
-CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Sprin
-	g 2024,StudentLink
+CATEGORIES:2023-2024 Academic Year,Fall 2024,Registration Dates &amp; Deadl
+	ines,Spring 2024,StudentLink
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
@@ -723,7 +723,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:322043
 SUMMARY:Apply for Fall 2024 Graduation
-DTSTAMP:20230831T163740Z
+DTSTAMP:20231113T030908Z
 DTSTART;VALUE=DATE:20240701
 DESCRIPTION:<p>\n  <span style="font-weight: 400\;">Students completing the
 	ir graduation requirements by the end of Fall 2024/January 2025 semester m
@@ -732,8 +732,8 @@ DESCRIPTION:<p>\n  <span style="font-weight: 400\;">Students completing the
 	niversity Commencement and school ceremonies are separate unique processes
 	 and more information can be found here&#8230\;</span></i>\n</p>
 URL:https://events.nyu.edu/event/322043-apply-for-fall-2024-graduation
-CATEGORIES:2023-2024 Academic Year,Graduation,Registration Dates &amp; Dead
-	lines,StudentLink,Summer 2024
+CATEGORIES:2023-2024 Academic Year,Fall 2024,Graduation,Registration Dates 
+	&amp; Deadlines,StudentLink,Summer 2024
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
@@ -1026,12 +1026,35 @@ CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:326588
+SUMMARY:Labor Day
+DTSTAMP:20231113T031313Z
+DTSTART;VALUE=DATE:20240902
+DESCRIPTION:<p>In New York\, no classes are scheduled and University office
+	s are closed.</p>
+URL:https://events.nyu.edu/event/326588-labor-day
+CATEGORIES:2024-2025 Academic Year,Fall 2024,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:326020
 SUMMARY:Fall 2024 Classes Begin
-DTSTAMP:20231101T152244Z
+DTSTAMP:20231113T030825Z
 DTSTART;VALUE=DATE:20240903
 URL:https://events.nyu.edu/event/326020-fall-2024-classes-begin
-CATEGORIES:Registration Dates &amp; Deadlines,StudentLink
+CATEGORIES:2024-2025 Academic Year,Fall 2024,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:326589
+SUMMARY:Fall 2024 Classes Begin
+DTSTAMP:20231113T031438Z
+DTSTART;VALUE=DATE:20240903
+URL:https://events.nyu.edu/event/326589-fall-2024-classes-begin
+CATEGORIES:2024-2025 Academic Year,Fall 2024,Registration Dates &amp; Deadl
+	ines,StudentLink
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
