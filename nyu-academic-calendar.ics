@@ -1234,4 +1234,233 @@ CATEGORIES:2024-2025 Academic Year,January Term 2025,Registration Dates &am
 	p; Deadlines,StudentLink
 DURATION:P1DT
 END:VEVENT
+BEGIN:VEVENT
+UID:326646
+SUMMARY:January Term 2025 Drop/Add Deadline
+DTSTAMP:20231113T182608Z
+DTSTART;VALUE=DATE:20250104
+URL:https://events.nyu.edu/event/326646-january-term-2025-dropadd-deadline
+CATEGORIES:2024-2025 Academic Year,January Term 2025,Registration Dates &am
+	p; Deadlines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:326648
+SUMMARY:January 2025 Term Withdrawal Period Begins
+DTSTAMP:20231113T182927Z
+DTSTART;VALUE=DATE:20250105
+URL:https://events.nyu.edu/event/326648-january-2025-term-withdrawal-period
+	-begins
+CATEGORIES:2023-2024 Academic Year,January Term 2025,Registration Dates &am
+	p; Deadlines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:326647
+SUMMARY:January 2025 Census Date
+DTSTAMP:20231113T182733Z
+DTSTART;VALUE=DATE:20250106
+URL:https://events.nyu.edu/event/326647-january-2025-census-date
+CATEGORIES:2024-2025 Academic Year,January Term 2025,Registration Dates &am
+	p; Deadlines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:326650
+SUMMARY:Last Day of January Term 2025 Classes
+DTSTAMP:20231113T183258Z
+DTSTART;VALUE=DATE:20250117
+URL:https://events.nyu.edu/event/326650-last-day-of-january-term-2025-class
+	es
+CATEGORIES:2024-2025 Academic Year,January Term 2025,Registration Dates &am
+	p; Deadlines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:326649
+SUMMARY:Martin Luther King\, Jr. Birthday
+DTSTAMP:20231113T183057Z
+DTSTART;VALUE=DATE:20250120
+URL:https://events.nyu.edu/event/326649-martin-luther-king-jr-birthday
+CATEGORIES:2024-2025 Academic Year,January Term 2025,Registration Dates &am
+	p; Deadlines,Spring 2025,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:326651
+SUMMARY:Spring 2025 Classes Begin
+DTSTAMP:20231113T183653Z
+DTSTART;VALUE=DATE:20250121
+URL:https://events.nyu.edu/event/326651-spring-2025-classes-begin
+CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2025,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:326652
+SUMMARY:Spring 2025 Add/Drop Deadline
+DTSTAMP:20231113T183824Z
+DTSTART;VALUE=DATE:20250203
+URL:https://events.nyu.edu/event/326652-spring-2025-adddrop-deadline
+CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2025,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:326653
+SUMMARY:Spring 2025 Withdrawal Period Begins
+DTSTAMP:20231113T184008Z
+DTSTART;VALUE=DATE:20250204
+DESCRIPTION:<table>\n  <tbody>\n    <tr>\n      <td>\n        <p>\n        
+	  Classes dropped on or after this date result in a “W” grade on the stude
+	nt transcript. To withdraw from a class\, students may Request a <a href="
+	https://www.nyu.edu/students/student-information-and-resources/registratio
+	n-records-and-graduation/albert-help/training/students/registration/reques
+	t-class-withdrawal.html">Class Withdrawal in Albert.</a><br />\n          
+	Students can no longer be enrolled into a class from a waitlist and waitli
+	sts are purged.\n        </p>\n      </td>\n    </tr>\n  </tbody>\n</table
+	>
+URL:https://events.nyu.edu/event/326653-spring-2025-withdrawal-period-begin
+	s
+CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2025,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:326654
+SUMMARY:Spring 2025 Census Date
+DTSTAMP:20231113T184116Z
+DTSTART;VALUE=DATE:20250210
+URL:https://events.nyu.edu/event/326654-spring-2025-census-date
+CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2025,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:326655
+SUMMARY:Presidents’ Day
+DTSTAMP:20231113T184257Z
+DTSTART;VALUE=DATE:20250217
+DESCRIPTION:<table>\n  <tbody>\n    <tr>\n      <td>\n        <span data-sh
+	eets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;:&quot\;In New York\, no cl
+	asses are scheduled and University offices are closed.&quot\;}" data-sheet
+	s-userformat="{&quot\;2&quot\;:15275\,&quot\;3&quot\;:{&quot\;1&quot\;:0}\
+	,&quot\;4&quot\;:{&quot\;1&quot\;:2\,&quot\;2&quot\;:13228792}\,&quot\;6&q
+	uot\;:{&quot\;1&quot\;:[{&quot\;1&quot\;:2\,&quot\;2&quot\;:0\,&quot\;5&qu
+	ot\;:[null\,2\,0]}\,{&quot\;1&quot\;:0\,&quot\;2&quot\;:0\,&quot\;3&quot\;
+	:3}\,{&quot\;1&quot\;:1\,&quot\;2&quot\;:0\,&quot\;4&quot\;:1}]}\,&quot\;8
+	&quot\;:{&quot\;1&quot\;:[{&quot\;1&quot\;:2\,&quot\;2&quot\;:0\,&quot\;5&
+	quot\;:[null\,2\,0]}\,{&quot\;1&quot\;:0\,&quot\;2&quot\;:0\,&quot\;3&quot
+	\;:3}\,{&quot\;1&quot\;:1\,&quot\;2&quot\;:0\,&quot\;4&quot\;:1}]}\,&quot\
+	;10&quot\;:1\,&quot\;11&quot\;:4\,&quot\;12&quot\;:0\,&quot\;14&quot\;:[nu
+	ll\,2\,0]\,&quot\;15&quot\;:&quot\;Calibri\, sans-serif&quot\;\,&quot\;16&
+	quot\;:11}">In New York\, no classes are scheduled and University offices 
+	are closed.</span>\n      </td>\n    </tr>\n  </tbody>\n</table>
+URL:https://events.nyu.edu/event/326655-presidents-day
+CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2025,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:326656
+SUMMARY:Legislative Monday
+DTSTAMP:20231113T184439Z
+DTSTART;VALUE=DATE:20250218
+URL:https://events.nyu.edu/event/326656-legislative-monday
+CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2025,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:326657
+SUMMARY:Spring Break
+DTSTAMP:20231113T184724Z
+DTSTART;VALUE=DATE:20250324
+DTEND;VALUE=DATE:20250329
+DESCRIPTION:<p>No classes scheduled</p>
+URL:https://events.nyu.edu/event/326657-spring-break
+CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2025,StudentLink
+END:VEVENT
+BEGIN:VEVENT
+UID:326658
+SUMMARY:Last Day of Spring 2025 Classes
+DTSTAMP:20231113T184849Z
+DTSTART;VALUE=DATE:20250506
+URL:https://events.nyu.edu/event/326658-last-day-of-spring-2025-classes
+CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2025,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:326659
+SUMMARY:Reading Day
+DTSTAMP:20231113T184948Z
+DTSTART;VALUE=DATE:20250507
+URL:https://events.nyu.edu/event/326659-reading-day
+CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2025,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:326661
+SUMMARY:Final Exam Period
+DTSTAMP:20231113T185355Z
+DTSTART;VALUE=DATE:20250508
+DTEND;VALUE=DATE:20250510
+DESCRIPTION:<p>NYU Schools of Medicine\, Law\, Dentistry\, and Graduate Ste
+	rn manage different final exam schedules. Refer to school-specific calenda
+	rs for these details.</p>
+URL:https://events.nyu.edu/event/326661-final-exam-period
+CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2025,StudentLink
+END:VEVENT
+BEGIN:VEVENT
+UID:326660
+SUMMARY:Final Exam Period
+DTSTAMP:20231113T185241Z
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250515
+DESCRIPTION:<p>NYU Schools of Medicine\, Law\, Dentistry\, and Graduate Ste
+	rn manage different final exam schedules. Refer to school-specific calenda
+	rs for these details.</p>
+URL:https://events.nyu.edu/event/326660-final-exam-period
+CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2025,StudentLink
+END:VEVENT
+BEGIN:VEVENT
+UID:326662
+SUMMARY:Commencement
+DTSTAMP:20231113T185534Z
+DTSTART;VALUE=DATE:20250515
+DESCRIPTION:<table>\n  <tbody>\n    <tr>\n      <td>\n        <span data-sh
+	eets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;:&quot\;Please review the G
+	raduation and Diplomas page for more information.&quot\;}" data-sheets-use
+	rformat="{&quot\;2&quot\;:15275\,&quot\;3&quot\;:{&quot\;1&quot\;:0}\,&quo
+	t\;4&quot\;:{&quot\;1&quot\;:2\,&quot\;2&quot\;:13228792}\,&quot\;6&quot\;
+	:{&quot\;1&quot\;:[{&quot\;1&quot\;:2\,&quot\;2&quot\;:0\,&quot\;5&quot\;:
+	[null\,2\,0]}\,{&quot\;1&quot\;:0\,&quot\;2&quot\;:0\,&quot\;3&quot\;:3}\,
+	{&quot\;1&quot\;:1\,&quot\;2&quot\;:0\,&quot\;4&quot\;:1}]}\,&quot\;8&quot
+	\;:{&quot\;1&quot\;:[{&quot\;1&quot\;:2\,&quot\;2&quot\;:0\,&quot\;5&quot\
+	;:[null\,2\,0]}\,{&quot\;1&quot\;:0\,&quot\;2&quot\;:0\,&quot\;3&quot\;:3}
+	\,{&quot\;1&quot\;:1\,&quot\;2&quot\;:0\,&quot\;4&quot\;:1}]}\,&quot\;10&q
+	uot\;:1\,&quot\;11&quot\;:4\,&quot\;12&quot\;:0\,&quot\;14&quot\;:[null\,2
+	\,0]\,&quot\;15&quot\;:&quot\;Calibri\, sans-serif&quot\;\,&quot\;16&quot\
+	;:11}">Please review the Graduation and Diplomas page for more information
+	.</span>\n      </td>\n    </tr>\n  </tbody>\n</table>
+URL:https://events.nyu.edu/event/326662-commencement
+CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2025,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:326663
+SUMMARY:Spring 2025 Conferral (May Graduates)
+DTSTAMP:20231113T185626Z
+DTSTART;VALUE=DATE:20250515
+URL:https://events.nyu.edu/event/326663-spring-2025-conferral-may-graduates
+CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2025,StudentLink
+DURATION:P1DT
+END:VEVENT
 END:VCALENDAR
