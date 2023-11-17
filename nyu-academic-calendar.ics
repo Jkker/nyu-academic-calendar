@@ -327,6 +327,22 @@ CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Sprin
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:326906
+SUMMARY:Last Day to Apply for Spring 2024 Graduation
+DTSTAMP:20231117T144942Z
+DTSTART;VALUE=DATE:20240215
+DESCRIPTION:<p>Students completing their graduation requirements by the end
+	 of Spring 2024 semester must Apply for Graduation via Albert.* If you are
+	 taking summer courses you must apply for Summer Graduation in March.<br /
+	>\n<em>Though related\, your eligibility for attending All-University Comm
+	encement and school ceremonies are separate unique processes and more info
+	rmation can be found here…</em></p>
+URL:https://events.nyu.edu/event/326906-last-day-to-apply-for-spring-2024-g
+	raduation
+CATEGORIES:2023-2024 Academic Year,Graduation,Spring 2024,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:286111
 SUMMARY:Presidents’ Day
 DTSTAMP:20210303T193831Z
@@ -348,6 +364,37 @@ DESCRIPTION:<span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;:&q
 URL:https://events.nyu.edu/event/286111-presidents-day
 CATEGORIES:2023-2024 Academic Year,Spring 2024,StudentLink
 DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:326907
+SUMMARY:Apply for Summer 2024 Graduation
+DTSTAMP:20231117T150333Z
+DTSTART;VALUE=DATE:20240301
+DESCRIPTION:<p>\n  Students completing their graduation requirements by the
+	 end of Summer 2024 must Apply for Graduation via Albert.*<br />\n  <em>Th
+	ough related\, your eligibility for attending All-University Commencement 
+	and school ceremonies are separate unique processes and more information c
+	an be found here…</em>\n</p>
+URL:https://events.nyu.edu/event/326907-apply-for-summer-2024-graduation
+CATEGORIES:2023-2024 Academic Year,2024-2025 Academic Year,Graduation,Sprin
+	g 2024,StudentLink,Summer 2024
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:326908
+SUMMARY:REMINDER: Apply for Summer 2024 Graduation
+DTSTAMP:20231117T150402Z
+DTSTART;VALUE=DATE:20240301
+DTEND;VALUE=DATE:20240602
+DESCRIPTION:<p>\n  Students completing their graduation requirements by the
+	 end of Summer 2024 must Apply for Graduation via Albert.*<br />\n  <em>Th
+	ough related\, your eligibility for attending All-University Commencement 
+	and school ceremonies are separate unique processes and more information c
+	an be found here…</em>\n</p>
+URL:https://events.nyu.edu/event/326908-reminder-apply-for-summer-2024-grad
+	uation
+CATEGORIES:2023-2024 Academic Year,Graduation,Spring 2024,StudentLink,Summe
+	r 2024
 END:VEVENT
 BEGIN:VEVENT
 UID:321995
@@ -380,6 +427,22 @@ DESCRIPTION:<p><span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;
 	uot\;:9}">No classes scheduled</span></p>
 URL:https://events.nyu.edu/event/286112-spring-break
 CATEGORIES:2023-2024 Academic Year,Spring 2024,StudentLink
+END:VEVENT
+BEGIN:VEVENT
+UID:326909
+SUMMARY:REMINDER: Apply for Summer 2024 Graduation
+DTSTAMP:20231117T150402Z
+DTSTART;VALUE=DATE:20240401
+DTEND;VALUE=DATE:20240602
+DESCRIPTION:<p>\n  Students completing their graduation requirements by the
+	 end of Summer 2024 must Apply for Graduation via Albert.*<br />\n  <em>Th
+	ough related\, your eligibility for attending All-University Commencement 
+	and school ceremonies are separate unique processes and more information c
+	an be found here…</em>\n</p>
+URL:https://events.nyu.edu/event/326909-reminder-apply-for-summer-2023-grad
+	uation
+CATEGORIES:2023-2024 Academic Year,Graduation,Spring 2024,StudentLink,Summe
+	r 2024
 END:VEVENT
 BEGIN:VEVENT
 UID:322009
@@ -419,6 +482,22 @@ URL:https://events.nyu.edu/event/322010-spring-2024-withdrawal-deadline
 CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Sprin
 	g 2024,StudentLink
 DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:326910
+SUMMARY:REMINDER: Apply for Summer 2024 Graduation
+DTSTAMP:20231117T150402Z
+DTSTART;VALUE=DATE:20240501
+DTEND;VALUE=DATE:20240602
+DESCRIPTION:<p>\n  Students completing their graduation requirements by the
+	 end of Summer 2024 must Apply for Graduation via Albert.*<br />\n  <em>Th
+	ough related\, your eligibility for attending All-University Commencement 
+	and school ceremonies are separate unique processes and more information c
+	an be found here…</em>\n</p>
+URL:https://events.nyu.edu/event/326910-reminder-apply-for-summer-2023-grad
+	uation
+CATEGORIES:2023-2024 Academic Year,Graduation,Spring 2024,StudentLink,Summe
+	r 2024
 END:VEVENT
 BEGIN:VEVENT
 UID:286113
@@ -578,6 +657,22 @@ CATEGORIES:2023-2024 Academic Year,StudentLink,Summer 2024
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:326911
+SUMMARY:REMINDER: Apply for Summer 2024 Graduation
+DTSTAMP:20231117T150402Z
+DTSTART;VALUE=DATE:20240601
+DTEND;VALUE=DATE:20240602
+DESCRIPTION:<p>\n  Students completing their graduation requirements by the
+	 end of Summer 2024 must Apply for Graduation via Albert.*<br />\n  <em>Th
+	ough related\, your eligibility for attending All-University Commencement 
+	and school ceremonies are separate unique processes and more information c
+	an be found here…</em>\n</p>
+URL:https://events.nyu.edu/event/326911-reminder-apply-for-summer-2023-grad
+	uation
+CATEGORIES:2023-2024 Academic Year,Graduation,Spring 2024,StudentLink,Summe
+	r 2024
+END:VEVENT
+BEGIN:VEVENT
 UID:322018
 SUMMARY:Withdrawal Deadline: First 3-Week Session
 DTSTAMP:20230831T154522Z
@@ -630,6 +725,21 @@ URL:https://events.nyu.edu/event/322033-withdrawal-period-begins-second-3-w
 	eek-session
 CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2024
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:326912
+SUMMARY:Last Day to Apply for Summer 2024 Graduation
+DTSTAMP:20231117T150724Z
+DTSTART;VALUE=DATE:20240615
+DESCRIPTION:<p>Students completing their graduation requirements by the end
+	 of Summer 2024 must Apply for Graduation via Albert.*<br />\n<em>Though r
+	elated\, your eligibility for attending All-University Commencement and sc
+	hool ceremonies are separate unique processes and more information can be 
+	found here…</em></p>
+URL:https://events.nyu.edu/event/326912-last-day-to-apply-for-summer-2024-g
+	raduation
+CATEGORIES:2023-2024 Academic Year,Graduation,StudentLink,Summer 2024
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
