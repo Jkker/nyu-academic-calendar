@@ -9,17 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:286108
-SUMMARY:Thanksgiving Recess
-DTSTAMP:20230830T205740Z
-DTSTART;VALUE=DATE:20231124
-DTEND;VALUE=DATE:20231125
-DESCRIPTION:In New York\, no classes are scheduled and University offices a
-	re closed.
-URL:https://events.nyu.edu/event/286108-thanksgiving-recess
-CATEGORIES:2023-2024 Academic Year,Fall 2023,StudentLink
-END:VEVENT
-BEGIN:VEVENT
 UID:324751
 SUMMARY:REMINDER: Apply for Spring 2024 Graduation
 DTSTAMP:20231010T032416Z
