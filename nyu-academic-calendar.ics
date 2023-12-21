@@ -12,7 +12,7 @@ BEGIN:VEVENT
 UID:292999
 SUMMARY:Final Exam Period
 DTSTAMP:20230830T205740Z
-DTSTART;VALUE=DATE:20231220
+DTSTART;VALUE=DATE:20231221
 DTEND;VALUE=DATE:20231223
 DESCRIPTION:<span class="event-text event-summary"><span data-sheets-value=
 	"{&quot\;1&quot\;:2\,&quot\;2&quot\;:&quot\;NYU Schools of Medicine\, Law\
