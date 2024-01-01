@@ -9,15 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:293000
-SUMMARY:Winter Recess for Students
-DTSTAMP:20230830T205740Z
-DTSTART;VALUE=DATE:20231231
-DTEND;VALUE=DATE:20240103
-URL:https://events.nyu.edu/event/293000-winter-recess-for-students
-CATEGORIES:2023-2024 Academic Year,Fall 2023,StudentLink
-END:VEVENT
-BEGIN:VEVENT
 UID:324752
 SUMMARY:REMINDER: Apply for Spring 2024 Graduation
 DTSTAMP:20231010T032416Z
@@ -32,6 +23,15 @@ DESCRIPTION:<p>\n  Students completing their graduation requirements by the
 URL:https://events.nyu.edu/event/324752-apply-for-spring-2024-graduation
 CATEGORIES:2023-2024 Academic Year,Fall 2023,Graduation,Spring 2024,Student
 	Link
+END:VEVENT
+BEGIN:VEVENT
+UID:293000
+SUMMARY:Winter Recess for Students
+DTSTAMP:20230830T205740Z
+DTSTART;VALUE=DATE:20240101
+DTEND;VALUE=DATE:20240103
+URL:https://events.nyu.edu/event/293000-winter-recess-for-students
+CATEGORIES:2023-2024 Academic Year,Fall 2023,StudentLink
 END:VEVENT
 BEGIN:VEVENT
 UID:286116
