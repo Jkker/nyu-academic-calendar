@@ -9,27 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:320706
-SUMMARY:January 2024 Census Date
-DTSTAMP:20230830T205740Z
-DTSTART;VALUE=DATE:20240105
-URL:https://events.nyu.edu/event/320706-january-2024-census-date
-CATEGORIES:2023-2024 Academic Year,January Term 2024,Registration Dates &am
-	p; Deadlines,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
-UID:321990
-SUMMARY:January 2024 Term Withdrawal Period Begins
-DTSTAMP:20230831T125743Z
-DTSTART;VALUE=DATE:20240105
-URL:https://events.nyu.edu/event/321990-january-2024-term-withdrawal-period
-	-begins
-CATEGORIES:2023-2024 Academic Year,January Term 2024,Registration Dates &am
-	p; Deadlines,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:286119
 SUMMARY:Martin Luther King\, Jr. Birthday
 DTSTAMP:20230830T205740Z
