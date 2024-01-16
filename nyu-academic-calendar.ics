@@ -9,17 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:286119
-SUMMARY:Martin Luther King\, Jr. Birthday
-DTSTAMP:20230830T205740Z
-DTSTART;VALUE=DATE:20240115
-DESCRIPTION:In New York\, no classes are scheduled and University offices a
-	re closed.
-URL:https://events.nyu.edu/event/286119-martin-luther-king-jr-birthday
-CATEGORIES:2023-2024 Academic Year,January Term 2024,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:321992
 SUMMARY:January Term 2024 Deadline to Request Pass/Fail Grade Option
 DTSTAMP:20230831T130434Z
