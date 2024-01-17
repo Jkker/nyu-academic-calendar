@@ -9,46 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:321992
-SUMMARY:January Term 2024 Deadline to Request Pass/Fail Grade Option
-DTSTAMP:20230831T130434Z
-DTSTART;VALUE=DATE:20240116
-DESCRIPTION:<p>Last day for students in a school that permits the pass/fail
-	 grade option to submit a request.</p>
-URL:https://events.nyu.edu/event/321992-january-term-2024-deadline-to-reque
-	st-passfail
-CATEGORIES:2023-2024 Academic Year,January Term 2024,Registration Dates &am
-	p; Deadlines,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
-UID:321991
-SUMMARY:January Term 2024 Withdrawal Deadline
-DTSTAMP:20230831T130256Z
-DTSTART;VALUE=DATE:20240116
-DESCRIPTION:<p>Last day for students to submit a request to (a) withdraw fr
-	om any or all January class(es) and (b) totally withdraw from the Universi
-	ty for January. Academic calendars at global sites may vary\, so students 
-	should consult the academic calendar of their home school study away site.
-	</p>
-URL:https://events.nyu.edu/event/321991-january-term-2024-withdrawal-deadli
-	ne
-CATEGORIES:2023-2024 Academic Year,January Term 2024,Registration Dates &am
-	p; Deadlines,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
-UID:320392
-SUMMARY:Summer 2024 Class Schedule Published
-DTSTAMP:20230831T132920Z
-DTSTART;VALUE=DATE:20240116
-URL:https://events.nyu.edu/event/320392-summer-2024-class-schedule-publishe
-	d
-CATEGORIES:2023-2024 Academic Year,January Term 2024,Registration Dates &am
-	p; Deadlines,Spring 2024,StudentLink,Summer 2024
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:286122
 SUMMARY:Last Day of January Term 2024 Classes
 DTSTAMP:20230830T205740Z
