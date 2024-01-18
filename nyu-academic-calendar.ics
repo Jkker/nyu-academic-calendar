@@ -157,6 +157,17 @@ CATEGORIES:2023-2024 Academic Year,2024-2025 Academic Year,Graduation,Sprin
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:328666
+SUMMARY:First 7-Week Session Withdrawal Deadline
+DTSTAMP:20240118T230410Z
+DTSTART;VALUE=DATE:20240301
+URL:https://events.nyu.edu/event/328666-first-7-week-session-withdrawal-dea
+	dline
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2024,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:326908
 SUMMARY:REMINDER: Apply for Summer 2024 Graduation
 DTSTAMP:20231117T150402Z
@@ -183,6 +194,27 @@ CATEGORIES:2023-2024 Academic Year,Fall 2024,Registration Dates &amp; Deadl
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:328667
+SUMMARY:Second 7-Week Session Begins
+DTSTAMP:20240118T230545Z
+DTSTART;VALUE=DATE:20240312
+URL:https://events.nyu.edu/event/328667-second-7-week-session-begins
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2024,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:328668
+SUMMARY:Second 7-Week Session Drop/Add Deadline
+DTSTAMP:20240118T230718Z
+DTSTART;VALUE=DATE:20240318
+URL:https://events.nyu.edu/event/328668-second-7-week-session-dropadd-deadl
+	ine
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2024,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:286112
 SUMMARY:Spring Break
 DTSTAMP:20230831T205358Z
@@ -203,6 +235,17 @@ DESCRIPTION:<p><span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;
 	uot\;:9}">No classes scheduled</span></p>
 URL:https://events.nyu.edu/event/286112-spring-break
 CATEGORIES:2023-2024 Academic Year,Spring 2024,StudentLink
+END:VEVENT
+BEGIN:VEVENT
+UID:328669
+SUMMARY:Second 7-Week Session Withdrawal Period Begins
+DTSTAMP:20240118T230821Z
+DTSTART;VALUE=DATE:20240319
+URL:https://events.nyu.edu/event/328669-second-7-week-session-withdrawal-pe
+	riod-begins
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2024,StudentLink
+DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
 UID:326909
