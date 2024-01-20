@@ -9,16 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:286122
-SUMMARY:Last Day of January Term 2024 Classes
-DTSTAMP:20230830T205740Z
-DTSTART;VALUE=DATE:20240119
-URL:https://events.nyu.edu/event/286122-last-day-of-january-term-2024-class
-	es
-CATEGORIES:2023-2024 Academic Year,January Term 2024,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:306968
 SUMMARY:Fall 2023 Conferral (January Graduates)
 DTSTAMP:20230830T205740Z
