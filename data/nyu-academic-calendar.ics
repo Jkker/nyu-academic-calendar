@@ -9,26 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:306968
-SUMMARY:Fall 2023 Conferral (January Graduates)
-DTSTAMP:20230830T205740Z
-DTSTART;VALUE=DATE:20240122
-URL:https://events.nyu.edu/event/306968-fall-2023-conferral-january-graduat
-	es
-CATEGORIES:2023-2024 Academic Year,Fall 2023,Graduation,January Term 2024,R
-	egistration Dates &amp; Deadlines,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
-UID:286110
-SUMMARY:Spring 2024 Classes Begin
-DTSTAMP:20230830T205740Z
-DTSTART;VALUE=DATE:20240122
-URL:https://events.nyu.edu/event/286110-spring-2024-classes-begin
-CATEGORIES:2023-2024 Academic Year,Spring 2024,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:324753
 SUMMARY:REMINDER: Apply for Spring 2024 Graduation
 DTSTAMP:20231010T032416Z
