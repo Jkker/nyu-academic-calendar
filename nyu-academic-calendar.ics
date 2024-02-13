@@ -100,6 +100,16 @@ CATEGORIES:2023-2024 Academic Year,Fall 2024,Registration Dates &amp; Deadl
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:330742
+SUMMARY:First 7-Week Session Ends
+DTSTAMP:20240213T155944Z
+DTSTART;VALUE=DATE:20240311
+URL:https://events.nyu.edu/event/330742-first-7-week-session-ends
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2024,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:328667
 SUMMARY:Second 7-Week Session Begins
 DTSTAMP:20240118T230545Z
