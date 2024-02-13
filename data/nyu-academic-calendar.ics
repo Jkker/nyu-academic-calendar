@@ -9,16 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:320391
-SUMMARY:Summer 2024 Registration Begins
-DTSTAMP:20230712T155439Z
-DTSTART;VALUE=DATE:20240212
-URL:https://events.nyu.edu/event/320391-summer-2024-registration-begins
-CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Sprin
-	g 2024,StudentLink,Summer 2024
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:326906
 SUMMARY:Last Day to Apply for Spring 2024 Graduation
 DTSTAMP:20231117T144942Z
