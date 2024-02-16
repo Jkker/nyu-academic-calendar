@@ -9,22 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:326906
-SUMMARY:Last Day to Apply for Spring 2024 Graduation
-DTSTAMP:20231117T144942Z
-DTSTART;VALUE=DATE:20240215
-DESCRIPTION:<p>Students completing their graduation requirements by the end
-	 of Spring 2024 semester must Apply for Graduation via Albert.* If you are
-	 taking summer courses you must apply for Summer Graduation in March.<br /
-	>\n<em>Though related\, your eligibility for attending All-University Comm
-	encement and school ceremonies are separate unique processes and more info
-	rmation can be found here…</em></p>
-URL:https://events.nyu.edu/event/326906-last-day-to-apply-for-spring-2024-g
-	raduation
-CATEGORIES:2023-2024 Academic Year,Graduation,Spring 2024,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:286111
 SUMMARY:Presidents’ Day
 DTSTAMP:20210303T193831Z
