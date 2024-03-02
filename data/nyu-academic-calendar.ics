@@ -9,48 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:326907
-SUMMARY:Apply for Summer 2024 Graduation
-DTSTAMP:20231117T150333Z
-DTSTART;VALUE=DATE:20240301
-DESCRIPTION:<p>\n  Students completing their graduation requirements by the
-	 end of Summer 2024 must Apply for Graduation via Albert.*<br />\n  <em>Th
-	ough related\, your eligibility for attending All-University Commencement 
-	and school ceremonies are separate unique processes and more information c
-	an be found here…</em>\n</p>
-URL:https://events.nyu.edu/event/326907-apply-for-summer-2024-graduation
-CATEGORIES:2023-2024 Academic Year,2024-2025 Academic Year,Graduation,Sprin
-	g 2024,StudentLink,Summer 2024
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
-UID:328666
-SUMMARY:First 7-Week Session Withdrawal Deadline
-DTSTAMP:20240118T230410Z
-DTSTART;VALUE=DATE:20240301
-URL:https://events.nyu.edu/event/328666-first-7-week-session-withdrawal-dea
-	dline
-CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Sprin
-	g 2024,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
-UID:326908
-SUMMARY:REMINDER: Apply for Summer 2024 Graduation
-DTSTAMP:20231117T150402Z
-DTSTART;VALUE=DATE:20240301
-DTEND;VALUE=DATE:20240602
-DESCRIPTION:<p>\n  Students completing their graduation requirements by the
-	 end of Summer 2024 must Apply for Graduation via Albert.*<br />\n  <em>Th
-	ough related\, your eligibility for attending All-University Commencement 
-	and school ceremonies are separate unique processes and more information c
-	an be found here…</em>\n</p>
-URL:https://events.nyu.edu/event/326908-reminder-apply-for-summer-2024-grad
-	uation
-CATEGORIES:2023-2024 Academic Year,Graduation,Spring 2024,StudentLink,Summe
-	r 2024
-END:VEVENT
-BEGIN:VEVENT
 UID:321995
 SUMMARY:Fall 2024 Class Schedule Published
 DTSTAMP:20231113T030610Z
