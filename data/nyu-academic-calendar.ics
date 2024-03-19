@@ -9,17 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:328668
-SUMMARY:Second 7-Week Session Drop/Add Deadline
-DTSTAMP:20240118T230718Z
-DTSTART;VALUE=DATE:20240318
-URL:https://events.nyu.edu/event/328668-second-7-week-session-dropadd-deadl
-	ine
-CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Sprin
-	g 2024,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:286112
 SUMMARY:Spring Break
 DTSTAMP:20230831T205358Z
