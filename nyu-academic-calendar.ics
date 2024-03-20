@@ -9,21 +9,10 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:328669
-SUMMARY:Second 7-Week Session Withdrawal Period Begins
-DTSTAMP:20240118T230821Z
-DTSTART;VALUE=DATE:20240319
-URL:https://events.nyu.edu/event/328669-second-7-week-session-withdrawal-pe
-	riod-begins
-CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Sprin
-	g 2024,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:286112
 SUMMARY:Spring Break
 DTSTAMP:20230831T205358Z
-DTSTART;VALUE=DATE:20240319
+DTSTART;VALUE=DATE:20240320
 DTEND;VALUE=DATE:20240323
 DESCRIPTION:<p><span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;
 	:&quot\;No classes scheduled&quot\;}" data-sheets-userformat="{&quot\;2&qu
