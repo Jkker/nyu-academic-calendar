@@ -1163,4 +1163,76 @@ CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Sprin
 	g 2025,StudentLink
 DURATION:P1DT
 END:VEVENT
+BEGIN:VEVENT
+UID:333335
+SUMMARY:Fall 2025 Classes Begin
+DTSTAMP:20240322T121224Z
+DTSTART;VALUE=DATE:20250902
+URL:https://events.nyu.edu/event/333335-fall-2025-classes-begin
+CATEGORIES:2025-2026 Academic Year,Fall 2025,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:333336
+SUMMARY:Fall 2025 Add/Drop Deadline
+DTSTAMP:20240322T121434Z
+DTSTART;VALUE=DATE:20250915
+URL:https://events.nyu.edu/event/333336-fall-2025-adddrop-deadline
+CATEGORIES:2025-2026 Academic Year,Fall 2025,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:333337
+SUMMARY:Fall Break
+DTSTAMP:20240322T121608Z
+DTSTART;VALUE=DATE:20251013
+URL:https://events.nyu.edu/event/333337-fall-break
+CATEGORIES:2025-2026 Academic Year,Fall 2025,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:333338
+SUMMARY:Legislative Monday
+DTSTAMP:20240322T121743Z
+DTSTART;VALUE=DATE:20251014
+URL:https://events.nyu.edu/event/333338-legislative-monday
+CATEGORIES:2025-2026 Academic Year,Fall 2025,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:333339
+SUMMARY:Legislative Friday
+DTSTAMP:20240322T121855Z
+DTSTART;VALUE=DATE:20251126
+URL:https://events.nyu.edu/event/333339-legislative-friday
+CATEGORIES:2025-2026 Academic Year,Fall 2025,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:333340
+SUMMARY:Thanksgiving Recess
+DTSTAMP:20240322T122050Z
+DTSTART;VALUE=DATE:20251127
+DTEND;VALUE=DATE:20251129
+DESCRIPTION:<p>In New York\, no classes are scheduled and University office
+	s are closed.</p>
+URL:https://events.nyu.edu/event/333340-thanksgiving-recess
+CATEGORIES:2025-2026 Academic Year,Fall 2025,Registration Dates &amp; Deadl
+	ines,StudentLink
+END:VEVENT
+BEGIN:VEVENT
+UID:333341
+SUMMARY:Last Day of Fall 2025 Classes
+DTSTAMP:20240322T122212Z
+DTSTART;VALUE=DATE:20251211
+URL:https://events.nyu.edu/event/333341-last-day-of-fall-2025-classes
+CATEGORIES:2025-2026 Academic Year,Fall 2025,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
 END:VCALENDAR
