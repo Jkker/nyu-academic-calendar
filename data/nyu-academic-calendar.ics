@@ -1235,4 +1235,197 @@ CATEGORIES:2025-2026 Academic Year,Fall 2025,Registration Dates &amp; Deadl
 	ines,StudentLink
 DURATION:P1DT
 END:VEVENT
+BEGIN:VEVENT
+UID:333342
+SUMMARY:Reading Day
+DTSTAMP:20240322T124452Z
+DTSTART;VALUE=DATE:20251212
+URL:https://events.nyu.edu/event/333342-reading-day
+CATEGORIES:2025-2026 Academic Year,Fall 2025,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:333343
+SUMMARY:Final Exam Period
+DTSTAMP:20240322T124654Z
+DTSTART;VALUE=DATE:20251215
+DTEND;VALUE=DATE:20251220
+DESCRIPTION:<p>NYU Schools of Medicine\, Law\, Dentistry\, and Graduate Ste
+	rn manage different final exam schedules. Refer to school-specific calenda
+	rs for these details.</p>
+URL:https://events.nyu.edu/event/333343-final-exam-period
+CATEGORIES:2025-2026 Academic Year,Fall 2025,Registration Dates &amp; Deadl
+	ines,StudentLink
+END:VEVENT
+BEGIN:VEVENT
+UID:333344
+SUMMARY:Winter Recess for Students
+DTSTAMP:20240322T124918Z
+DTSTART;VALUE=DATE:20251222
+DTEND;VALUE=DATE:20260102
+URL:https://events.nyu.edu/event/333344-winter-recess-for-students
+CATEGORIES:2025-2026 Academic Year,Fall 2025,Registration Dates &amp; Deadl
+	ines,StudentLink
+END:VEVENT
+BEGIN:VEVENT
+UID:333345
+SUMMARY:January Term 2026 Classes Begin
+DTSTAMP:20240322T125353Z
+DTSTART;VALUE=DATE:20260105
+URL:https://events.nyu.edu/event/333345-january-term-2026-classes-begin
+CATEGORIES:2025-2026 Academic Year,2026,Registration Dates &amp; Deadlines,
+	StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:333346
+SUMMARY:January Term 2026 Drop/Add Deadline
+DTSTAMP:20240322T125537Z
+DTSTART;VALUE=DATE:20260107
+URL:https://events.nyu.edu/event/333346-january-term-2026-dropadd-deadline
+CATEGORIES:2025-2026 Academic Year,January Term 2026,Registration Dates &am
+	p; Deadlines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:333347
+SUMMARY:Last Day of January Term 2026 Classes
+DTSTAMP:20240322T125648Z
+DTSTART;VALUE=DATE:20260116
+URL:https://events.nyu.edu/event/333347-last-day-of-january-term-2026-class
+	es
+CATEGORIES:2025-2026 Academic Year,January Term 2026,Registration Dates &am
+	p; Deadlines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:333348
+SUMMARY:Martin Luther King\, Jr. Birthday
+DTSTAMP:20240322T125747Z
+DTSTART;VALUE=DATE:20260119
+URL:https://events.nyu.edu/event/333348-martin-luther-king-jr-birthday
+CATEGORIES:2025-2026 Academic Year,January Term 2026,Registration Dates &am
+	p; Deadlines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:333349
+SUMMARY:Spring 2026 Classes Begin
+DTSTAMP:20240322T125917Z
+DTSTART;VALUE=DATE:20260120
+URL:https://events.nyu.edu/event/333349-spring-2026-classes-begin
+CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2026,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:333350
+SUMMARY:Spring 2026 Add/Drop Deadline
+DTSTAMP:20240322T130032Z
+DTSTART;VALUE=DATE:20260202
+URL:https://events.nyu.edu/event/333350-spring-2026-adddrop-deadline
+CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2026,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:333351
+SUMMARY:Presidents’ Day
+DTSTAMP:20240322T130157Z
+DTSTART;VALUE=DATE:20260216
+URL:https://events.nyu.edu/event/333351-presidents-day
+CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2026,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:333352
+SUMMARY:Legislative Monday
+DTSTAMP:20240322T130303Z
+DTSTART;VALUE=DATE:20260217
+URL:https://events.nyu.edu/event/333352-legislative-monday
+CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2026,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:333353
+SUMMARY:Spring Break
+DTSTAMP:20240322T130443Z
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260321
+DESCRIPTION:<p>No classes scheduled</p>
+URL:https://events.nyu.edu/event/333353-spring-break
+CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2026,StudentLink
+END:VEVENT
+BEGIN:VEVENT
+UID:333354
+SUMMARY:Last Day of Spring 2026 Classes
+DTSTAMP:20240322T130622Z
+DTSTART;VALUE=DATE:20260505
+URL:https://events.nyu.edu/event/333354-last-day-of-spring-2026-classes
+CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2026,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:333355
+SUMMARY:Reading Day
+DTSTAMP:20240322T130718Z
+DTSTART;VALUE=DATE:20260506
+URL:https://events.nyu.edu/event/333355-reading-day
+CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2026,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:333356
+SUMMARY:Final Exam Period
+DTSTAMP:20240322T131005Z
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260509
+DESCRIPTION:<p>NYU Schools of Medicine\, Law\, Dentistry\, and Graduate Ste
+	rn manage different final exam schedules. Refer to school-specific calenda
+	rs for these details.</p>
+URL:https://events.nyu.edu/event/333356-final-exam-period
+CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2026,StudentLink
+END:VEVENT
+BEGIN:VEVENT
+UID:333357
+SUMMARY:Final Exam Period
+DTSTAMP:20240322T130933Z
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260514
+DESCRIPTION:<p>NYU Schools of Medicine\, Law\, Dentistry\, and Graduate Ste
+	rn manage different final exam schedules. Refer to school-specific calenda
+	rs for these details.</p>
+URL:https://events.nyu.edu/event/333357-final-exam-period
+CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2026,StudentLink
+END:VEVENT
+BEGIN:VEVENT
+UID:333358
+SUMMARY:Commencement
+DTSTAMP:20240322T131115Z
+DTSTART;VALUE=DATE:20260514
+DESCRIPTION:<p>Please review the Graduation and Diplomas page for more info
+	rmation.</p>
+URL:https://events.nyu.edu/event/333358-commencement
+CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2026,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:333359
+SUMMARY:Spring 2026 Conferral (May Graduates)
+DTSTAMP:20240322T131358Z
+DTSTART;VALUE=DATE:20260514
+URL:https://events.nyu.edu/event/333359-spring-2026-conferral-may-graduates
+CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2026,StudentLink
+DURATION:P1DT
+END:VEVENT
 END:VCALENDAR
