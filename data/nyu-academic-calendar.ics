@@ -1644,12 +1644,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:333386
 SUMMARY:Last Day of Summer 2026 Classes: First 3-Week Session
-DTSTAMP:20240322T145155Z
+DTSTAMP:20240322T153621Z
 DTSTART;VALUE=DATE:20260608
 URL:https://events.nyu.edu/event/333386-last-day-of-summer-2026-classes-fir
 	st-3-week
 CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Stude
-	ntLink,Summer 2025
+	ntLink,Summer 2026
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
@@ -1692,6 +1692,115 @@ DTSTAMP:20240322T145737Z
 DTSTART;VALUE=DATE:20260701
 URL:https://events.nyu.edu/event/333390-summer-2026-classes-begin-second-6-
 	week-and-third
+CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2026
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:333394
+SUMMARY:No Classes Scheduled
+DTSTAMP:20240322T153321Z
+DTSTART;VALUE=DATE:20260703
+DESCRIPTION:<table>\n  <tbody>\n    <tr>\n      <td>\n        <span data-sh
+	eets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;:&quot\;In New York\, no cl
+	asses are scheduled and University offices are closed.&quot\;}" data-sheet
+	s-userformat="{&quot\;2&quot\;:15275\,&quot\;3&quot\;:{&quot\;1&quot\;:0}\
+	,&quot\;4&quot\;:{&quot\;1&quot\;:2\,&quot\;2&quot\;:13228792}\,&quot\;6&q
+	uot\;:{&quot\;1&quot\;:[{&quot\;1&quot\;:2\,&quot\;2&quot\;:0\,&quot\;5&qu
+	ot\;:[null\,2\,0]}\,{&quot\;1&quot\;:0\,&quot\;2&quot\;:0\,&quot\;3&quot\;
+	:3}\,{&quot\;1&quot\;:1\,&quot\;2&quot\;:0\,&quot\;4&quot\;:1}]}\,&quot\;8
+	&quot\;:{&quot\;1&quot\;:[{&quot\;1&quot\;:2\,&quot\;2&quot\;:0\,&quot\;5&
+	quot\;:[null\,2\,0]}\,{&quot\;1&quot\;:0\,&quot\;2&quot\;:0\,&quot\;3&quot
+	\;:3}\,{&quot\;1&quot\;:1\,&quot\;2&quot\;:0\,&quot\;4&quot\;:1}]}\,&quot\
+	;10&quot\;:1\,&quot\;11&quot\;:4\,&quot\;12&quot\;:0\,&quot\;14&quot\;:[nu
+	ll\,2\,0]\,&quot\;15&quot\;:&quot\;Calibri\, sans-serif&quot\;\,&quot\;16&
+	quot\;:11}">In New York\, no classes are scheduled.</span>\n      </td>\n 
+	   </tr>\n  </tbody>\n</table>
+URL:https://events.nyu.edu/event/333394-no-classes-scheduled
+CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2026
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:333393
+SUMMARY:Independence Day
+DTSTAMP:20240322T153040Z
+DTSTART;VALUE=DATE:20260704
+DESCRIPTION:<table>\n  <tbody>\n    <tr>\n      <td>\n        <table>\n    
+	      <tbody>\n            <tr>\n              <td>\n                <span
+	 data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;:&quot\;In New York
+	\, no classes are scheduled and University offices are closed.&quot\;}" da
+	ta-sheets-userformat="{&quot\;2&quot\;:15275\,&quot\;3&quot\;:{&quot\;1&qu
+	ot\;:0}\,&quot\;4&quot\;:{&quot\;1&quot\;:2\,&quot\;2&quot\;:13228792}\,&q
+	uot\;6&quot\;:{&quot\;1&quot\;:[{&quot\;1&quot\;:2\,&quot\;2&quot\;:0\,&qu
+	ot\;5&quot\;:[null\,2\,0]}\,{&quot\;1&quot\;:0\,&quot\;2&quot\;:0\,&quot\;
+	3&quot\;:3}\,{&quot\;1&quot\;:1\,&quot\;2&quot\;:0\,&quot\;4&quot\;:1}]}\,
+	&quot\;8&quot\;:{&quot\;1&quot\;:[{&quot\;1&quot\;:2\,&quot\;2&quot\;:0\,&
+	quot\;5&quot\;:[null\,2\,0]}\,{&quot\;1&quot\;:0\,&quot\;2&quot\;:0\,&quot
+	\;3&quot\;:3}\,{&quot\;1&quot\;:1\,&quot\;2&quot\;:0\,&quot\;4&quot\;:1}]}
+	\,&quot\;10&quot\;:1\,&quot\;11&quot\;:4\,&quot\;12&quot\;:0\,&quot\;14&qu
+	ot\;:[null\,2\,0]\,&quot\;15&quot\;:&quot\;Calibri\, sans-serif&quot\;\,&q
+	uot\;16&quot\;:11}">In New York\, no classes are scheduled and University 
+	offices are closed.</span>\n              </td>\n            </tr>\n      
+	    </tbody>\n        </table>\n      </td>\n    </tr>\n  </tbody>\n</tabl
+	e>
+URL:https://events.nyu.edu/event/333393-independence-day
+CATEGORIES:2025-2026 Academic Year,2026,Registration Dates &amp; Deadlines,
+	StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:333395
+SUMMARY:Last Day of Summer 2026 Classes: 7-Week Session
+DTSTAMP:20240322T153840Z
+DTSTART;VALUE=DATE:20260707
+URL:https://events.nyu.edu/event/333395-last-day-of-summer-2026-classes-7-w
+	eek-session
+CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2026
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:333396
+SUMMARY:Last Day of Summer 2026 Classes: Third 3-Week Session
+DTSTAMP:20240322T153945Z
+DTSTART;VALUE=DATE:20260721
+URL:https://events.nyu.edu/event/333396-last-day-of-summer-2026-classes-thi
+	rd-3-week
+CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2026
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:333397
+SUMMARY:Summer 2026 Classes Begin: Fourth 3-Week Session
+DTSTAMP:20240322T154037Z
+DTSTART;VALUE=DATE:20260722
+URL:https://events.nyu.edu/event/333397-summer-2026-classes-begin-fourth-3-
+	week-session
+CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2026
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:333398
+SUMMARY:Last Day of Summer 2026 Classes: 10-Week Session
+DTSTAMP:20240322T154126Z
+DTSTART;VALUE=DATE:20260728
+URL:https://events.nyu.edu/event/333398-last-day-of-summer-2026-classes-10-
+	week-session
+CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2026
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:333399
+SUMMARY:Last Day of Summer 2026 Classes: 12-Week\, Second 6-Week\, Fourth 3
+	-Week\, and the Special Session
+DTSTAMP:20240322T154338Z
+DTSTART;VALUE=DATE:20260812
+URL:https://events.nyu.edu/event/333399-last-day-of-summer-2026-classes-12-
+	week-second
 CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2026
 DURATION:P1DT
