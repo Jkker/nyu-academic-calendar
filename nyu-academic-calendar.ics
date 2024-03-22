@@ -1164,6 +1164,73 @@ CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Sprin
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:333362
+SUMMARY:Summer 2025 Classes Begin: 12-Week\, 10-Week\, 7-Week\, First 6-Wee
+	k\, First 3-Week\, and Special Sessions
+DTSTAMP:20240322T135943Z
+DTSTART;VALUE=DATE:20250519
+URL:https://events.nyu.edu/event/333362-summer-2025-classes-begin-12-week-1
+	0-week-7-week
+CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2025
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:333363
+SUMMARY:Memorial Day
+DTSTAMP:20240322T140139Z
+DTSTART;VALUE=DATE:20250526
+DESCRIPTION:<p>In New York\, no classes are scheduled and University office
+	s are closed.</p>
+URL:https://events.nyu.edu/event/333363-memorial-day
+CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2025
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:333364
+SUMMARY:Last Day of Summer 2025 Classes: First 3-Week Session
+DTSTAMP:20240322T140324Z
+DTSTART;VALUE=DATE:20250609
+URL:https://events.nyu.edu/event/333364-last-day-of-summer-2025-classes-fir
+	st-3-week
+CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2025
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:333365
+SUMMARY:Summer 2025 Classes Begin: Second 3-Week Session
+DTSTAMP:20240322T140450Z
+DTSTART;VALUE=DATE:20250610
+URL:https://events.nyu.edu/event/333365-summer-2025-classes-begin-second-3-
+	week-session
+CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2025
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:333367
+SUMMARY:Juneteenth
+DTSTAMP:20240322T140851Z
+DTSTART;VALUE=DATE:20250619
+URL:https://events.nyu.edu/event/333367-juneteenth
+CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2025
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:333366
+SUMMARY:Legislative Thursday
+DTSTAMP:20240322T140746Z
+DTSTART;VALUE=DATE:20250701
+DESCRIPTION:<p>Classes meet according to a Thursday schedule.</p>
+URL:https://events.nyu.edu/event/333366-legislative-thursday
+CATEGORIES:2024-2025 Academic Year,2025,Registration Dates &amp; Deadlines,
+	StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:333335
 SUMMARY:Fall 2025 Classes Begin
 DTSTAMP:20240322T121224Z
