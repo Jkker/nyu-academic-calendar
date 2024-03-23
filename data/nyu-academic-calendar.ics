@@ -9,28 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:286112
-SUMMARY:Spring Break
-DTSTAMP:20230831T205358Z
-DTSTART;VALUE=DATE:20240322
-DTEND;VALUE=DATE:20240323
-DESCRIPTION:<p><span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;
-	:&quot\;No classes scheduled&quot\;}" data-sheets-userformat="{&quot\;2&qu
-	ot\;:15339\,&quot\;3&quot\;:{&quot\;1&quot\;:0}\,&quot\;4&quot\;:{&quot\;1
-	&quot\;:2\,&quot\;2&quot\;:13228792}\,&quot\;6&quot\;:{&quot\;1&quot\;:[{&
-	quot\;1&quot\;:2\,&quot\;2&quot\;:0\,&quot\;5&quot\;:[null\,2\,0]}\,{&quot
-	\;1&quot\;:0\,&quot\;2&quot\;:0\,&quot\;3&quot\;:3}\,{&quot\;1&quot\;:1\,&
-	quot\;2&quot\;:0\,&quot\;4&quot\;:1}]}\,&quot\;8&quot\;:{&quot\;1&quot\;:[
-	{&quot\;1&quot\;:2\,&quot\;2&quot\;:0\,&quot\;5&quot\;:[null\,2\,0]}\,{&qu
-	ot\;1&quot\;:0\,&quot\;2&quot\;:0\,&quot\;3&quot\;:3}\,{&quot\;1&quot\;:1\
-	,&quot\;2&quot\;:0\,&quot\;4&quot\;:1}]}\,&quot\;9&quot\;:0\,&quot\;10&quo
-	t\;:1\,&quot\;11&quot\;:4\,&quot\;12&quot\;:0\,&quot\;14&quot\;:[null\,2\,
-	4605510]\,&quot\;15&quot\;:&quot\;Verdana\, sans-serif&quot\;\,&quot\;16&q
-	uot\;:9}">No classes scheduled</span></p>
-URL:https://events.nyu.edu/event/286112-spring-break
-CATEGORIES:2023-2024 Academic Year,Spring 2024,StudentLink
-END:VEVENT
-BEGIN:VEVENT
 UID:326909
 SUMMARY:REMINDER: Apply for Summer 2024 Graduation
 DTSTAMP:20231117T150402Z
