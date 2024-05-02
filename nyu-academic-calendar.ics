@@ -9,22 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:326910
-SUMMARY:REMINDER: Apply for Summer 2024 Graduation
-DTSTAMP:20231117T150402Z
-DTSTART;VALUE=DATE:20240501
-DTEND;VALUE=DATE:20240602
-DESCRIPTION:<p>\n  Students completing their graduation requirements by the
-	 end of Summer 2024 must Apply for Graduation via Albert.*<br />\n  <em>Th
-	ough related\, your eligibility for attending All-University Commencement 
-	and school ceremonies are separate unique processes and more information c
-	an be found here…</em>\n</p>
-URL:https://events.nyu.edu/event/326910-reminder-apply-for-summer-2023-grad
-	uation
-CATEGORIES:2023-2024 Academic Year,Graduation,Spring 2024,StudentLink,Summe
-	r 2024
-END:VEVENT
-BEGIN:VEVENT
 UID:286113
 SUMMARY:Last Day of Spring 2024 Classes
 DTSTAMP:20230501T011204Z
