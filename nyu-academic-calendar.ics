@@ -9,31 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:286115
-SUMMARY:Final Exam Period
-DTSTAMP:20230501T005853Z
-DTSTART;VALUE=DATE:20240514
-DTEND;VALUE=DATE:20240515
-DESCRIPTION:<span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;:&q
-	uot\;NYU Schools of Medicine\, Law\, Dentistry\, and Graduate Stern manage
-	 different final exam schedules. Refer to school-specific calendars for th
-	ese details.&quot\;}" data-sheets-userformat="{&quot\;2&quot\;:15275\,&quo
-	t\;3&quot\;:{&quot\;1&quot\;:0}\,&quot\;4&quot\;:{&quot\;1&quot\;:2\,&quot
-	\;2&quot\;:13228792}\,&quot\;6&quot\;:{&quot\;1&quot\;:[{&quot\;1&quot\;:2
-	\,&quot\;2&quot\;:0\,&quot\;5&quot\;:[null\,2\,0]}\,{&quot\;1&quot\;:0\,&q
-	uot\;2&quot\;:0\,&quot\;3&quot\;:3}\,{&quot\;1&quot\;:1\,&quot\;2&quot\;:0
-	\,&quot\;4&quot\;:1}]}\,&quot\;8&quot\;:{&quot\;1&quot\;:[{&quot\;1&quot\;
-	:2\,&quot\;2&quot\;:0\,&quot\;5&quot\;:[null\,2\,0]}\,{&quot\;1&quot\;:0\,
-	&quot\;2&quot\;:0\,&quot\;3&quot\;:3}\,{&quot\;1&quot\;:1\,&quot\;2&quot\;
-	:0\,&quot\;4&quot\;:1}]}\,&quot\;10&quot\;:1\,&quot\;11&quot\;:4\,&quot\;1
-	2&quot\;:0\,&quot\;14&quot\;:[null\,2\,0]\,&quot\;15&quot\;:&quot\;Calibri
-	\, sans-serif&quot\;\,&quot\;16&quot\;:11}">NYU Schools of Medicine\, Law\
-	, Dentistry\, and Graduate Stern manage different final exam schedules. Re
-	fer to school-specific calendars for these details.</span>
-URL:https://events.nyu.edu/event/286115-final-exam-period
-CATEGORIES:2023-2024 Academic Year,Spring 2024,StudentLink
-END:VEVENT
-BEGIN:VEVENT
 UID:286117
 SUMMARY:Commencement
 DTSTAMP:20230501T135329Z
