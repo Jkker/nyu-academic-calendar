@@ -9,16 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:335617
-SUMMARY:Spring 2024 Final Grades Deadline
-DTSTAMP:20240507T135624Z
-DTSTART;VALUE=DATE:20240517
-URL:https://events.nyu.edu/event/335617-spring-2024-final-grades-deadline
-CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Sprin
-	g 2024,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:322012
 SUMMARY:Summer 2024 Classes Begin: 12-Week\, 10-Week\, 7-Week\, First 6-Wee
 	k\, First 3-Week\, and Special Sessions
