@@ -9,18 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:322012
-SUMMARY:Summer 2024 Classes Begin: 12-Week\, 10-Week\, 7-Week\, First 6-Wee
-	k\, First 3-Week\, and Special Sessions
-DTSTAMP:20230831T151312Z
-DTSTART;VALUE=DATE:20240520
-URL:https://events.nyu.edu/event/322012-summer-2024-classes-begin-12-week-1
-	0-week-7-week
-CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
-	ntLink,Summer 2024
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:322014
 SUMMARY:Summer 2024 Drop/Add Deadline: First 3-Week Session
 DTSTAMP:20230831T153840Z
