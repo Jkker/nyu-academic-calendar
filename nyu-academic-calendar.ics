@@ -9,18 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:322017
-SUMMARY:Withdrawal Period Begins: 12-Week\, 10-Week. 7-Week\, and First 6-W
-	eek Sessions
-DTSTAMP:20230831T154309Z
-DTSTART;VALUE=DATE:20240524
-URL:https://events.nyu.edu/event/322017-withdrawal-period-begins-12-week-10
-	-week-7-week
-CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
-	ntLink,Summer 2024
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:286118
 SUMMARY:Memorial Day
 DTSTAMP:20210318T114846Z
