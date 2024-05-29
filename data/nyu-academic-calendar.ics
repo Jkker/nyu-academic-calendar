@@ -187,6 +187,19 @@ CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:335850
+SUMMARY:Request Pass/Fail Grade Option Deadline: Second 3-Week
+DTSTAMP:20240529T191513Z
+DTSTART;VALUE=DATE:20240627
+DESCRIPTION:<p>Last day for students in a school that permits the pass/fail
+	 grade option to submit a request.</p>
+URL:https://events.nyu.edu/event/335850-request-passfail-grade-option-deadl
+	ine-second
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2024
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:322035
 SUMMARY:Withdrawal Deadline: Second 3-Week
 DTSTAMP:20230831T155451Z
@@ -299,6 +312,19 @@ DTSTAMP:20230831T161606Z
 DTSTART;VALUE=DATE:20240709
 URL:https://events.nyu.edu/event/322045-last-day-of-summer-2024-classes-7-w
 	eek-session
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2024
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:335851
+SUMMARY:Request Pass/Fail Grade Option Deadline: Third 3-Week Session
+DTSTAMP:20240529T191744Z
+DTSTART;VALUE=DATE:20240709
+DESCRIPTION:<p>Last day for students in a school that permits the pass/fail
+	 grade option to submit a request.</p>
+URL:https://events.nyu.edu/event/335851-request-passfail-grade-option-deadl
+	ine-third
 CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2024
 DURATION:P1DT
