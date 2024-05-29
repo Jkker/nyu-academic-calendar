@@ -25,9 +25,22 @@ CATEGORIES:2023-2024 Academic Year,Graduation,Spring 2024,StudentLink,Summe
 	r 2024
 END:VEVENT
 BEGIN:VEVENT
+UID:335847
+SUMMARY:Request Pass/Fail Grade Option Deadline: First 3-Week Session
+DTSTAMP:20240529T175807Z
+DTSTART;VALUE=DATE:20240605
+DESCRIPTION:<p>\n  Last day for students in a school that permits the pass/
+	fail grade option to submit a request.\n</p>
+URL:https://events.nyu.edu/event/335847-request-passfail-grade-option-deadl
+	ine-first-3-week-s
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2024
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:322018
 SUMMARY:Withdrawal Deadline: First 3-Week Session
-DTSTAMP:20230831T154522Z
+DTSTAMP:20240529T175718Z
 DTSTART;VALUE=DATE:20240605
 URL:https://events.nyu.edu/event/322018-withdrawal-deadline-first-3-week-se
 	ssion
@@ -138,6 +151,19 @@ DESCRIPTION:<span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;:&q
 	 and University offices are closed.</span>
 URL:https://events.nyu.edu/event/286121-juneteenth
 CATEGORIES:2023-2024 Academic Year,StudentLink,Summer 2024
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:335848
+SUMMARY:Request Pass/Fail Grade Option Deadline: First 6-Week
+DTSTAMP:20240529T180025Z
+DTSTART;VALUE=DATE:20240624
+DESCRIPTION:<p>Last day for students in a school that permits the pass/fail
+	 grade option to submit a request.</p>
+URL:https://events.nyu.edu/event/335848-request-passfail-grade-option-deadl
+	ine-first
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2024
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
@@ -1210,16 +1236,6 @@ CATEGORIES:2025-2026 Academic Year,Fall 2025,Registration Dates &amp; Deadl
 	ines,StudentLink
 END:VEVENT
 BEGIN:VEVENT
-UID:333345
-SUMMARY:January Term 2026 Classes Begin
-DTSTAMP:20240322T125353Z
-DTSTART;VALUE=DATE:20260105
-URL:https://events.nyu.edu/event/333345-january-term-2026-classes-begin
-CATEGORIES:2025-2026 Academic Year,2026,Registration Dates &amp; Deadlines,
-	StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:334197
 SUMMARY:January Term 2026 Classes Begin
 DTSTAMP:20240401T172621Z
@@ -1227,6 +1243,16 @@ DTSTART;VALUE=DATE:20260105
 URL:https://events.nyu.edu/event/334197-january-term-2026-classes-begin
 CATEGORIES:2025-2026 Academic Year,January Term 2026,Registration Dates &am
 	p; Deadlines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:333345
+SUMMARY:January Term 2026 Classes Begin
+DTSTAMP:20240322T125353Z
+DTSTART;VALUE=DATE:20260105
+URL:https://events.nyu.edu/event/333345-january-term-2026-classes-begin
+CATEGORIES:2025-2026 Academic Year,2026,Registration Dates &amp; Deadlines,
+	StudentLink
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
