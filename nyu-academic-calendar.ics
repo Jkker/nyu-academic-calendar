@@ -9,30 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:335847
-SUMMARY:Request Pass/Fail Grade Option Deadline: First 3-Week Session
-DTSTAMP:20240529T175807Z
-DTSTART;VALUE=DATE:20240605
-DESCRIPTION:<p>\n  Last day for students in a school that permits the pass/
-	fail grade option to submit a request.\n</p>
-URL:https://events.nyu.edu/event/335847-request-passfail-grade-option-deadl
-	ine-first-3-week-s
-CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
-	ntLink,Summer 2024
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
-UID:322018
-SUMMARY:Withdrawal Deadline: First 3-Week Session
-DTSTAMP:20240529T175718Z
-DTSTART;VALUE=DATE:20240605
-URL:https://events.nyu.edu/event/322018-withdrawal-deadline-first-3-week-se
-	ssion
-CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
-	ntLink,Summer 2024
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:322019
 SUMMARY:Last Day of Summer 2024 Classes: First 3-Week Session
 DTSTAMP:20230831T154709Z
