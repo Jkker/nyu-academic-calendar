@@ -621,6 +621,19 @@ CATEGORIES:2024-2025 Academic Year,Fall 2024,Registration Dates &amp; Deadl
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:335996
+SUMMARY:Fall 2024 Deadline to Request Pass/Fail Grade Option
+DTSTAMP:20240606T211701Z
+DTSTART;VALUE=DATE:20241125
+DESCRIPTION:<p>Last day for students in a school that permits the pass/fail
+	 grade option to submit a request.</p>
+URL:https://events.nyu.edu/event/335996-fall-2024-deadline-to-request-passf
+	ail-grade
+CATEGORIES:2024-2025 Academic Year,Fall 2024,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:335995
 SUMMARY:Fall 2024 Withdrawal Deadline
 DTSTAMP:20240606T211541Z
