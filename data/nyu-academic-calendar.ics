@@ -872,6 +872,34 @@ CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Sprin
 	g 2025,StudentLink
 END:VEVENT
 BEGIN:VEVENT
+UID:336061
+SUMMARY:Spring 2025 Deadline to Request Pass/Fail Grade Option
+DTSTAMP:20240610T141426Z
+DTSTART;VALUE=DATE:20250417
+DESCRIPTION:<p>Last day for students in a school that permits the pass/fail
+	 grade option to submit a request.</p>
+URL:https://events.nyu.edu/event/336061-spring-2025-deadline-to-request-pas
+	sfail-grade
+CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2025,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:336060
+SUMMARY:Spring 2025 Withdrawal Deadline
+DTSTAMP:20240610T141311Z
+DTSTART;VALUE=DATE:20250417
+DESCRIPTION:<p>Last day for students to submit a request to (a) withdraw fr
+	om any or all Spring class(es) and (b) totally withdraw from the Universit
+	y for Spring. Academic calendars at global sites may vary\, so students sh
+	ould consult the academic calendar of their home school study away site.</
+	p>
+URL:https://events.nyu.edu/event/336060-spring-2025-withdrawal-deadline
+CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2025,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:326658
 SUMMARY:Last Day of Spring 2025 Classes
 DTSTAMP:20231113T184849Z
