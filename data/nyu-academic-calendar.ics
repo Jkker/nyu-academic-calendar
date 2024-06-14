@@ -9,17 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:322033
-SUMMARY:Withdrawal Period Begins: Second 3-Week Session
-DTSTAMP:20230831T155112Z
-DTSTART;VALUE=DATE:20240613
-URL:https://events.nyu.edu/event/322033-withdrawal-period-begins-second-3-w
-	eek-session
-CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
-	ntLink,Summer 2024
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:326912
 SUMMARY:Last Day to Apply for Summer 2024 Graduation
 DTSTAMP:20231117T150724Z
