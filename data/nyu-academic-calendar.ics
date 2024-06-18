@@ -56,46 +56,58 @@ DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
 UID:335848
-SUMMARY:Request Pass/Fail Grade Option Deadline: First 6-Week
-DTSTAMP:20240529T180025Z
+SUMMARY:Request Pass/Fail Grade Option Deadline: First 6-Week Session
+DTSTAMP:20240618T203451Z
 DTSTART;VALUE=DATE:20240624
-DESCRIPTION:<p>Last day for students in a school that permits the pass/fail
-	 grade option to submit a request.</p>
+DESCRIPTION:<p>\n  Last day for students in a school that permits the pass/
+	fail grade option to submit a request.\n</p>
 URL:https://events.nyu.edu/event/335848-request-passfail-grade-option-deadl
-	ine-first
+	ine-first-6-week-s
 CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2024
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
 UID:322034
-SUMMARY:Withdrawal Deadline: First 6-Week
-DTSTAMP:20230831T155333Z
+SUMMARY:Withdrawal Deadline: First 6-Week Session
+DTSTAMP:20240618T203501Z
 DTSTART;VALUE=DATE:20240624
-URL:https://events.nyu.edu/event/322034-withdrawal-deadline-first-6-week
+URL:https://events.nyu.edu/event/322034-withdrawal-deadline-first-6-week-se
+	ssion
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2024
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:336198
+SUMMARY:Request Pass/Fail Grade Option Deadline: 7-Week Session
+DTSTAMP:20240618T204224Z
+DTSTART;VALUE=DATE:20240626
+URL:https://events.nyu.edu/event/336198-request-passfail-grade-option-deadl
+	ine-7-week-session
 CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2024
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
 UID:322036
-SUMMARY:Withdrawal Deadline: 7-Week
-DTSTAMP:20230831T155558Z
+SUMMARY:Withdrawal Deadline: 7-Week Session
+DTSTAMP:20240618T203548Z
 DTSTART;VALUE=DATE:20240626
-URL:https://events.nyu.edu/event/322036-withdrawal-deadline-7-week
+URL:https://events.nyu.edu/event/322036-withdrawal-deadline-7-week-session
 CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2024
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
 UID:335850
-SUMMARY:Request Pass/Fail Grade Option Deadline: Second 3-Week
-DTSTAMP:20240529T191513Z
+SUMMARY:Request Pass/Fail Grade Option Deadline: Second 3-Week Session
+DTSTAMP:20240618T202724Z
 DTSTART;VALUE=DATE:20240627
-DESCRIPTION:<p>Last day for students in a school that permits the pass/fail
-	 grade option to submit a request.</p>
+DESCRIPTION:<p>\n  Last day for students in a school that permits the pass/
+	fail grade option to submit a request.\n</p>
 URL:https://events.nyu.edu/event/335850-request-passfail-grade-option-deadl
-	ine-second
+	ine-second-3-week-
 CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2024
 DURATION:P1DT
@@ -218,19 +230,6 @@ CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:335851
-SUMMARY:Request Pass/Fail Grade Option Deadline: Third 3-Week Session
-DTSTAMP:20240529T191744Z
-DTSTART;VALUE=DATE:20240709
-DESCRIPTION:<p>Last day for students in a school that permits the pass/fail
-	 grade option to submit a request.</p>
-URL:https://events.nyu.edu/event/335851-request-passfail-grade-option-deadl
-	ine-third
-CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
-	ntLink,Summer 2024
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:322409
 SUMMARY:Withdrawal Period Begins: Third 3-Week Session
 DTSTAMP:20230908T201348Z
@@ -264,6 +263,17 @@ CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:336199
+SUMMARY:Request Pass/Fail Grade Option Deadline: 10-Week
+DTSTAMP:20240618T202011Z
+DTSTART;VALUE=DATE:20240715
+URL:https://events.nyu.edu/event/336199-request-passfail-grade-option-deadl
+	ine-10-week
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2024
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:322046
 SUMMARY:Withdrawal Deadline: 10-Week
 DTSTAMP:20230831T161715Z
@@ -274,11 +284,25 @@ CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:322047
-SUMMARY:Withdrawal Deadline: Third 3-Week
-DTSTAMP:20230831T161823Z
+UID:335851
+SUMMARY:Request Pass/Fail Grade Option Deadline: Third 3-Week Session
+DTSTAMP:20240618T203738Z
 DTSTART;VALUE=DATE:20240717
-URL:https://events.nyu.edu/event/322047-withdrawal-deadline-third-3-week
+DESCRIPTION:<p>\n  Last day for students in a school that permits the pass/
+	fail grade option to submit a request.\n</p>
+URL:https://events.nyu.edu/event/335851-request-passfail-grade-option-deadl
+	ine-third
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2024
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:322047
+SUMMARY:Withdrawal Deadline: Third 3-Week Session
+DTSTAMP:20240618T202705Z
+DTSTART;VALUE=DATE:20240717
+URL:https://events.nyu.edu/event/322047-withdrawal-deadline-third-3-week-se
+	ssion
 CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2024
 DURATION:P1DT
@@ -339,13 +363,13 @@ DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
 UID:322407
-SUMMARY:Summer 2024 Deadline to Request Pass/Fail Grade Option
-DTSTAMP:20230908T200719Z
+SUMMARY:Request Pass/Fail Grade Option Deadline: 12-Week Session
+DTSTAMP:20240618T203815Z
 DTSTART;VALUE=DATE:20240729
-DESCRIPTION:<p>Last day for students in a school that permits the pass/fail
-	 grade option to submit a request.</p>
-URL:https://events.nyu.edu/event/322407-summer-2024-deadline-to-request-pas
-	sfail-grade
+DESCRIPTION:<p>\n  Last day for students in a school that permits the pass/
+	fail grade option to submit a request.\n</p>
+URL:https://events.nyu.edu/event/322407-request-passfail-grade-option-deadl
+	ine-12-week-sessio
 CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2024
 DURATION:P1DT
@@ -373,11 +397,34 @@ CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:322411
-SUMMARY:Withdrawal Deadline: Second 6-Week
-DTSTAMP:20230908T201832Z
+UID:336203
+SUMMARY:Request Pass/Fail Grade Option Deadline: Second 6-Week Session
+DTSTAMP:20240618T204140Z
 DTSTART;VALUE=DATE:20240805
-URL:https://events.nyu.edu/event/322411-withdrawal-deadline-second-6-week
+URL:https://events.nyu.edu/event/336203-request-passfail-grade-option-deadl
+	ine-second
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2024
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:322411
+SUMMARY:Withdrawal Deadline: Second 6-Week Session
+DTSTAMP:20240618T202817Z
+DTSTART;VALUE=DATE:20240805
+URL:https://events.nyu.edu/event/322411-withdrawal-deadline-second-6-week-s
+	ession
+CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2024
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:336200
+SUMMARY:Request Pass/Fail Grade Option Deadline: Fourth 3-Week Session
+DTSTAMP:20240618T202426Z
+DTSTART;VALUE=DATE:20240812
+URL:https://events.nyu.edu/event/336200-request-passfail-grade-option-deadl
+	ine-fourth
 CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2024
 DURATION:P1DT
@@ -1218,16 +1265,6 @@ CATEGORIES:2025-2026 Academic Year,Fall 2025,Registration Dates &amp; Deadl
 	ines,StudentLink
 END:VEVENT
 BEGIN:VEVENT
-UID:333345
-SUMMARY:January Term 2026 Classes Begin
-DTSTAMP:20240322T125353Z
-DTSTART;VALUE=DATE:20260105
-URL:https://events.nyu.edu/event/333345-january-term-2026-classes-begin
-CATEGORIES:2025-2026 Academic Year,2026,Registration Dates &amp; Deadlines,
-	StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:334197
 SUMMARY:January Term 2026 Classes Begin
 DTSTAMP:20240401T172621Z
@@ -1235,6 +1272,16 @@ DTSTART;VALUE=DATE:20260105
 URL:https://events.nyu.edu/event/334197-january-term-2026-classes-begin
 CATEGORIES:2025-2026 Academic Year,January Term 2026,Registration Dates &am
 	p; Deadlines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:333345
+SUMMARY:January Term 2026 Classes Begin
+DTSTAMP:20240322T125353Z
+DTSTART;VALUE=DATE:20260105
+URL:https://events.nyu.edu/event/333345-january-term-2026-classes-begin
+CATEGORIES:2025-2026 Academic Year,2026,Registration Dates &amp; Deadlines,
+	StudentLink
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
