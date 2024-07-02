@@ -9,22 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:322043
-SUMMARY:Apply for Fall 2024 Graduation
-DTSTAMP:20231113T030908Z
-DTSTART;VALUE=DATE:20240701
-DESCRIPTION:<p>\n  <span style="font-weight: 400\;">Students completing the
-	ir graduation requirements by the end of Fall 2024/January 2025 semester m
-	ust Apply for Graduation via Albert.*</span>\n</p>\n<p>\n  <i><span style=
-	"font-weight: 400\;">Though related\, your eligibility for attending All-U
-	niversity Commencement and school ceremonies are separate unique processes
-	 and more information can be found here&#8230\;</span></i>\n</p>
-URL:https://events.nyu.edu/event/322043-apply-for-fall-2024-graduation
-CATEGORIES:2023-2024 Academic Year,Fall 2024,Graduation,Registration Dates 
-	&amp; Deadlines,StudentLink,Summer 2024
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:322039
 SUMMARY:Last Day of Summer 2024 Classes: First 6-Week and Second 3-Week Ses
 	sions
