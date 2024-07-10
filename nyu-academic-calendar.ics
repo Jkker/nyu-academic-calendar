@@ -9,28 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:322045
-SUMMARY:Last Day of Summer 2024 Classes: 7-Week Session
-DTSTAMP:20230831T161606Z
-DTSTART;VALUE=DATE:20240709
-URL:https://events.nyu.edu/event/322045-last-day-of-summer-2024-classes-7-w
-	eek-session
-CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
-	ntLink,Summer 2024
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
-UID:322409
-SUMMARY:Withdrawal Period Begins: Third 3-Week Session
-DTSTAMP:20230908T201348Z
-DTSTART;VALUE=DATE:20240709
-URL:https://events.nyu.edu/event/322409-withdrawal-period-begins-third-3-we
-	ek-session
-CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
-	ntLink,Summer 2024
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:322412
 SUMMARY:Summer 2024 Drop/Add Deadline: Second 6-Week Session
 DTSTAMP:20230908T202051Z
