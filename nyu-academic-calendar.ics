@@ -9,27 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:336199
-SUMMARY:Request Pass/Fail Grade Option Deadline: 10-Week
-DTSTAMP:20240618T202011Z
-DTSTART;VALUE=DATE:20240715
-URL:https://events.nyu.edu/event/336199-request-passfail-grade-option-deadl
-	ine-10-week
-CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
-	ntLink,Summer 2024
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
-UID:322046
-SUMMARY:Withdrawal Deadline: 10-Week
-DTSTAMP:20230831T161715Z
-DTSTART;VALUE=DATE:20240715
-URL:https://events.nyu.edu/event/322046-withdrawal-deadline-10-week
-CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
-	ntLink,Summer 2024
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:335851
 SUMMARY:Request Pass/Fail Grade Option Deadline: Third 3-Week Session
 DTSTAMP:20240618T203738Z
@@ -783,6 +762,16 @@ CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:336229
+SUMMARY:Legislative Thursday
+DTSTAMP:20240621T154809Z
+DTSTART;VALUE=DATE:20250701
+URL:https://events.nyu.edu/event/336229-legislative-thursday
+CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2025
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:333366
 SUMMARY:Legislative Thursday
 DTSTAMP:20240322T140746Z
@@ -791,16 +780,6 @@ DESCRIPTION:<p>Classes meet according to a Thursday schedule.</p>
 URL:https://events.nyu.edu/event/333366-legislative-thursday
 CATEGORIES:2024-2025 Academic Year,2025,Registration Dates &amp; Deadlines,
 	StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
-UID:336229
-SUMMARY:Legislative Thursday
-DTSTAMP:20240621T154809Z
-DTSTART;VALUE=DATE:20250701
-URL:https://events.nyu.edu/event/336229-legislative-thursday
-CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
-	ntLink,Summer 2025
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
