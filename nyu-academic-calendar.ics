@@ -9,30 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:335851
-SUMMARY:Request Pass/Fail Grade Option Deadline: Third 3-Week Session
-DTSTAMP:20240618T203738Z
-DTSTART;VALUE=DATE:20240717
-DESCRIPTION:<p>\n  Last day for students in a school that permits the pass/
-	fail grade option to submit a request.\n</p>
-URL:https://events.nyu.edu/event/335851-request-passfail-grade-option-deadl
-	ine-third
-CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
-	ntLink,Summer 2024
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
-UID:322047
-SUMMARY:Withdrawal Deadline: Third 3-Week Session
-DTSTAMP:20240618T202705Z
-DTSTART;VALUE=DATE:20240717
-URL:https://events.nyu.edu/event/322047-withdrawal-deadline-third-3-week-se
-	ssion
-CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
-	ntLink,Summer 2024
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:322048
 SUMMARY:Last Day of Summer 2024 Classes: Third 3-Week Session
 DTSTAMP:20230831T162151Z
@@ -801,6 +777,17 @@ CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:333366
+SUMMARY:Legislative Thursday
+DTSTAMP:20240322T140746Z
+DTSTART;VALUE=DATE:20250701
+DESCRIPTION:<p>Classes meet according to a Thursday schedule.</p>
+URL:https://events.nyu.edu/event/333366-legislative-thursday
+CATEGORIES:2024-2025 Academic Year,2025,Registration Dates &amp; Deadlines,
+	StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:336229
 SUMMARY:Legislative Thursday
 DTSTAMP:20240716T175417Z
@@ -821,17 +808,6 @@ DESCRIPTION:<p><span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;
 URL:https://events.nyu.edu/event/336229-legislative-thursday
 CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2025
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
-UID:333366
-SUMMARY:Legislative Thursday
-DTSTAMP:20240322T140746Z
-DTSTART;VALUE=DATE:20250701
-DESCRIPTION:<p>Classes meet according to a Thursday schedule.</p>
-URL:https://events.nyu.edu/event/333366-legislative-thursday
-CATEGORIES:2024-2025 Academic Year,2025,Registration Dates &amp; Deadlines,
-	StudentLink
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
@@ -937,6 +913,16 @@ CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:333375
+SUMMARY:Legislative Friday
+DTSTAMP:20240322T143634Z
+DTSTART;VALUE=DATE:20250813
+URL:https://events.nyu.edu/event/333375-legislative-friday
+CATEGORIES:2024-2025 Academic Year,2025,Registration Dates &amp; Deadlines,
+	StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:336230
 SUMMARY:Legislative Friday
 DTSTAMP:20240716T175340Z
@@ -957,16 +943,6 @@ DESCRIPTION:<p><span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;
 URL:https://events.nyu.edu/event/336230-legislative-friday
 CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2025
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
-UID:333375
-SUMMARY:Legislative Friday
-DTSTAMP:20240322T143634Z
-DTSTART;VALUE=DATE:20250813
-URL:https://events.nyu.edu/event/333375-legislative-friday
-CATEGORIES:2024-2025 Academic Year,2025,Registration Dates &amp; Deadlines,
-	StudentLink
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
