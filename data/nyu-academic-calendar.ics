@@ -9,27 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:320709
-SUMMARY:Summer 2024 Census Date
-DTSTAMP:20230720T144605Z
-DTSTART;VALUE=DATE:20240725
-URL:https://events.nyu.edu/event/320709-summer-2024-census-date
-CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
-	ntLink,Summer 2024
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
-UID:322050
-SUMMARY:Summer 2024 Drop/Add Deadline: Fourth 3-Week Session
-DTSTAMP:20230831T162402Z
-DTSTART;VALUE=DATE:20240725
-URL:https://events.nyu.edu/event/322050-summer-2024-dropadd-deadline-fourth
-	-3-week-session
-CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
-	ntLink,Summer 2024
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:322051
 SUMMARY:Withdrawal Period Begins: Fourth 3-Week Session
 DTSTAMP:20230831T162507Z
