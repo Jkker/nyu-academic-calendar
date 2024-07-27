@@ -9,17 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:322051
-SUMMARY:Withdrawal Period Begins: Fourth 3-Week Session
-DTSTAMP:20230831T162507Z
-DTSTART;VALUE=DATE:20240726
-URL:https://events.nyu.edu/event/322051-withdrawal-period-begins-fourth-3-w
-	eek-session
-CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
-	ntLink,Summer 2024
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:322407
 SUMMARY:Request Pass/Fail Grade Option Deadline: 12-Week Session
 DTSTAMP:20240618T203815Z
