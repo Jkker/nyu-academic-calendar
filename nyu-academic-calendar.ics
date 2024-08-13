@@ -9,28 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:336200
-SUMMARY:Request Pass/Fail Grade Option Deadline: Fourth 3-Week Session
-DTSTAMP:20240618T202426Z
-DTSTART;VALUE=DATE:20240812
-URL:https://events.nyu.edu/event/336200-request-passfail-grade-option-deadl
-	ine-fourth
-CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
-	ntLink,Summer 2024
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
-UID:322410
-SUMMARY:Withdrawal Deadline: Fourth 3-Week Session
-DTSTAMP:20230908T201604Z
-DTSTART;VALUE=DATE:20240812
-URL:https://events.nyu.edu/event/322410-withdrawal-deadline-fourth-3-week-s
-	ession
-CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
-	ntLink,Summer 2024
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:286124
 SUMMARY:Legislative Friday
 DTSTAMP:20230501T194342Z
@@ -1008,16 +986,6 @@ CATEGORIES:2025-2026 Academic Year,Fall 2025,Registration Dates &amp; Deadl
 	ines,StudentLink
 END:VEVENT
 BEGIN:VEVENT
-UID:334197
-SUMMARY:January Term 2026 Classes Begin
-DTSTAMP:20240401T172621Z
-DTSTART;VALUE=DATE:20260105
-URL:https://events.nyu.edu/event/334197-january-term-2026-classes-begin
-CATEGORIES:2025-2026 Academic Year,January Term 2026,Registration Dates &am
-	p; Deadlines,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:333345
 SUMMARY:January Term 2026 Classes Begin
 DTSTAMP:20240322T125353Z
@@ -1025,6 +993,16 @@ DTSTART;VALUE=DATE:20260105
 URL:https://events.nyu.edu/event/333345-january-term-2026-classes-begin
 CATEGORIES:2025-2026 Academic Year,2026,Registration Dates &amp; Deadlines,
 	StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:334197
+SUMMARY:January Term 2026 Classes Begin
+DTSTAMP:20240401T172621Z
+DTSTART;VALUE=DATE:20260105
+URL:https://events.nyu.edu/event/334197-january-term-2026-classes-begin
+CATEGORIES:2025-2026 Academic Year,January Term 2026,Registration Dates &am
+	p; Deadlines,StudentLink
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
