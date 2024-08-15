@@ -9,29 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:286124
-SUMMARY:Legislative Friday
-DTSTAMP:20230501T194342Z
-DTSTART;VALUE=DATE:20240814
-DESCRIPTION:<span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;:&q
-	uot\;Classes meet according to a Thursday schedule.&quot\;}" data-sheets-u
-	serformat="{&quot\;2&quot\;:15275\,&quot\;3&quot\;:{&quot\;1&quot\;:0}\,&q
-	uot\;4&quot\;:{&quot\;1&quot\;:2\,&quot\;2&quot\;:13228792}\,&quot\;6&quot
-	\;:{&quot\;1&quot\;:[{&quot\;1&quot\;:2\,&quot\;2&quot\;:0\,&quot\;5&quot\
-	;:[null\,2\,0]}\,{&quot\;1&quot\;:0\,&quot\;2&quot\;:0\,&quot\;3&quot\;:3}
-	\,{&quot\;1&quot\;:1\,&quot\;2&quot\;:0\,&quot\;4&quot\;:1}]}\,&quot\;8&qu
-	ot\;:{&quot\;1&quot\;:[{&quot\;1&quot\;:2\,&quot\;2&quot\;:0\,&quot\;5&quo
-	t\;:[null\,2\,0]}\,{&quot\;1&quot\;:0\,&quot\;2&quot\;:0\,&quot\;3&quot\;:
-	3}\,{&quot\;1&quot\;:1\,&quot\;2&quot\;:0\,&quot\;4&quot\;:1}]}\,&quot\;10
-	&quot\;:1\,&quot\;11&quot\;:4\,&quot\;12&quot\;:0\,&quot\;14&quot\;:[null\
-	,2\,0]\,&quot\;15&quot\;:&quot\;Calibri\, sans-serif&quot\;\,&quot\;16&quo
-	t\;:11}">Classes meet according to a Friday schedule.</span>
-URL:https://events.nyu.edu/event/286124-legislative-friday
-CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
-	ntLink,Summer 2024
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:322053
 SUMMARY:Last Day of Summer 2024 Classes: 12-Week\, Second 6-Week\, Fourth 3
 	-Week\, and the Special Session
