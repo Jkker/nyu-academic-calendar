@@ -9,18 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:322053
-SUMMARY:Last Day of Summer 2024 Classes: 12-Week\, Second 6-Week\, Fourth 3
-	-Week\, and the Special Session
-DTSTAMP:20230831T162809Z
-DTSTART;VALUE=DATE:20240815
-URL:https://events.nyu.edu/event/322053-last-day-of-summer-2024-classes-12-
-	week-second
-CATEGORIES:2023-2024 Academic Year,Registration Dates &amp; Deadlines,Stude
-	ntLink,Summer 2024
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:326588
 SUMMARY:Labor Day
 DTSTAMP:20231113T031313Z
@@ -963,16 +951,6 @@ CATEGORIES:2025-2026 Academic Year,Fall 2025,Registration Dates &amp; Deadl
 	ines,StudentLink
 END:VEVENT
 BEGIN:VEVENT
-UID:333345
-SUMMARY:January Term 2026 Classes Begin
-DTSTAMP:20240322T125353Z
-DTSTART;VALUE=DATE:20260105
-URL:https://events.nyu.edu/event/333345-january-term-2026-classes-begin
-CATEGORIES:2025-2026 Academic Year,2026,Registration Dates &amp; Deadlines,
-	StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:334197
 SUMMARY:January Term 2026 Classes Begin
 DTSTAMP:20240401T172621Z
@@ -980,6 +958,16 @@ DTSTART;VALUE=DATE:20260105
 URL:https://events.nyu.edu/event/334197-january-term-2026-classes-begin
 CATEGORIES:2025-2026 Academic Year,January Term 2026,Registration Dates &am
 	p; Deadlines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:333345
+SUMMARY:January Term 2026 Classes Begin
+DTSTAMP:20240322T125353Z
+DTSTART;VALUE=DATE:20260105
+URL:https://events.nyu.edu/event/333345-january-term-2026-classes-begin
+CATEGORIES:2025-2026 Academic Year,2026,Registration Dates &amp; Deadlines,
+	StudentLink
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
