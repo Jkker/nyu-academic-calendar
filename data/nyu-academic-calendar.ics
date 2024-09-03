@@ -9,18 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:326588
-SUMMARY:Labor Day
-DTSTAMP:20231113T031313Z
-DTSTART;VALUE=DATE:20240902
-DESCRIPTION:<p>In New York\, no classes are scheduled and University office
-	s are closed.</p>
-URL:https://events.nyu.edu/event/326588-labor-day
-CATEGORIES:2024-2025 Academic Year,Fall 2024,Registration Dates &amp; Deadl
-	ines,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:326020
 SUMMARY:Fall 2024 Classes Begin
 DTSTAMP:20231113T030825Z
@@ -651,17 +639,6 @@ CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:333366
-SUMMARY:Legislative Thursday
-DTSTAMP:20240322T140746Z
-DTSTART;VALUE=DATE:20250701
-DESCRIPTION:<p>Classes meet according to a Thursday schedule.</p>
-URL:https://events.nyu.edu/event/333366-legislative-thursday
-CATEGORIES:2024-2025 Academic Year,2025,Registration Dates &amp; Deadlines,
-	StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:336229
 SUMMARY:Legislative Thursday
 DTSTAMP:20240716T175417Z
@@ -682,6 +659,17 @@ DESCRIPTION:<p><span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;
 URL:https://events.nyu.edu/event/336229-legislative-thursday
 CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2025
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:333366
+SUMMARY:Legislative Thursday
+DTSTAMP:20240322T140746Z
+DTSTART;VALUE=DATE:20250701
+DESCRIPTION:<p>Classes meet according to a Thursday schedule.</p>
+URL:https://events.nyu.edu/event/333366-legislative-thursday
+CATEGORIES:2024-2025 Academic Year,2025,Registration Dates &amp; Deadlines,
+	StudentLink
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
