@@ -68,6 +68,24 @@ CATEGORIES:2023-2024 Academic Year,Graduation,Registration Dates &amp; Dead
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:338986
+SUMMARY:Deadline to complete the required Non-Discrimination and Anti-Haras
+	sment Training!
+DTSTAMP:20240911T190525Z
+DTSTART;VALUE=DATE:20240924
+DESCRIPTION:<p>\n  This is the deadline to complete the required required N
+	on-Discrimination and Anti-Harassment Training.&#160\; To complete the tra
+	ining\, please use the appropriate link below:<br />\n  <br />\n  First Ye
+	ar Undergraduates: <a href="https://brightspace.nyu.edu/d2l/home/393636" t
+	arget="_blank" rel="noopener">https://brightspace.nyu.edu/d2l/home/393636<
+	/a><br />\n  Other Undergraduate Students and All Graduate Students: <a hr
+	ef="https://brightspace.nyu.edu/d2l/home/393642" target="_blank" rel="noop
+	ener">https://brightspace.nyu.edu/d2l/home/393642</a>\n</p>
+URL:https://events.nyu.edu/event/338986-deadline-to-complete-the-required
+CATEGORIES:2024-2025 Academic Year
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:337325
 SUMMARY:First 7-Week Session Withdrawal Deadline
 DTSTAMP:20240807T182658Z
