@@ -71,7 +71,7 @@ BEGIN:VEVENT
 UID:338986
 SUMMARY:Deadline to complete the required Non-Discrimination and Anti-Haras
 	sment Training!
-DTSTAMP:20240911T190525Z
+DTSTAMP:20240912T131048Z
 DTSTART;VALUE=DATE:20240924
 DESCRIPTION:<p>\n  This is the deadline to complete the required required N
 	on-Discrimination and Anti-Harassment Training.&#160\; To complete the tra
@@ -82,7 +82,8 @@ DESCRIPTION:<p>\n  This is the deadline to complete the required required N
 	ef="https://brightspace.nyu.edu/d2l/home/393642" target="_blank" rel="noop
 	ener">https://brightspace.nyu.edu/d2l/home/393642</a>\n</p>
 URL:https://events.nyu.edu/event/338986-deadline-to-complete-the-required
-CATEGORIES:2024-2025 Academic Year
+CATEGORIES:2024-2025 Academic Year,Fall 2024,Registration Dates &amp; Deadl
+	ines,StudentLink
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
