@@ -561,8 +561,22 @@ END:VEVENT
 BEGIN:VEVENT
 UID:333367
 SUMMARY:Juneteenth
-DTSTAMP:20240322T140851Z
+DTSTAMP:20241008T155930Z
 DTSTART;VALUE=DATE:20250619
+DESCRIPTION:<p><span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;
+	:&quot\;In New York\, no classes are scheduled and University offices are 
+	closed.&quot\;}" data-sheets-userformat="{&quot\;2&quot\;:15275\,&quot\;3&
+	quot\;:{&quot\;1&quot\;:0}\,&quot\;4&quot\;:{&quot\;1&quot\;:2\,&quot\;2&q
+	uot\;:13228792}\,&quot\;6&quot\;:{&quot\;1&quot\;:[{&quot\;1&quot\;:2\,&qu
+	ot\;2&quot\;:0\,&quot\;5&quot\;:[null\,2\,0]}\,{&quot\;1&quot\;:0\,&quot\;
+	2&quot\;:0\,&quot\;3&quot\;:3}\,{&quot\;1&quot\;:1\,&quot\;2&quot\;:0\,&qu
+	ot\;4&quot\;:1}]}\,&quot\;8&quot\;:{&quot\;1&quot\;:[{&quot\;1&quot\;:2\,&
+	quot\;2&quot\;:0\,&quot\;5&quot\;:[null\,2\,0]}\,{&quot\;1&quot\;:0\,&quot
+	\;2&quot\;:0\,&quot\;3&quot\;:3}\,{&quot\;1&quot\;:1\,&quot\;2&quot\;:0\,&
+	quot\;4&quot\;:1}]}\,&quot\;10&quot\;:1\,&quot\;11&quot\;:4\,&quot\;12&quo
+	t\;:0\,&quot\;14&quot\;:[null\,2\,0]\,&quot\;15&quot\;:&quot\;Calibri\, sa
+	ns-serif&quot\;\,&quot\;16&quot\;:11}">In New York\, no classes are schedu
+	led and University offices are closed.</span></p>
 URL:https://events.nyu.edu/event/333367-juneteenth
 CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2025
@@ -684,22 +698,22 @@ CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:333378
-SUMMARY:Summer 2025 Census Date
-DTSTAMP:20240322T144023Z
-DTSTART;VALUE=DATE:20250731
-URL:https://events.nyu.edu/event/333378-summer-2025-census-date
+UID:333374
+SUMMARY:Last Day of Summer 2025 Classes: 10-Week Session
+DTSTAMP:20241008T155750Z
+DTSTART;VALUE=DATE:20250730
+URL:https://events.nyu.edu/event/last-day-of-summer-2025-classes-10-week-se
+	ssion
 CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2025
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:333374
-SUMMARY:Last Day of Summer 2025 Classes: 10-Week Session
-DTSTAMP:20240621T163451Z
-DTSTART;VALUE=DATE:20250801
-URL:https://events.nyu.edu/event/333374-last-day-of-summer-2025-classes-10-
-	week-session
+UID:333378
+SUMMARY:Summer 2025 Census Date
+DTSTAMP:20240322T144023Z
+DTSTART;VALUE=DATE:20250731
+URL:https://events.nyu.edu/event/333378-summer-2025-census-date
 CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2025
 DURATION:P1DT
