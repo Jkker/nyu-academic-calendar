@@ -667,10 +667,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:333371
 SUMMARY:Last Day of Summer 2025 Classes: 7-Week Session
-DTSTAMP:20240621T163018Z
-DTSTART;VALUE=DATE:20250711
-URL:https://events.nyu.edu/event/333371-last-day-of-summer-2025-classes-7-w
-	eek-session
+DTSTAMP:20241009T105507Z
+DTSTART;VALUE=DATE:20250709
+URL:https://events.nyu.edu/event/last-day-of-summer-2025-classes-7-week-ses
+	sion
 CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2025
 DURATION:P1DT
@@ -678,10 +678,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:333372
 SUMMARY:Last Day of Summer 2025 Classes: Third 3-Week Session
-DTSTAMP:20240322T143219Z
-DTSTART;VALUE=DATE:20250722
-URL:https://events.nyu.edu/event/333372-last-day-of-summer-2025-classes-thi
-	rd-3-week
+DTSTAMP:20241009T105555Z
+DTSTART;VALUE=DATE:20250723
+URL:https://events.nyu.edu/event/last-day-of-summer-2025-classes-third-3-we
+	ek
 CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2025
 DURATION:P1DT
@@ -689,10 +689,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:333373
 SUMMARY:Summer 2025 Classes Begin: Fourth 3-Week Session
-DTSTAMP:20240322T143355Z
-DTSTART;VALUE=DATE:20250723
-URL:https://events.nyu.edu/event/333373-summer-2025-classes-begin-fourth-3-
-	week-session
+DTSTAMP:20241009T105625Z
+DTSTART;VALUE=DATE:20250724
+URL:https://events.nyu.edu/event/summer-2025-classes-begin-fourth-3-week-se
+	ssion
 CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2025
 DURATION:P1DT
