@@ -32,13 +32,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:342020
 SUMMARY:Last Day to Apply for Fall 2024 Graduation
-DTSTAMP:20241014T211248Z
+DTSTAMP:20241014T215334Z
 DTSTART;VALUE=DATE:20241015
-DESCRIPTION:<p><em>Students completing their graduation requirements by the
-	 end of Fall 2024/January 2025 term must Apply for Graduation via Albert.*
-	<br />\nThough related\, your eligibility for attending All-University Com
-	mencement and school ceremonies are separate unique processes and more inf
-	ormation can be found here…</em></p>
+DESCRIPTION:<p>\n  <em>Students completing their graduation requirements by
+	 the end of Fall 2024/January 2025 term must Apply for Graduation via Albe
+	rt.*<br />\n  Though related\, your eligibility for attending All-Universi
+	ty Commencement and school ceremonies are separate unique processes and mo
+	re information can be found here…</em>\n</p>
 URL:https://events.nyu.edu/event/342020-last-day-to-apply-for-fall-2024-gra
 	duation
 CATEGORIES:2024-2025 Academic Year,Fall 2024,Graduation,January Term 2025,S
@@ -188,6 +188,22 @@ CATEGORIES:2024-2025 Academic Year,Fall 2024,Registration Dates &amp; Deadl
 	ines,StudentLink
 END:VEVENT
 BEGIN:VEVENT
+UID:342022
+SUMMARY:Apply for Spring 2025 Graduation
+DTSTAMP:20241014T211544Z
+DTSTART;VALUE=DATE:20241201
+DTEND;VALUE=DATE:20250202
+DESCRIPTION:<p>Students completing their graduation requirements by the end
+	 of Spring 2025 semester must Apply for Graduation via Albert.* If you are
+	 taking summer courses you must apply for Summer Graduation in March.<br /
+	>\n<em>Though related\, your eligibility for attending All-University Comm
+	encement and school ceremonies are separate unique processes and more info
+	rmation can be found here…</em></p>
+URL:https://events.nyu.edu/event/342022-apply-for-spring-2025-graduation
+CATEGORIES:2024-2025 Academic Year,Fall 2024,Graduation,Spring 2025,Student
+	Link
+END:VEVENT
+BEGIN:VEVENT
 UID:326604
 SUMMARY:Legislative Friday
 DTSTAMP:20240716T175204Z
@@ -254,6 +270,22 @@ CATEGORIES:2024-2025 Academic Year,Fall 2024,Registration Dates &amp; Deadl
 	ines,StudentLink
 END:VEVENT
 BEGIN:VEVENT
+UID:342023
+SUMMARY:Apply for Spring 2025 Graduation
+DTSTAMP:20241014T211544Z
+DTSTART;VALUE=DATE:20250101
+DTEND;VALUE=DATE:20250202
+DESCRIPTION:<p>Students completing their graduation requirements by the end
+	 of Spring 2025 semester must Apply for Graduation via Albert.* If you are
+	 taking summer courses you must apply for Summer Graduation in March.<br /
+	>\n<em>Though related\, your eligibility for attending All-University Comm
+	encement and school ceremonies are separate unique processes and more info
+	rmation can be found here…</em></p>
+URL:https://events.nyu.edu/event/342023-apply-for-spring-2025-graduation
+CATEGORIES:2024-2025 Academic Year,Fall 2024,Graduation,Spring 2025,Student
+	Link
+END:VEVENT
+BEGIN:VEVENT
 UID:326645
 SUMMARY:January Term 2025 Classes Begin
 DTSTAMP:20231113T181804Z
@@ -295,6 +327,35 @@ CATEGORIES:2024-2025 Academic Year,January Term 2025,Registration Dates &am
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:342026
+SUMMARY:January 2025 Deadline to Request Pass/Fail Grade Option
+DTSTAMP:20241014T215625Z
+DTSTART;VALUE=DATE:20250114
+DESCRIPTION:<p>Last day for students in a school that permits the pass/fail
+	 grade option to submit a request.</p>
+URL:https://events.nyu.edu/event/342026-january-2025-deadline-to-request-pa
+	ssfail-g
+CATEGORIES:2024-2025 Academic Year,January Term 2025,Registration Dates &am
+	p; Deadlines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:342025
+SUMMARY:January Term 2025 Withdrawal Deadline
+DTSTAMP:20241014T215406Z
+DTSTART;VALUE=DATE:20250114
+DESCRIPTION:<p>Last day for students to submit a request to (a) withdraw fr
+	om any or all January class(es) and (b) totally withdraw from the Universi
+	ty for January. Academic calendars at global sites may vary\, so students 
+	should consult the academic calendar of their home school study away site.
+	</p>
+URL:https://events.nyu.edu/event/342025-january-term-2025-withdrawal-deadli
+	ne
+CATEGORIES:2024-2025 Academic Year,January Term 2025,Registration Dates &am
+	p; Deadlines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:326650
 SUMMARY:Last Day of January Term 2025 Classes
 DTSTAMP:20231113T183258Z
@@ -324,6 +385,33 @@ URL:https://events.nyu.edu/event/326651-spring-2025-classes-begin
 CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Sprin
 	g 2025,StudentLink
 DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:342027
+SUMMARY:Summer 2025 Class Schedule Published
+DTSTAMP:20241014T220001Z
+DTSTART;VALUE=DATE:20250121
+URL:https://events.nyu.edu/event/342027-summer-2025-class-schedule-publishe
+	d
+CATEGORIES:2024-2025 Academic Year,January Term 2025,Registration Dates &am
+	p; Deadlines,StudentLink,Summer 2025
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:342024
+SUMMARY:Apply for Spring 2025 Graduation
+DTSTAMP:20241014T211544Z
+DTSTART;VALUE=DATE:20250201
+DTEND;VALUE=DATE:20250202
+DESCRIPTION:<p>Students completing their graduation requirements by the end
+	 of Spring 2025 semester must Apply for Graduation via Albert.* If you are
+	 taking summer courses you must apply for Summer Graduation in March.<br /
+	>\n<em>Though related\, your eligibility for attending All-University Comm
+	encement and school ceremonies are separate unique processes and more info
+	rmation can be found here…</em></p>
+URL:https://events.nyu.edu/event/342024-apply-for-spring-2025-graduation
+CATEGORIES:2024-2025 Academic Year,Fall 2024,Graduation,Spring 2025,Student
+	Link
 END:VEVENT
 BEGIN:VEVENT
 UID:326652
@@ -752,6 +840,16 @@ CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:333375
+SUMMARY:Legislative Friday
+DTSTAMP:20240322T143634Z
+DTSTART;VALUE=DATE:20250813
+URL:https://events.nyu.edu/event/333375-legislative-friday
+CATEGORIES:2024-2025 Academic Year,2025,Registration Dates &amp; Deadlines,
+	StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:336230
 SUMMARY:Legislative Friday
 DTSTAMP:20240716T175340Z
@@ -772,16 +870,6 @@ DESCRIPTION:<p><span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;
 URL:https://events.nyu.edu/event/336230-legislative-friday
 CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2025
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
-UID:333375
-SUMMARY:Legislative Friday
-DTSTAMP:20240322T143634Z
-DTSTART;VALUE=DATE:20250813
-URL:https://events.nyu.edu/event/333375-legislative-friday
-CATEGORIES:2024-2025 Academic Year,2025,Registration Dates &amp; Deadlines,
-	StudentLink
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
@@ -916,16 +1004,6 @@ CATEGORIES:2025-2026 Academic Year,Fall 2025,Registration Dates &amp; Deadl
 	ines,StudentLink
 END:VEVENT
 BEGIN:VEVENT
-UID:334197
-SUMMARY:January Term 2026 Classes Begin
-DTSTAMP:20240401T172621Z
-DTSTART;VALUE=DATE:20260105
-URL:https://events.nyu.edu/event/334197-january-term-2026-classes-begin
-CATEGORIES:2025-2026 Academic Year,January Term 2026,Registration Dates &am
-	p; Deadlines,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:333345
 SUMMARY:January Term 2026 Classes Begin
 DTSTAMP:20240322T125353Z
@@ -933,6 +1011,16 @@ DTSTART;VALUE=DATE:20260105
 URL:https://events.nyu.edu/event/333345-january-term-2026-classes-begin
 CATEGORIES:2025-2026 Academic Year,2026,Registration Dates &amp; Deadlines,
 	StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:334197
+SUMMARY:January Term 2026 Classes Begin
+DTSTAMP:20240401T172621Z
+DTSTART;VALUE=DATE:20260105
+URL:https://events.nyu.edu/event/334197-january-term-2026-classes-begin
+CATEGORIES:2025-2026 Academic Year,January Term 2026,Registration Dates &am
+	p; Deadlines,StudentLink
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
