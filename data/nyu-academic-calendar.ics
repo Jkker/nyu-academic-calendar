@@ -9,55 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:326595
-SUMMARY:January 2025 Registration Begins
-DTSTAMP:20231113T032751Z
-DTSTART;VALUE=DATE:20241015
-URL:https://events.nyu.edu/event/326595-january-2025-registration-begins
-CATEGORIES:2024-2025 Academic Year,Fall 2024,January Term 2025,Registration
-	 Dates &amp; Deadlines,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
-UID:342020
-SUMMARY:Last Day to Apply for Fall 2024 Graduation
-DTSTAMP:20241014T215334Z
-DTSTART;VALUE=DATE:20241015
-DESCRIPTION:<p>\n  <em>Students completing their graduation requirements by
-	 the end of Fall 2024/January 2025 term must Apply for Graduation via Albe
-	rt.*<br />\n  Though related\, your eligibility for attending All-Universi
-	ty Commencement and school ceremonies are separate unique processes and mo
-	re information can be found here…</em>\n</p>
-URL:https://events.nyu.edu/event/342020-last-day-to-apply-for-fall-2024-gra
-	duation
-CATEGORIES:2024-2025 Academic Year,Fall 2024,Graduation,January Term 2025,S
-	tudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
-UID:326596
-SUMMARY:Legislative Monday
-DTSTAMP:20240716T175149Z
-DTSTART;VALUE=DATE:20241015
-DESCRIPTION:<p><span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;
-	:&quot\;Classes meet according to a Monday schedule.&quot\;}" data-sheets-
-	userformat="{&quot\;2&quot\;:15337\,&quot\;3&quot\;:{&quot\;1&quot\;:0}\,&
-	quot\;6&quot\;:{&quot\;1&quot\;:[{&quot\;1&quot\;:2\,&quot\;2&quot\;:0\,&q
-	uot\;5&quot\;:[null\,2\,0]}\,{&quot\;1&quot\;:0\,&quot\;2&quot\;:0\,&quot\
-	;3&quot\;:3}\,{&quot\;1&quot\;:1\,&quot\;2&quot\;:0\,&quot\;4&quot\;:1}]}\
-	,&quot\;8&quot\;:{&quot\;1&quot\;:[{&quot\;1&quot\;:2\,&quot\;2&quot\;:0\,
-	&quot\;5&quot\;:[null\,2\,0]}\,{&quot\;1&quot\;:0\,&quot\;2&quot\;:0\,&quo
-	t\;3&quot\;:3}\,{&quot\;1&quot\;:1\,&quot\;2&quot\;:0\,&quot\;4&quot\;:1}]
-	}\,&quot\;9&quot\;:0\,&quot\;10&quot\;:1\,&quot\;11&quot\;:4\,&quot\;12&qu
-	ot\;:0\,&quot\;14&quot\;:[null\,2\,0]\,&quot\;15&quot\;:&quot\;Calibri\, s
-	ans-serif&quot\;\,&quot\;16&quot\;:11}">Classes meet according to a Monday
-	 schedule.</span></p>
-URL:https://events.nyu.edu/event/326596-legislative-monday
-CATEGORIES:2024-2025 Academic Year,Fall 2024,Registration Dates &amp; Deadl
-	ines,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:326597
 SUMMARY:Spring 2025 Class Schedule Published
 DTSTAMP:20231113T033125Z
@@ -704,17 +655,6 @@ CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:333366
-SUMMARY:Legislative Thursday
-DTSTAMP:20240322T140746Z
-DTSTART;VALUE=DATE:20250701
-DESCRIPTION:<p>Classes meet according to a Thursday schedule.</p>
-URL:https://events.nyu.edu/event/333366-legislative-thursday
-CATEGORIES:2024-2025 Academic Year,2025,Registration Dates &amp; Deadlines,
-	StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:336229
 SUMMARY:Legislative Thursday
 DTSTAMP:20240716T175417Z
@@ -735,6 +675,17 @@ DESCRIPTION:<p><span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;
 URL:https://events.nyu.edu/event/336229-legislative-thursday
 CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2025
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:333366
+SUMMARY:Legislative Thursday
+DTSTAMP:20240322T140746Z
+DTSTART;VALUE=DATE:20250701
+DESCRIPTION:<p>Classes meet according to a Thursday schedule.</p>
+URL:https://events.nyu.edu/event/333366-legislative-thursday
+CATEGORIES:2024-2025 Academic Year,2025,Registration Dates &amp; Deadlines,
+	StudentLink
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
@@ -1004,16 +955,6 @@ CATEGORIES:2025-2026 Academic Year,Fall 2025,Registration Dates &amp; Deadl
 	ines,StudentLink
 END:VEVENT
 BEGIN:VEVENT
-UID:333345
-SUMMARY:January Term 2026 Classes Begin
-DTSTAMP:20240322T125353Z
-DTSTART;VALUE=DATE:20260105
-URL:https://events.nyu.edu/event/333345-january-term-2026-classes-begin
-CATEGORIES:2025-2026 Academic Year,2026,Registration Dates &amp; Deadlines,
-	StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:334197
 SUMMARY:January Term 2026 Classes Begin
 DTSTAMP:20240401T172621Z
@@ -1021,6 +962,16 @@ DTSTART;VALUE=DATE:20260105
 URL:https://events.nyu.edu/event/334197-january-term-2026-classes-begin
 CATEGORIES:2025-2026 Academic Year,January Term 2026,Registration Dates &am
 	p; Deadlines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:333345
+SUMMARY:January Term 2026 Classes Begin
+DTSTAMP:20240322T125353Z
+DTSTART;VALUE=DATE:20260105
+URL:https://events.nyu.edu/event/333345-january-term-2026-classes-begin
+CATEGORIES:2025-2026 Academic Year,2026,Registration Dates &amp; Deadlines,
+	StudentLink
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
