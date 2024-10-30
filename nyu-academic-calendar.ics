@@ -296,6 +296,17 @@ CATEGORIES:2024-2025 Academic Year,January Term 2025,Registration Dates &am
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:343437
+SUMMARY:Summer 2025 Class Schedule Published
+DTSTAMP:20241030T124620Z
+DTSTART;VALUE=DATE:20250121
+URL:https://events.nyu.edu/event/343437-summer-2025-class-schedule-publishe
+	d
+CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2025,StudentLink,Summer 2025
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:342059
 SUMMARY:Fall 2024 Conferral (January Graduates)
 DTSTAMP:20241015T135331Z
@@ -363,6 +374,16 @@ CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Sprin
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:343438
+SUMMARY:Summer 2025 Registration Begins
+DTSTAMP:20241030T124731Z
+DTSTART;VALUE=DATE:20250210
+URL:https://events.nyu.edu/event/343438-summer-2025-registration-begins
+CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2025,StudentLink,Summer 2025
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:326655
 SUMMARY:Presidents’ Day
 DTSTAMP:20231113T184257Z
@@ -411,6 +432,36 @@ CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Sprin
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:343439
+SUMMARY:First 7-Week Session Ends
+DTSTAMP:20241030T125305Z
+DTSTART;VALUE=DATE:20250311
+URL:https://events.nyu.edu/event/343439-first-7-week-session-ends
+CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2025,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:343440
+SUMMARY:Second 7-Week Session Begins
+DTSTAMP:20241030T125422Z
+DTSTART;VALUE=DATE:20250312
+URL:https://events.nyu.edu/event/343440-second-7-week-session-begins
+CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2025,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:343442
+SUMMARY:Fall 2025 Class Schedule Published
+DTSTAMP:20241030T125846Z
+DTSTART;VALUE=DATE:20250324
+URL:https://events.nyu.edu/event/343442-fall-2025-class-schedule-published
+CATEGORIES:2025-2026 Academic Year,Fall 2025,Registration Dates &amp; Deadl
+	ines,Spring 2025,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:326657
 SUMMARY:Spring Break
 DTSTAMP:20231113T184724Z
@@ -447,6 +498,16 @@ DESCRIPTION:<p>Last day for students to submit a request to (a) withdraw fr
 URL:https://events.nyu.edu/event/336060-spring-2025-withdrawal-deadline
 CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Sprin
 	g 2025,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:343441
+SUMMARY:Fall 2025 Registration Begins
+DTSTAMP:20241030T125640Z
+DTSTART;VALUE=DATE:20250421
+URL:https://events.nyu.edu/event/343441-fall-2025-registration-begins
+CATEGORIES:2025-2026 Academic Year,Fall 2025,Registration Dates &amp; Deadl
+	ines,Spring 2025,StudentLink
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
@@ -802,6 +863,17 @@ CATEGORIES:2025-2026 Academic Year,Fall 2025,Registration Dates &amp; Deadl
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:343445
+SUMMARY:January 2026 Class Schedule Published
+DTSTAMP:20241030T130358Z
+DTSTART;VALUE=DATE:20250922
+URL:https://events.nyu.edu/event/343445-january-2026-class-schedule-publish
+	ed
+CATEGORIES:2025-2026 Academic Year,2026,Fall 2025,Registration Dates &amp; 
+	Deadlines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:333337
 SUMMARY:Fall Break
 DTSTAMP:20240322T121608Z
@@ -809,6 +881,16 @@ DTSTART;VALUE=DATE:20251013
 URL:https://events.nyu.edu/event/333337-fall-break
 CATEGORIES:2025-2026 Academic Year,Fall 2025,Registration Dates &amp; Deadl
 	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:343446
+SUMMARY:January 2026 Registration Begins
+DTSTAMP:20241030T130453Z
+DTSTART;VALUE=DATE:20251014
+URL:https://events.nyu.edu/event/343446-january-2026-registration-begins
+CATEGORIES:2025-2026 Academic Year,Fall 2025,January Term 2026,Registration
+	 Dates &amp; Deadlines,StudentLink
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
@@ -832,6 +914,27 @@ DESCRIPTION:<p><span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;
 URL:https://events.nyu.edu/event/333338-legislative-monday
 CATEGORIES:2025-2026 Academic Year,Fall 2025,Registration Dates &amp; Deadl
 	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:343443
+SUMMARY:Spring 2026 Class Schedule Published
+DTSTAMP:20241030T130132Z
+DTSTART;VALUE=DATE:20251020
+URL:https://events.nyu.edu/event/343443-spring-2026-class-schedule-publishe
+	d
+CATEGORIES:2025-2026 Academic Year,Fall 2025,Registration Dates &amp; Deadl
+	ines,Spring 2026,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:343444
+SUMMARY:Spring 2026 Registration Begins
+DTSTAMP:20241030T130226Z
+DTSTART;VALUE=DATE:20251117
+URL:https://events.nyu.edu/event/343444-spring-2026-registration-begins
+CATEGORIES:2025-2026 Academic Year,Fall 2025,Registration Dates &amp; Deadl
+	ines,Spring 2026,StudentLink
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
