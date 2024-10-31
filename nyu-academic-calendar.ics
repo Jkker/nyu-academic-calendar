@@ -87,17 +87,18 @@ CATEGORIES:2024-2025 Academic Year,Fall 2024,Registration Dates &amp; Deadl
 END:VEVENT
 BEGIN:VEVENT
 UID:342022
-SUMMARY:Apply for Spring 2025 Graduation
-DTSTAMP:20241014T211544Z
+SUMMARY:REMINDER: Apply for Spring 2025 Graduation
+DTSTAMP:20241031T212734Z
 DTSTART;VALUE=DATE:20241201
 DTEND;VALUE=DATE:20250202
-DESCRIPTION:<p>Students completing their graduation requirements by the end
-	 of Spring 2025 semester must Apply for Graduation via Albert.* If you are
-	 taking summer courses you must apply for Summer Graduation in March.<br /
-	>\n<em>Though related\, your eligibility for attending All-University Comm
-	encement and school ceremonies are separate unique processes and more info
-	rmation can be found here…</em></p>
-URL:https://events.nyu.edu/event/342022-apply-for-spring-2025-graduation
+DESCRIPTION:<p>\n  Students completing their graduation requirements by the
+	 end of Spring 2025 semester must Apply for Graduation via Albert.* If you
+	 are taking summer courses you must apply for Summer Graduation in March.<
+	br />\n  <em>Though related\, your eligibility for attending All-Universit
+	y Commencement and school ceremonies are separate unique processes and mor
+	e information can be found here…</em>\n</p>
+URL:https://events.nyu.edu/event/342022-reminder-apply-for-spring-2025-grad
+	uation
 CATEGORIES:2024-2025 Academic Year,Fall 2024,Graduation,Spring 2025,Student
 	Link
 END:VEVENT
@@ -169,16 +170,16 @@ CATEGORIES:2024-2025 Academic Year,Fall 2024,Registration Dates &amp; Deadl
 END:VEVENT
 BEGIN:VEVENT
 UID:342023
-SUMMARY:Apply for Spring 2025 Graduation
-DTSTAMP:20241014T211544Z
+SUMMARY:REMINDER: Apply for Spring 2025 Graduation
+DTSTAMP:20241031T212734Z
 DTSTART;VALUE=DATE:20250101
 DTEND;VALUE=DATE:20250202
-DESCRIPTION:<p>Students completing their graduation requirements by the end
-	 of Spring 2025 semester must Apply for Graduation via Albert.* If you are
-	 taking summer courses you must apply for Summer Graduation in March.<br /
-	>\n<em>Though related\, your eligibility for attending All-University Comm
-	encement and school ceremonies are separate unique processes and more info
-	rmation can be found here…</em></p>
+DESCRIPTION:<p>\n  Students completing their graduation requirements by the
+	 end of Spring 2025 semester must Apply for Graduation via Albert.* If you
+	 are taking summer courses you must apply for Summer Graduation in March.<
+	br />\n  <em>Though related\, your eligibility for attending All-Universit
+	y Commencement and school ceremonies are separate unique processes and mor
+	e information can be found here…</em>\n</p>
 URL:https://events.nyu.edu/event/342023-apply-for-spring-2025-graduation
 CATEGORIES:2024-2025 Academic Year,Fall 2024,Graduation,Spring 2025,Student
 	Link
@@ -319,19 +320,18 @@ DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
 UID:342024
-SUMMARY:Apply for Spring 2025 Graduation
-DTSTAMP:20241014T211544Z
+SUMMARY:REMINDER: Apply for Spring 2025 Graduation
+DTSTAMP:20241031T212734Z
 DTSTART;VALUE=DATE:20250201
 DTEND;VALUE=DATE:20250202
-DESCRIPTION:<p>Students completing their graduation requirements by the end
-	 of Spring 2025 semester must Apply for Graduation via Albert.* If you are
-	 taking summer courses you must apply for Summer Graduation in March.<br /
-	>\n<em>Though related\, your eligibility for attending All-University Comm
-	encement and school ceremonies are separate unique processes and more info
-	rmation can be found here…</em></p>
+DESCRIPTION:<p>\n  Students completing their graduation requirements by the
+	 end of Spring 2025 semester must Apply for Graduation via Albert.* If you
+	 are taking summer courses you must apply for Summer Graduation in March.<
+	br />\n  <em>Though related\, your eligibility for attending All-Universit
+	y Commencement and school ceremonies are separate unique processes and mor
+	e information can be found here…</em>\n</p>
 URL:https://events.nyu.edu/event/342024-apply-for-spring-2025-graduation
-CATEGORIES:2024-2025 Academic Year,Fall 2024,Graduation,Spring 2025,Student
-	Link
+CATEGORIES:2024-2025 Academic Year,Graduation,Spring 2025,StudentLink
 END:VEVENT
 BEGIN:VEVENT
 UID:326652
