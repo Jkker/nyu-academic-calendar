@@ -11,15 +11,15 @@ X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:342021
 SUMMARY:Apply for Spring 2025 Graduation
-DTSTAMP:20241014T211544Z
+DTSTAMP:20241101T041937Z
 DTSTART;VALUE=DATE:20241101
 DTEND;VALUE=DATE:20250202
-DESCRIPTION:<p>Students completing their graduation requirements by the end
-	 of Spring 2025 semester must Apply for Graduation via Albert.* If you are
-	 taking summer courses you must apply for Summer Graduation in March.<br /
-	>\n<em>Though related\, your eligibility for attending All-University Comm
-	encement and school ceremonies are separate unique processes and more info
-	rmation can be found here…</em></p>
+DESCRIPTION:<p>\n  Students completing their graduation requirements by the
+	 end of Spring 2025 semester must Apply for Graduation via Albert.* If you
+	 are taking summer courses you must apply for Summer Graduation in March.<
+	br />\n  <em>Though related\, your eligibility for attending All-Universit
+	y Commencement and school ceremonies are separate unique processes and mor
+	e information can be found here…</em>\n</p>
 URL:https://events.nyu.edu/event/342021-apply-for-spring-2025-graduation
 CATEGORIES:2024-2025 Academic Year,Fall 2024,Graduation,Spring 2025,Student
 	Link
@@ -432,6 +432,21 @@ CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Sprin
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:343566
+SUMMARY:Apply for Summer 2025 Graduation
+DTSTAMP:20241101T042107Z
+DTSTART;VALUE=DATE:20250228
+DTEND;VALUE=DATE:20250529
+DESCRIPTION:<p>\n  Students completing their graduation requirements by the
+	 end of Summer 2025 semester must Apply for Graduation via Albert.*&#160\;
+	<br />\n  <em>Though related\, your eligibility for attending All-Universi
+	ty Commencement and school ceremonies are separate unique processes and mo
+	re information can be found here…</em>\n</p>
+URL:https://events.nyu.edu/event/343566-apply-for-summer-2025-graduation
+CATEGORIES:2024-2025 Academic Year,Graduation,Spring 2025,StudentLink,Summe
+	r 2025
+END:VEVENT
+BEGIN:VEVENT
 UID:343439
 SUMMARY:First 7-Week Session Ends
 DTSTAMP:20241030T125305Z
@@ -473,6 +488,21 @@ CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Sprin
 	g 2025,StudentLink
 END:VEVENT
 BEGIN:VEVENT
+UID:343567
+SUMMARY:Apply for Summer 2025 Graduation
+DTSTAMP:20241101T042107Z
+DTSTART;VALUE=DATE:20250328
+DTEND;VALUE=DATE:20250529
+DESCRIPTION:<p>\n  Students completing their graduation requirements by the
+	 end of Summer 2025 semester must Apply for Graduation via Albert.*&#160\;
+	<br />\n  <em>Though related\, your eligibility for attending All-Universi
+	ty Commencement and school ceremonies are separate unique processes and mo
+	re information can be found here…</em>\n</p>
+URL:https://events.nyu.edu/event/343567-apply-for-summer-2025-graduation
+CATEGORIES:2024-2025 Academic Year,Graduation,Spring 2025,StudentLink,Summe
+	r 2025
+END:VEVENT
+BEGIN:VEVENT
 UID:336061
 SUMMARY:Spring 2025 Deadline to Request Pass/Fail Grade Option
 DTSTAMP:20240610T141426Z
@@ -509,6 +539,22 @@ URL:https://events.nyu.edu/event/343441-fall-2025-registration-begins
 CATEGORIES:2025-2026 Academic Year,Fall 2025,Registration Dates &amp; Deadl
 	ines,Spring 2025,StudentLink
 DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:343568
+SUMMARY:REMINDER: Apply for Summer 2025 Graduation
+DTSTAMP:20241101T042133Z
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250529
+DESCRIPTION:<p>\n  Students completing their graduation requirements by the
+	 end of Summer 2025 semester must Apply for Graduation via Albert.*&#160\;
+	<br />\n  <em>Though related\, your eligibility for attending All-Universi
+	ty Commencement and school ceremonies are separate unique processes and mo
+	re information can be found here…</em>\n</p>
+URL:https://events.nyu.edu/event/343568-reminder-apply-for-summer-2025-grad
+	uation
+CATEGORIES:2024-2025 Academic Year,Graduation,Spring 2025,StudentLink,Summe
+	r 2025
 END:VEVENT
 BEGIN:VEVENT
 UID:326658
@@ -614,6 +660,22 @@ URL:https://events.nyu.edu/event/333363-memorial-day
 CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2025
 DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:343569
+SUMMARY:REMINDER: Apply for Summer 2025 Graduation
+DTSTAMP:20241101T042107Z
+DTSTART;VALUE=DATE:20250528
+DTEND;VALUE=DATE:20250529
+DESCRIPTION:<p>\n  Students completing their graduation requirements by the
+	 end of Summer 2025 semester must Apply for Graduation via Albert.*&#160\;
+	<br />\n  <em>Though related\, your eligibility for attending All-Universi
+	ty Commencement and school ceremonies are separate unique processes and mo
+	re information can be found here…</em>\n</p>
+URL:https://events.nyu.edu/event/343569-reminder-apply-for-summer-2025-grad
+	uation
+CATEGORIES:2024-2025 Academic Year,Graduation,Spring 2025,StudentLink,Summe
+	r 2025
 END:VEVENT
 BEGIN:VEVENT
 UID:333364
