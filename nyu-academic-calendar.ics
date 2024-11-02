@@ -9,22 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:342021
-SUMMARY:Apply for Spring 2025 Graduation
-DTSTAMP:20241101T041937Z
-DTSTART;VALUE=DATE:20241101
-DTEND;VALUE=DATE:20250202
-DESCRIPTION:<p>\n  Students completing their graduation requirements by the
-	 end of Spring 2025 semester must Apply for Graduation via Albert.* If you
-	 are taking summer courses you must apply for Summer Graduation in March.<
-	br />\n  <em>Though related\, your eligibility for attending All-Universit
-	y Commencement and school ceremonies are separate unique processes and mor
-	e information can be found here…</em>\n</p>
-URL:https://events.nyu.edu/event/342021-apply-for-spring-2025-graduation
-CATEGORIES:2024-2025 Academic Year,Fall 2024,Graduation,Spring 2025,Student
-	Link
-END:VEVENT
-BEGIN:VEVENT
 UID:339241
 SUMMARY:Faculty Deadline for Entering Midterm Grades for Fall
 DTSTAMP:20240915T011552Z
