@@ -9,17 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:339241
-SUMMARY:Faculty Deadline for Entering Midterm Grades for Fall
-DTSTAMP:20240915T011552Z
-DTSTART;VALUE=DATE:20241104
-URL:https://events.nyu.edu/event/339241-faculty-deadline-for-entering-midte
-	rm-grade
-CATEGORIES:2024-2025 Academic Year,Fall 2024,Registration Dates &amp; Deadl
-	ines,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:326598
 SUMMARY:Spring 2025 Registration Begins
 DTSTAMP:20231113T033318Z
