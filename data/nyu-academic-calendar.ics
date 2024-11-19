@@ -9,16 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:326598
-SUMMARY:Spring 2025 Registration Begins
-DTSTAMP:20231113T033318Z
-DTSTART;VALUE=DATE:20241118
-URL:https://events.nyu.edu/event/326598-spring-2025-registration-begins
-CATEGORIES:2024-2025 Academic Year,Fall 2024,Registration Dates &amp; Deadl
-	ines,Spring 2025,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:335996
 SUMMARY:Fall 2024 Deadline to Request Pass/Fail Grade Option
 DTSTAMP:20240606T211701Z
