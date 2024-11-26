@@ -9,34 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:335996
-SUMMARY:Fall 2024 Deadline to Request Pass/Fail Grade Option
-DTSTAMP:20240606T211701Z
-DTSTART;VALUE=DATE:20241125
-DESCRIPTION:<p>Last day for students in a school that permits the pass/fail
-	 grade option to submit a request.</p>
-URL:https://events.nyu.edu/event/335996-fall-2024-deadline-to-request-passf
-	ail-grade
-CATEGORIES:2024-2025 Academic Year,Fall 2024,Registration Dates &amp; Deadl
-	ines,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
-UID:335995
-SUMMARY:Fall 2024 Withdrawal Deadline
-DTSTAMP:20241112T180318Z
-DTSTART;VALUE=DATE:20241125
-DESCRIPTION:<p>\n  This is the last day for students to request (a) withdra
-	wal from any or all Fall classes or (b) complete withdrawal from the Unive
-	rsity for the Fall. Academic calendars at global sites may differ\, so stu
-	dents should check the calendar for their home school or study away site.\
-	n</p>
-URL:https://events.nyu.edu/event/335995-fall-2024-withdrawal-deadline
-CATEGORIES:2024-2025 Academic Year,Fall 2024,Registration Dates &amp; Deadl
-	ines,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:326599
 SUMMARY:Thanksgiving Recess
 DTSTAMP:20231113T033502Z
