@@ -12,7 +12,7 @@ BEGIN:VEVENT
 UID:326599
 SUMMARY:Thanksgiving Recess
 DTSTAMP:20231113T033502Z
-DTSTART;VALUE=DATE:20241128
+DTSTART;VALUE=DATE:20241129
 DTEND;VALUE=DATE:20241130
 DESCRIPTION:<table>\n  <tbody>\n    <tr>\n      <td>\n        In New York\,
 	 no classes are scheduled and University offices are closed.\n      </td>\
