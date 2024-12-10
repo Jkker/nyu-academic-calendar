@@ -236,6 +236,17 @@ CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Sprin
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:346721
+SUMMARY:First 7-Week Session Drop/Add Withdrawal Period Begins
+DTSTAMP:20241210T141934Z
+DTSTART;VALUE=DATE:20250128
+URL:https://events.nyu.edu/event/346721-first-7-week-session-dropadd-withdr
+	awal-per
+CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2025,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:342024
 SUMMARY:REMINDER: Apply for Spring 2025 Graduation
 DTSTAMP:20241031T212734Z
@@ -364,6 +375,17 @@ CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Sprin
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:346722
+SUMMARY:First 7-Week Session Withdrawal Deadline
+DTSTAMP:20241210T142128Z
+DTSTART;VALUE=DATE:20250228
+URL:https://events.nyu.edu/event/346722-first-7-week-session-withdrawal-dea
+	dline
+CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2025,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:343573
 SUMMARY:REMINDER: Apply for Summer 2025 Graduation
 DTSTAMP:20241101T042535Z
@@ -396,6 +418,28 @@ DTSTAMP:20241030T125422Z
 DTSTART;VALUE=DATE:20250312
 URL:https://events.nyu.edu/event/343440-second-7-week-session-begins
 CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2025,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:346724
+SUMMARY:Second 7-Week Session Drop/Add Deadline
+DTSTAMP:20241210T142353Z
+DTSTART;VALUE=DATE:20250318
+URL:https://events.nyu.edu/event/346724-second-7-week-session-dropadd-deadl
+	ine
+CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2025,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:346723
+SUMMARY:Second 7-Week Session Withdrawal Period Begins
+DTSTAMP:20241210T142305Z
+DTSTART;VALUE=DATE:20250319
+URL:https://events.nyu.edu/event/346723-second-7-week-session-withdrawal-pe
+	riod-beg
+CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Sprin
 	g 2025,StudentLink
 DURATION:P1DT
 END:VEVENT
