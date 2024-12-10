@@ -225,6 +225,17 @@ CATEGORIES:2024-2025 Academic Year,Fall 2024,Graduation,January Term 2025,R
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:346720
+SUMMARY:First 7-Week Session Drop/Add Deadline
+DTSTAMP:20241210T141734Z
+DTSTART;VALUE=DATE:20250127
+URL:https://events.nyu.edu/event/346720-first-7-week-session-dropadd-deadli
+	ne
+CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2025,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:342024
 SUMMARY:REMINDER: Apply for Spring 2025 Graduation
 DTSTAMP:20241031T212734Z
