@@ -511,8 +511,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:343441
 SUMMARY:Fall 2025 Registration Begins
-DTSTAMP:20241030T125640Z
+DTSTAMP:20241211T144040Z
 DTSTART;VALUE=DATE:20250421
+DESCRIPTION:<p>\n  <span style="font-weight: 400\;">Undergraduate and gradu
+	ate students register at specific appointment times.</span>\n</p>\n<p>\n  
+	<span style="font-weight: 400\;">About a month before registration\, stude
+	nts will receive an email that the schedule of classes is available to vie
+	w in Albert. At that time\, you will be able to check your exact registrat
+	ion day and time by visiting the Enrollment Dates section on the home page
+	 of</span> <a href="http://albert.nyu.edu/albert_index.html"><span style="
+	font-weight: 400\;">Albert.</span></a><span style="font-weight: 400\;"></s
+	pan>\n</p><strong>Please Note</strong><span style="font-weight: 400\;">: T
+	his date applies to continuing students only. New first-year students</spa
+	n><span style="font-weight: 400\;">&#160\;usually register over the Summer
+	 for the Fall term.</span>
 URL:https://events.nyu.edu/event/343441-fall-2025-registration-begins
 CATEGORIES:2025-2026 Academic Year,Fall 2025,Registration Dates &amp; Deadl
 	ines,Spring 2025,StudentLink
