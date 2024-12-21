@@ -9,19 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:326602
-SUMMARY:Final Exam Period
-DTSTAMP:20231113T034008Z
-DTSTART;VALUE=DATE:20241220
-DTEND;VALUE=DATE:20241221
-DESCRIPTION:<p>NYU Schools of Medicine\, Law\, Dentistry\, and Graduate Ste
-	rn manage different final exam schedules. Refer to school-specific calenda
-	rs for these details.</p>
-URL:https://events.nyu.edu/event/326602-final-exam-period
-CATEGORIES:2024-2025 Academic Year,Fall 2024,Registration Dates &amp; Deadl
-	ines,StudentLink
-END:VEVENT
-BEGIN:VEVENT
 UID:326603
 SUMMARY:Winter Recess for Students
 DTSTAMP:20231113T181346Z
