@@ -12,7 +12,7 @@ BEGIN:VEVENT
 UID:326603
 SUMMARY:Winter Recess for Students
 DTSTAMP:20231113T181346Z
-DTSTART;VALUE=DATE:20241224
+DTSTART;VALUE=DATE:20241225
 DTEND;VALUE=DATE:20250102
 URL:https://events.nyu.edu/event/326603-winter-recess-for-students
 CATEGORIES:2024-2025 Academic Year,Fall 2024,Registration Dates &amp; Deadl
