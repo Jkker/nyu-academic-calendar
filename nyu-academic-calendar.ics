@@ -513,7 +513,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:326662
 SUMMARY:Commencement
-DTSTAMP:20231113T185534Z
+DTSTAMP:20250102T162957Z
 DTSTART;VALUE=DATE:20250515
 DESCRIPTION:<table>\n  <tbody>\n    <tr>\n      <td>\n        <span data-sh
 	eets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;:&quot\;Please review the G
@@ -531,8 +531,8 @@ DESCRIPTION:<table>\n  <tbody>\n    <tr>\n      <td>\n        <span data-sh
 	;:11}">Please review the Graduation and Diplomas page for more information
 	.</span>\n      </td>\n    </tr>\n  </tbody>\n</table>
 URL:https://events.nyu.edu/event/326662-commencement
-CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Sprin
-	g 2025,StudentLink
+CATEGORIES:2024-2025 Academic Year,commencement,Registration Dates &amp; De
+	adlines,Spring 2025,StudentLink
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
