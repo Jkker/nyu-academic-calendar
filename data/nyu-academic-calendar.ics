@@ -9,17 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:326648
-SUMMARY:January 2025 Term Withdrawal Period Begins
-DTSTAMP:20231113T182927Z
-DTSTART;VALUE=DATE:20250105
-URL:https://events.nyu.edu/event/326648-january-2025-term-withdrawal-period
-	-begins
-CATEGORIES:2023-2024 Academic Year,January Term 2025,Registration Dates &am
-	p; Deadlines,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:326647
 SUMMARY:January 2025 Census Date
 DTSTAMP:20231113T182733Z
