@@ -792,6 +792,16 @@ CATEGORIES:2025-2026 Academic Year,Fall 2025,Registration Dates &amp; Deadl
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:347443
+SUMMARY:Fall 2025 Census Date
+DTSTAMP:20250109T173136Z
+DTSTART;VALUE=DATE:20250922
+URL:https://events.nyu.edu/event/347443-fall-2025-census-date
+CATEGORIES:2025-2026 Academic Year,Fall 2025,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:343445
 SUMMARY:January 2026 Class Schedule Published
 DTSTAMP:20241030T130358Z
@@ -965,6 +975,16 @@ CATEGORIES:2025-2026 Academic Year,January Term 2026,Registration Dates &am
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:347444
+SUMMARY:January 2026 Census Date
+DTSTAMP:20250109T173414Z
+DTSTART;VALUE=DATE:20260107
+URL:https://events.nyu.edu/event/347444-january-2026-census-date
+CATEGORIES:2025-2026 Academic Year,January Term 2026,Registration Dates &am
+	p; Deadlines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:333346
 SUMMARY:January Term 2026 Drop/Add Deadline
 DTSTAMP:20240322T125537Z
@@ -1011,6 +1031,16 @@ SUMMARY:Spring 2026 Add/Drop Deadline
 DTSTAMP:20240322T130032Z
 DTSTART;VALUE=DATE:20260202
 URL:https://events.nyu.edu/event/333350-spring-2026-adddrop-deadline
+CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2026,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:347445
+SUMMARY:Spring 2026 Census Date
+DTSTAMP:20250109T173619Z
+DTSTART;VALUE=DATE:20260209
+URL:https://events.nyu.edu/event/347445-spring-2026-census-date
 CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Sprin
 	g 2026,StudentLink
 DURATION:P1DT
@@ -1273,6 +1303,16 @@ DTSTAMP:20240322T154037Z
 DTSTART;VALUE=DATE:20260722
 URL:https://events.nyu.edu/event/333397-summer-2026-classes-begin-fourth-3-
 	week-session
+CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2026
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:347446
+SUMMARY:Summer 2026 Census Date
+DTSTAMP:20250109T173743Z
+DTSTART;VALUE=DATE:20260723
+URL:https://events.nyu.edu/event/347446-summer-2026-census-date
 CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2026
 DURATION:P1DT
