@@ -9,17 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:326650
-SUMMARY:Last Day of January Term 2025 Classes
-DTSTAMP:20231113T183258Z
-DTSTART;VALUE=DATE:20250117
-URL:https://events.nyu.edu/event/326650-last-day-of-january-term-2025-class
-	es
-CATEGORIES:2024-2025 Academic Year,January Term 2025,Registration Dates &am
-	p; Deadlines,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:326649
 SUMMARY:Martin Luther King\, Jr. Birthday
 DTSTAMP:20231113T183057Z
