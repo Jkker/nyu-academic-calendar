@@ -9,16 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:326649
-SUMMARY:Martin Luther King\, Jr. Birthday
-DTSTAMP:20231113T183057Z
-DTSTART;VALUE=DATE:20250120
-URL:https://events.nyu.edu/event/326649-martin-luther-king-jr-birthday
-CATEGORIES:2024-2025 Academic Year,January Term 2025,Registration Dates &am
-	p; Deadlines,Spring 2025,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:326651
 SUMMARY:Spring 2025 Classes Begin
 DTSTAMP:20231113T183653Z
