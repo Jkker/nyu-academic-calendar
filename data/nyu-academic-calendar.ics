@@ -9,38 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:326651
-SUMMARY:Spring 2025 Classes Begin
-DTSTAMP:20231113T183653Z
-DTSTART;VALUE=DATE:20250121
-URL:https://events.nyu.edu/event/326651-spring-2025-classes-begin
-CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Sprin
-	g 2025,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
-UID:342027
-SUMMARY:Summer 2025 Class Schedule Published
-DTSTAMP:20241014T220001Z
-DTSTART;VALUE=DATE:20250121
-URL:https://events.nyu.edu/event/342027-summer-2025-class-schedule-publishe
-	d
-CATEGORIES:2024-2025 Academic Year,January Term 2025,Registration Dates &am
-	p; Deadlines,StudentLink,Summer 2025
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
-UID:343437
-SUMMARY:Summer 2025 Class Schedule Published
-DTSTAMP:20241030T124620Z
-DTSTART;VALUE=DATE:20250121
-URL:https://events.nyu.edu/event/343437-summer-2025-class-schedule-publishe
-	d
-CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Sprin
-	g 2025,StudentLink,Summer 2025
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:342059
 SUMMARY:Fall 2024 Conferral (January Graduates)
 DTSTAMP:20241015T135331Z
