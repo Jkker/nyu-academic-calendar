@@ -435,6 +435,52 @@ CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:348320
+SUMMARY:Summer 2025 Drop/Add Deadline: First 3-Week Session
+DTSTAMP:20250123T194751Z
+DTSTART;VALUE=DATE:20250521
+URL:https://events.nyu.edu/event/348320-summer-2025-dropadd-deadline-first-
+	3-week-s
+CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2025
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:348321
+SUMMARY:Withdrawal Period Begins: First 3-Week Session
+DTSTAMP:20250123T194847Z
+DTSTART;VALUE=DATE:20250522
+URL:https://events.nyu.edu/event/348321-withdrawal-period-begins-first-3-we
+	ek-sessi
+CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2025
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:348322
+SUMMARY:Summer 2025 Drop/Add Deadline: 12-Week\, 10-Week\, 7-Week\, and Fir
+	st 6-Week Sessions
+DTSTAMP:20250123T195004Z
+DTSTART;VALUE=DATE:20250523
+URL:https://events.nyu.edu/event/348322-summer-2025-dropadd-deadline-12-wee
+	k-10-wee
+CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2025
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:348323
+SUMMARY:Withdrawal Period Begins: 12-Week\, 10-Week. 7-Week\, and First 6-W
+	eek Sessions
+DTSTAMP:20250123T195100Z
+DTSTART;VALUE=DATE:20250524
+URL:https://events.nyu.edu/event/348323-withdrawal-period-begins-12-week-10
+	-week-7-
+CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2025
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:333363
 SUMMARY:Memorial Day
 DTSTAMP:20240322T140139Z
@@ -480,6 +526,28 @@ DTSTAMP:20240322T140450Z
 DTSTART;VALUE=DATE:20250610
 URL:https://events.nyu.edu/event/333365-summer-2025-classes-begin-second-3-
 	week-session
+CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2025
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:348324
+SUMMARY:Summer 2025 Drop/Add Deadline: Second 3-Week Session
+DTSTAMP:20250123T195209Z
+DTSTART;VALUE=DATE:20250612
+URL:https://events.nyu.edu/event/348324-summer-2025-dropadd-deadline-second
+	-3-week-
+CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2025
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:348325
+SUMMARY:Withdrawal Period Begins: Second 3-Week Session
+DTSTAMP:20250123T195257Z
+DTSTART;VALUE=DATE:20250613
+URL:https://events.nyu.edu/event/348325-withdrawal-period-begins-second-3-w
+	eek-sess
 CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2025
 DURATION:P1DT
@@ -566,6 +634,17 @@ CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:348326
+SUMMARY:Summer 2025 Drop/Add Deadline: Third 3-Week Session
+DTSTAMP:20250123T195416Z
+DTSTART;VALUE=DATE:20250703
+URL:https://events.nyu.edu/event/348326-summer-2025-dropadd-deadline-third-
+	3-week-s
+CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2025
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:333370
 SUMMARY:Independence Day
 DTSTAMP:20240322T142729Z
@@ -586,6 +665,39 @@ DESCRIPTION:<table>\n  <tbody>\n    <tr>\n      <td>\n        <span data-sh
 	quot\;:11}">In New York\, no classes are scheduled and University offices 
 	are closed.</span>\n      </td>\n    </tr>\n  </tbody>\n</table>
 URL:https://events.nyu.edu/event/333370-independence-day
+CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2025
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:348327
+SUMMARY:Withdrawal Period Begins: Third 3-Week Session
+DTSTAMP:20250123T195506Z
+DTSTART;VALUE=DATE:20250704
+URL:https://events.nyu.edu/event/348327-withdrawal-period-begins-third-3-we
+	ek-sessi
+CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2025
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:348328
+SUMMARY:Summer 2025 Drop/Add Deadline: Second 6-Week Session
+DTSTAMP:20250123T195558Z
+DTSTART;VALUE=DATE:20250705
+URL:https://events.nyu.edu/event/348328-summer-2025-dropadd-deadline-second
+	-6-week-
+CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2025
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:348329
+SUMMARY:Withdrawal Period Begins: Second 6-Week Session
+DTSTAMP:20250123T195641Z
+DTSTART;VALUE=DATE:20250706
+URL:https://events.nyu.edu/event/348329-withdrawal-period-begins-second-6-w
+	eek-sess
 CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2025
 DURATION:P1DT
@@ -621,6 +733,28 @@ URL:https://events.nyu.edu/event/summer-2025-classes-begin-fourth-3-week-se
 	ssion
 CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2025
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:348330
+SUMMARY:Summer 2025 Drop/Add Deadline: Fourth 3-Week Session
+DTSTAMP:20250123T195735Z
+DTSTART;VALUE=DATE:20250725
+URL:https://events.nyu.edu/event/348330-summer-2025-dropadd-deadline-fourth
+	-3-week-
+CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2025
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:348331
+SUMMARY:Withdrawal Period Begins: Fourth 3-Week Session
+DTSTAMP:20250123T195817Z
+DTSTART;VALUE=DATE:20250726
+URL:https://events.nyu.edu/event/348331-withdrawal-period-begins-fourth-3-w
+	eek-sess
+CATEGORIES:2024-2025 Academic Year,2025,Registration Dates &amp; Deadlines,
+	StudentLink
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
