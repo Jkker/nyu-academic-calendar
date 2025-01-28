@@ -9,28 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:342059
-SUMMARY:Fall 2024 Conferral (January Graduates)
-DTSTAMP:20241015T135331Z
-DTSTART;VALUE=DATE:20250127
-URL:https://events.nyu.edu/event/342059-fall-2024-conferral-january-graduat
-	es
-CATEGORIES:2024-2025 Academic Year,Fall 2024,Graduation,January Term 2025,R
-	egistration Dates &amp; Deadlines,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
-UID:346720
-SUMMARY:First 7-Week Session Drop/Add Deadline
-DTSTAMP:20241210T141734Z
-DTSTART;VALUE=DATE:20250127
-URL:https://events.nyu.edu/event/346720-first-7-week-session-dropadd-deadli
-	ne
-CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Sprin
-	g 2025,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:346721
 SUMMARY:First 7-Week Session Drop/Add Withdrawal Period Begins
 DTSTAMP:20241210T141934Z
