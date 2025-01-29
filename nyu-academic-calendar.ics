@@ -9,17 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:346721
-SUMMARY:First 7-Week Session Drop/Add Withdrawal Period Begins
-DTSTAMP:20241210T141934Z
-DTSTART;VALUE=DATE:20250128
-URL:https://events.nyu.edu/event/346721-first-7-week-session-dropadd-withdr
-	awal-per
-CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Sprin
-	g 2025,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:342024
 SUMMARY:REMINDER: Apply for Spring 2025 Graduation
 DTSTAMP:20241031T212734Z
