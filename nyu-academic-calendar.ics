@@ -9,16 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:326652
-SUMMARY:Spring 2025 Add/Drop Deadline
-DTSTAMP:20231113T183824Z
-DTSTART;VALUE=DATE:20250203
-URL:https://events.nyu.edu/event/326652-spring-2025-adddrop-deadline
-CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Sprin
-	g 2025,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:326653
 SUMMARY:Spring 2025 Withdrawal Period Begins
 DTSTAMP:20231113T184008Z
