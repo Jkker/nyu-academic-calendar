@@ -9,26 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:326653
-SUMMARY:Spring 2025 Withdrawal Period Begins
-DTSTAMP:20231113T184008Z
-DTSTART;VALUE=DATE:20250204
-DESCRIPTION:<table>\n  <tbody>\n    <tr>\n      <td>\n        <p>\n        
-	  Classes dropped on or after this date result in a “W” grade on the stude
-	nt transcript. To withdraw from a class\, students may Request a <a href="
-	https://www.nyu.edu/students/student-information-and-resources/registratio
-	n-records-and-graduation/albert-help/training/students/registration/reques
-	t-class-withdrawal.html">Class Withdrawal in Albert.</a><br />\n          
-	Students can no longer be enrolled into a class from a waitlist and waitli
-	sts are purged.\n        </p>\n      </td>\n    </tr>\n  </tbody>\n</table
-	>
-URL:https://events.nyu.edu/event/326653-spring-2025-withdrawal-period-begin
-	s
-CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Sprin
-	g 2025,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:326654
 SUMMARY:Spring 2025 Census Date
 DTSTAMP:20231113T184116Z
