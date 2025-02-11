@@ -9,26 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:326654
-SUMMARY:Spring 2025 Census Date
-DTSTAMP:20231113T184116Z
-DTSTART;VALUE=DATE:20250210
-URL:https://events.nyu.edu/event/326654-spring-2025-census-date
-CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Sprin
-	g 2025,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
-UID:343438
-SUMMARY:Summer 2025 Registration Begins
-DTSTAMP:20241030T124731Z
-DTSTART;VALUE=DATE:20250210
-URL:https://events.nyu.edu/event/343438-summer-2025-registration-begins
-CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Sprin
-	g 2025,StudentLink,Summer 2025
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:343580
 SUMMARY:Last Day to Apply for Spring 2025 Graduation
 DTSTAMP:20241101T043038Z
