@@ -524,8 +524,9 @@ DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
 UID:355478
-SUMMARY:Request Pass/Fail Grade Option Deadline: Second 3-Week Session
-DTSTAMP:20250211T165441Z
+SUMMARY:Request Pass/Fail Grade Option Deadline: Second 3-Week and 7-Week S
+	essions
+DTSTAMP:20250214T143959Z
 DTSTART;VALUE=DATE:20250626
 URL:https://events.nyu.edu/event/355478-request-passfail-grade-option-deadl
 	ine-seco
@@ -535,31 +536,11 @@ DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
 UID:355477
-SUMMARY:Withdrawal Deadline: Second 3-Week
-DTSTAMP:20250211T165354Z
+SUMMARY:Withdrawal Deadline: Second 3-Week and 7-Week Sessions
+DTSTAMP:20250214T144207Z
 DTSTART;VALUE=DATE:20250626
-URL:https://events.nyu.edu/event/355477-withdrawal-deadline-second-3-week
-CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
-	ntLink,Summer 2025
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
-UID:355483
-SUMMARY:Request Pass/Fail Grade Option Deadline: 7-Week Session
-DTSTAMP:20250211T170345Z
-DTSTART;VALUE=DATE:20250627
-URL:https://events.nyu.edu/event/355483-request-passfail-grade-option-deadl
-	ine-7-we
-CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
-	ntLink,Summer 2025
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
-UID:355482
-SUMMARY:Withdrawal Deadline: 7-Week Session
-DTSTAMP:20250211T170254Z
-DTSTART;VALUE=DATE:20250627
-URL:https://events.nyu.edu/event/355482-withdrawal-deadline-7-week-session
+URL:https://events.nyu.edu/event/355477-withdrawal-deadline-second-3-week-a
+	nd-7-wee
 CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2025
 DURATION:P1DT
