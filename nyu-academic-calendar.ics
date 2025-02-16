@@ -9,21 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:343580
-SUMMARY:Last Day to Apply for Spring 2025 Graduation
-DTSTAMP:20241101T043038Z
-DTSTART;VALUE=DATE:20250215
-DESCRIPTION:<p><em>Students completing their graduation requirements by the
-	 end of Spring 2025 term must Apply for Graduation via Albert.* If you are
-	&#160\;</em><br />\n<em>Though related\, your eligibility for attending Al
-	l-University Commencement and school ceremonies are separate unique proces
-	ses and more information can be found here...</em></p>
-URL:https://events.nyu.edu/event/343580-last-day-to-apply-for-spring-2025-g
-	raduatio
-CATEGORIES:2024-2025 Academic Year,Graduation,Spring 2025,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:326655
 SUMMARY:Presidents’ Day
 DTSTAMP:20231113T184257Z
