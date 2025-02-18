@@ -9,31 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:326655
-SUMMARY:Presidents’ Day
-DTSTAMP:20231113T184257Z
-DTSTART;VALUE=DATE:20250217
-DESCRIPTION:<table>\n  <tbody>\n    <tr>\n      <td>\n        <span data-sh
-	eets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;:&quot\;In New York\, no cl
-	asses are scheduled and University offices are closed.&quot\;}" data-sheet
-	s-userformat="{&quot\;2&quot\;:15275\,&quot\;3&quot\;:{&quot\;1&quot\;:0}\
-	,&quot\;4&quot\;:{&quot\;1&quot\;:2\,&quot\;2&quot\;:13228792}\,&quot\;6&q
-	uot\;:{&quot\;1&quot\;:[{&quot\;1&quot\;:2\,&quot\;2&quot\;:0\,&quot\;5&qu
-	ot\;:[null\,2\,0]}\,{&quot\;1&quot\;:0\,&quot\;2&quot\;:0\,&quot\;3&quot\;
-	:3}\,{&quot\;1&quot\;:1\,&quot\;2&quot\;:0\,&quot\;4&quot\;:1}]}\,&quot\;8
-	&quot\;:{&quot\;1&quot\;:[{&quot\;1&quot\;:2\,&quot\;2&quot\;:0\,&quot\;5&
-	quot\;:[null\,2\,0]}\,{&quot\;1&quot\;:0\,&quot\;2&quot\;:0\,&quot\;3&quot
-	\;:3}\,{&quot\;1&quot\;:1\,&quot\;2&quot\;:0\,&quot\;4&quot\;:1}]}\,&quot\
-	;10&quot\;:1\,&quot\;11&quot\;:4\,&quot\;12&quot\;:0\,&quot\;14&quot\;:[nu
-	ll\,2\,0]\,&quot\;15&quot\;:&quot\;Calibri\, sans-serif&quot\;\,&quot\;16&
-	quot\;:11}">In New York\, no classes are scheduled and University offices 
-	are closed.</span>\n      </td>\n    </tr>\n  </tbody>\n</table>
-URL:https://events.nyu.edu/event/326655-presidents-day
-CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Sprin
-	g 2025,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:326656
 SUMMARY:Legislative Monday
 DTSTAMP:20240716T175213Z
