@@ -9,29 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:326656
-SUMMARY:Legislative Monday
-DTSTAMP:20240716T175213Z
-DTSTART;VALUE=DATE:20250218
-DESCRIPTION:<p><span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;
-	:&quot\;Classes meet according to a Monday schedule.&quot\;}" data-sheets-
-	userformat="{&quot\;2&quot\;:15337\,&quot\;3&quot\;:{&quot\;1&quot\;:0}\,&
-	quot\;6&quot\;:{&quot\;1&quot\;:[{&quot\;1&quot\;:2\,&quot\;2&quot\;:0\,&q
-	uot\;5&quot\;:[null\,2\,0]}\,{&quot\;1&quot\;:0\,&quot\;2&quot\;:0\,&quot\
-	;3&quot\;:3}\,{&quot\;1&quot\;:1\,&quot\;2&quot\;:0\,&quot\;4&quot\;:1}]}\
-	,&quot\;8&quot\;:{&quot\;1&quot\;:[{&quot\;1&quot\;:2\,&quot\;2&quot\;:0\,
-	&quot\;5&quot\;:[null\,2\,0]}\,{&quot\;1&quot\;:0\,&quot\;2&quot\;:0\,&quo
-	t\;3&quot\;:3}\,{&quot\;1&quot\;:1\,&quot\;2&quot\;:0\,&quot\;4&quot\;:1}]
-	}\,&quot\;9&quot\;:0\,&quot\;10&quot\;:1\,&quot\;11&quot\;:4\,&quot\;12&qu
-	ot\;:0\,&quot\;14&quot\;:[null\,2\,0]\,&quot\;15&quot\;:&quot\;Calibri\, s
-	ans-serif&quot\;\,&quot\;16&quot\;:11}">Classes meet according to a Monday
-	 schedule.</span></p>
-URL:https://events.nyu.edu/event/326656-legislative-monday
-CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Sprin
-	g 2025,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:346722
 SUMMARY:First 7-Week Session Withdrawal Deadline
 DTSTAMP:20241210T142128Z
