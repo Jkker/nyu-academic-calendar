@@ -69,8 +69,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:346723
 SUMMARY:Second 7-Week Session Withdrawal Period Begins
-DTSTAMP:20241210T142305Z
+DTSTAMP:20250228T172851Z
 DTSTART;VALUE=DATE:20250319
+DESCRIPTION:<p>Classes dropped on or after this date result in a “W” grade 
+	on the student transcript. To withdraw from a class\, students may Request
+	 a <a href="https://www.nyu.edu/students/student-information-and-resources
+	/registration-records-and-graduation/albert-help/training/students/registr
+	ation/request-class-withdrawal.html">Class Withdrawal in Albert.</a><br />
+	\nStudents can no longer be enrolled into a class from a waitlist and wait
+	lists are purged.</p>
 URL:https://events.nyu.edu/event/346723-second-7-week-session-withdrawal-pe
 	riod-beg
 CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Sprin
