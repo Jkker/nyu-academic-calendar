@@ -9,17 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:346722
-SUMMARY:First 7-Week Session Withdrawal Deadline
-DTSTAMP:20241210T142128Z
-DTSTART;VALUE=DATE:20250228
-URL:https://events.nyu.edu/event/346722-first-7-week-session-withdrawal-dea
-	dline
-CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Sprin
-	g 2025,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:343573
 SUMMARY:REMINDER: Apply for Summer 2025 Graduation
 DTSTAMP:20241101T042535Z
