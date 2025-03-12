@@ -9,16 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:343439
-SUMMARY:First 7-Week Session Ends
-DTSTAMP:20241030T125305Z
-DTSTART;VALUE=DATE:20250311
-URL:https://events.nyu.edu/event/343439-first-7-week-session-ends
-CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Sprin
-	g 2025,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:343440
 SUMMARY:Second 7-Week Session Begins
 DTSTAMP:20241030T125422Z
