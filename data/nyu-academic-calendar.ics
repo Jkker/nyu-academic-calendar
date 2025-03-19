@@ -9,17 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:346724
-SUMMARY:Second 7-Week Session Drop/Add Deadline
-DTSTAMP:20241210T142353Z
-DTSTART;VALUE=DATE:20250318
-URL:https://events.nyu.edu/event/346724-second-7-week-session-dropadd-deadl
-	ine
-CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Sprin
-	g 2025,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:346723
 SUMMARY:Second 7-Week Session Withdrawal Period Begins
 DTSTAMP:20250228T172851Z
