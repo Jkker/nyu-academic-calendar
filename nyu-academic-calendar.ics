@@ -799,6 +799,16 @@ CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:361523
+SUMMARY:Labor Day
+DTSTAMP:20250321T210131Z
+DTSTART;VALUE=DATE:20250901
+URL:https://events.nyu.edu/event/361523-labor-day
+CATEGORIES:2025-2026 Academic Year,Fall 2025,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:333335
 SUMMARY:Fall 2025 Classes Begin
 DTSTAMP:20240322T121224Z
@@ -816,6 +826,23 @@ DTSTART;VALUE=DATE:20250915
 URL:https://events.nyu.edu/event/333336-fall-2025-adddrop-deadline
 CATEGORIES:2025-2026 Academic Year,Fall 2025,Registration Dates &amp; Deadl
 	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:361524
+SUMMARY:Fall 2025 Withdrawal Period Begins
+DTSTAMP:20250321T210319Z
+DTSTART;VALUE=DATE:20250916
+DESCRIPTION:<p>Classes dropped on or after this date result in a “W” grade 
+	on the student transcript. To withdraw from a class\, students may Request
+	 a <a href="https://www.nyu.edu/students/student-information-and-resources
+	/registration-records-and-graduation/albert-help/training/students/registr
+	ation/request-class-withdrawal.html">Class Withdrawal in Albert.</a><br />
+	\nStudents can no longer be enrolled into a class from a waitlist and wait
+	lists are purged.</p>
+URL:https://events.nyu.edu/event/361524-fall-2025-withdrawal-period-begins
+CATEGORIES:2025-2026 Academic Year,2025,Registration Dates &amp; Deadlines,
+	StudentLink
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
@@ -837,6 +864,17 @@ URL:https://events.nyu.edu/event/343445-january-2026-class-schedule-publish
 	ed
 CATEGORIES:2025-2026 Academic Year,2026,Fall 2025,Registration Dates &amp; 
 	Deadlines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:361525
+SUMMARY:First 7-Week Session Withdrawal Deadline
+DTSTAMP:20250321T210644Z
+DTSTART;VALUE=DATE:20251010
+URL:https://events.nyu.edu/event/361525-first-7-week-session-withdrawal-dea
+	dline
+CATEGORIES:2025-2026 Academic Year,Fall 2025,Registration Dates &amp; Deadl
+	ines,StudentLink
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
@@ -891,6 +929,16 @@ URL:https://events.nyu.edu/event/343443-spring-2026-class-schedule-publishe
 	d
 CATEGORIES:2025-2026 Academic Year,Fall 2025,Registration Dates &amp; Deadl
 	ines,Spring 2026,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:361526
+SUMMARY:First 7-Week Session Ends
+DTSTAMP:20250321T210817Z
+DTSTART;VALUE=DATE:20251021
+URL:https://events.nyu.edu/event/361526-first-7-week-session-ends
+CATEGORIES:2025-2026 Academic Year,Fall 2025,Registration Dates &amp; Deadl
+	ines,StudentLink
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
