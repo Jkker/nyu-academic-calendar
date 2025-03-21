@@ -74,6 +74,24 @@ CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Sprin
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:361489
+SUMMARY:Deadline to apply for Summer graduation to be eligible to attend Co
+	mmencement
+DTSTAMP:20250321T150951Z
+DTSTART;VALUE=DATE:20250418
+DESCRIPTION:<p>\n  Students completing their graduation requirements by the
+	 end of Summer 2025 semester must Apply for Graduation via Albert.*<br />\
+	n  The deadline to apply to graduate and be eligible to attend All-Univers
+	ity Commencement is April 18! Summer 2025 graduates will not be invited to
+	 next years commencement\, or school ceremonies. These are separate unique
+	 processes and more information can be found here…\n</p>
+URL:https://events.nyu.edu/event/361489-deadline-to-apply-for-summer-gradua
+	tion-to-
+CATEGORIES:2024-2025 Academic Year,Graduation,Spring 2025,StudentLink,Summe
+	r 2025
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:343441
 SUMMARY:Fall 2025 Registration Begins
 DTSTAMP:20241211T144040Z
