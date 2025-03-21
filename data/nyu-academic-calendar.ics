@@ -858,10 +858,10 @@ DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
 UID:333336
-SUMMARY:Fall 2025 Add/Drop Deadline
-DTSTAMP:20240322T121434Z
+SUMMARY:Fall 2025 Drop/Add Deadline
+DTSTAMP:20250321T221854Z
 DTSTART;VALUE=DATE:20250915
-URL:https://events.nyu.edu/event/333336-fall-2025-adddrop-deadline
+URL:https://events.nyu.edu/event/333336-fall-2025-dropadd-deadline
 CATEGORIES:2025-2026 Academic Year,Fall 2025,Registration Dates &amp; Deadl
 	ines,StudentLink
 DURATION:P1DT
