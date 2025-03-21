@@ -819,6 +819,44 @@ CATEGORIES:2025-2026 Academic Year,Fall 2025,Registration Dates &amp; Deadl
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:361529
+SUMMARY:First 7-Week Session Drop/Add Deadline
+DTSTAMP:20250321T215218Z
+DTSTART;VALUE=DATE:20250908
+URL:https://events.nyu.edu/event/361529-first-7-week-session-dropadd-deadli
+	ne
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:361535
+SUMMARY:First 7-Week Session Drop/Add Deadline
+DTSTAMP:20250321T221425Z
+DTSTART;VALUE=DATE:20250908
+URL:https://events.nyu.edu/event/361535-first-7-week-session-dropadd-deadli
+	ne
+CATEGORIES:2025-2026 Academic Year,Fall 2025,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:361532
+SUMMARY:First 7-Week Session Drop/Add Withdrawal Period Begins
+DTSTAMP:20250321T220849Z
+DTSTART;VALUE=DATE:20250909
+DESCRIPTION:<p>Classes dropped on or after this date result in a “W” grade 
+	on the student transcript. To withdraw from a class\, students may Request
+	 a <a href="https://www.nyu.edu/students/student-information-and-resources
+	/registration-records-and-graduation/albert-help/training/students/registr
+	ation/request-class-withdrawal.html">Class Withdrawal in Albert.</a><br />
+	\nStudents can no longer be enrolled into a class from a waitlist and wait
+	lists are purged.</p>
+URL:https://events.nyu.edu/event/361532-first-7-week-session-dropadd-withdr
+	awal-per
+CATEGORIES:2025-2026 Academic Year,Fall 2025,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:333336
 SUMMARY:Fall 2025 Add/Drop Deadline
 DTSTAMP:20240322T121434Z
@@ -843,6 +881,23 @@ DESCRIPTION:<p>Classes dropped on or after this date result in a “W” grade
 URL:https://events.nyu.edu/event/361524-fall-2025-withdrawal-period-begins
 CATEGORIES:2025-2026 Academic Year,2025,Registration Dates &amp; Deadlines,
 	StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:361534
+SUMMARY:Fall 2025 Withdrawal Period Begins
+DTSTAMP:20250321T221147Z
+DTSTART;VALUE=DATE:20250916
+DESCRIPTION:<p>Classes dropped on or after this date result in a “W” grade 
+	on the student transcript. To withdraw from a class\, students may Request
+	 a <a href="https://www.nyu.edu/students/student-information-and-resources
+	/registration-records-and-graduation/albert-help/training/students/registr
+	ation/request-class-withdrawal.html">Class Withdrawal in Albert.</a><br />
+	\nStudents can no longer be enrolled into a class from a waitlist and wait
+	lists are purged.&#160\;</p>
+URL:https://events.nyu.edu/event/361534-fall-2025-withdrawal-period-begins
+CATEGORIES:2025-2026 Academic Year,Fall 2025,Registration Dates &amp; Deadl
+	ines,StudentLink
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
@@ -942,6 +997,45 @@ CATEGORIES:2025-2026 Academic Year,Fall 2025,Registration Dates &amp; Deadl
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:361527
+SUMMARY:Second 7-Week Session Begins
+DTSTAMP:20250321T214936Z
+DTSTART;VALUE=DATE:20251022
+URL:https://events.nyu.edu/event/361527-second-7-week-session-begins
+CATEGORIES:2025-2026 Academic Year,Fall 2025,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:361528
+SUMMARY:Second 7-Week Session Drop/Add Deadline
+DTSTAMP:20250321T215150Z
+DTSTART;VALUE=DATE:20251028
+URL:https://events.nyu.edu/event/361528-second-7-week-session-dropadd-deadl
+	ine
+CATEGORIES:2025-2026 Academic Year,Fall 2025,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:361533
+SUMMARY:Second 7-Week Session Withdrawal Period Begins
+DTSTAMP:20250321T221010Z
+DTSTART;VALUE=DATE:20251029
+DESCRIPTION:<p>Classes dropped on or after this date result in a “W” grade 
+	on the student transcript. To withdraw from a class\, students may Request
+	 a <a href="https://www.nyu.edu/students/student-information-and-resources
+	/registration-records-and-graduation/albert-help/training/students/registr
+	ation/request-class-withdrawal.html">Class Withdrawal in Albert.</a><br />
+	\nStudents can no longer be enrolled into a class from a waitlist and wait
+	lists are purged.</p>
+URL:https://events.nyu.edu/event/361533-second-7-week-session-withdrawal-pe
+	riod-beg
+CATEGORIES:2025-2026 Academic Year,Fall 2025,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:343444
 SUMMARY:Spring 2026 Registration Begins
 DTSTAMP:20241030T130226Z
@@ -949,6 +1043,37 @@ DTSTART;VALUE=DATE:20251117
 URL:https://events.nyu.edu/event/343444-spring-2026-registration-begins
 CATEGORIES:2025-2026 Academic Year,Fall 2025,Registration Dates &amp; Deadl
 	ines,Spring 2026,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:361531
+SUMMARY:Fall 2025 Deadline to Request Pass/Fail Grade Option
+DTSTAMP:20250321T215539Z
+DTSTART;VALUE=DATE:20251124
+URL:https://events.nyu.edu/event/361531-fall-2025-deadline-to-request-passf
+	ail-grad
+CATEGORIES:2025-2026 Academic Year,Fall 2025,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:361530
+SUMMARY:Fall 2025 Withdrawal Deadline
+DTSTAMP:20250321T215337Z
+DTSTART;VALUE=DATE:20251124
+URL:https://events.nyu.edu/event/361530-fall-2025-withdrawal-deadline
+CATEGORIES:2025-2026 Academic Year,2025,Registration Dates &amp; Deadlines,
+	StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:361536
+SUMMARY:Fall 2025 Withdrawal Deadline
+DTSTAMP:20250321T221624Z
+DTSTART;VALUE=DATE:20251124
+URL:https://events.nyu.edu/event/361536-fall-2025-withdrawal-deadline
+CATEGORIES:2025-2026 Academic Year,Fall 2025,Registration Dates &amp; Deadl
+	ines,StudentLink
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
