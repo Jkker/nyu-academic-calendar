@@ -515,6 +515,16 @@ CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:362031
+SUMMARY:Independence Day
+DTSTAMP:20250328T203414Z
+DTSTART;VALUE=DATE:20250704
+URL:https://events.nyu.edu/event/362031-independence-day
+CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2026
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:348327
 SUMMARY:Withdrawal Period Begins: Third 3-Week Session
 DTSTAMP:20250123T195506Z
@@ -914,7 +924,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:361992
 SUMMARY:January 2026 Class Schedule Published
-DTSTAMP:20250328T183401Z
+DTSTAMP:20250328T204406Z
 DTSTART;VALUE=DATE:20250922
 URL:https://events.nyu.edu/event/361992-january-2026-class-schedule-publish
 	ed
@@ -1581,6 +1591,17 @@ CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Stude
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:362029
+SUMMARY:Legislative Friday
+DTSTAMP:20250328T203104Z
+DTSTART;VALUE=DATE:20260630
+DESCRIPTION:<p>Classes meet according to a Friday schedule.</p>
+URL:https://events.nyu.edu/event/362029-legislative-friday
+CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2026
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:333390
 SUMMARY:Summer 2026 Classes Begin: Second 6-Week and Third 3-Week Sessions
 DTSTAMP:20240322T145737Z
@@ -1647,10 +1668,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:333395
 SUMMARY:Last Day of Summer 2026 Classes: 7-Week Session
-DTSTAMP:20240322T153840Z
-DTSTART;VALUE=DATE:20260707
-URL:https://events.nyu.edu/event/333395-last-day-of-summer-2026-classes-7-w
-	eek-session
+DTSTAMP:20250328T203558Z
+DTSTART;VALUE=DATE:20260708
+URL:https://events.nyu.edu/event/last-day-of-summer-2026-classes-7-week-ses
+	sion
 CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2026
 DURATION:P1DT
@@ -1678,11 +1699,11 @@ CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Stude
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:347446
+UID:362032
 SUMMARY:Summer 2026 Census Date
-DTSTAMP:20250109T173743Z
+DTSTAMP:20250328T203747Z
 DTSTART;VALUE=DATE:20260723
-URL:https://events.nyu.edu/event/347446-summer-2026-census-date
+URL:https://events.nyu.edu/event/362032-summer-2026-census-date
 CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2026
 DURATION:P1DT
@@ -1711,11 +1732,33 @@ CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Stude
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:362030
+SUMMARY:Legislative Friday
+DTSTAMP:20250328T203152Z
+DTSTART;VALUE=DATE:20260812
+DESCRIPTION:<p><span data-sheets-root="1">Classes meet according to a Frida
+	y schedule.</span></p>
+URL:https://events.nyu.edu/event/362030-legislative-friday
+CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2026
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:361977
 SUMMARY:Fall 2026 Classes Begin
 DTSTAMP:20250328T173131Z
 DTSTART;VALUE=DATE:20260902
 URL:https://events.nyu.edu/event/361977-fall-2026-classes-begin
+CATEGORIES:2026-2027 Academic Year,Fall 2026,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:362033
+SUMMARY:Labor Day
+DTSTAMP:20250328T204102Z
+DTSTART;VALUE=DATE:20260907
+URL:https://events.nyu.edu/event/362033-labor-day
 CATEGORIES:2026-2027 Academic Year,Fall 2026,Registration Dates &amp; Deadl
 	ines,StudentLink
 DURATION:P1DT
@@ -1815,10 +1858,10 @@ CATEGORIES:2026-2027 Academic Year,Fall 2026,Registration Dates &amp; Deadl
 END:VEVENT
 BEGIN:VEVENT
 UID:361989
-SUMMARY:January Term 2026 Classes Begin
-DTSTAMP:20250328T182119Z
+SUMMARY:January Term 2027 Classes Begin
+DTSTAMP:20250328T204454Z
 DTSTART;VALUE=DATE:20270104
-URL:https://events.nyu.edu/event/361989-january-term-2026-classes-begin
+URL:https://events.nyu.edu/event/361989-january-term-2027-classes-begin
 CATEGORIES:2026-2027 Academic Year,January Term 2027,Registration Dates &am
 	p; Deadlines,StudentLink
 DURATION:P1DT
