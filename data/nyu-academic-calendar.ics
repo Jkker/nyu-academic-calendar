@@ -1583,4 +1583,85 @@ CATEGORIES:2026-2027 Academic Year,Fall 2026,Registration Dates &amp; Deadl
 	ines,StudentLink
 DURATION:P1DT
 END:VEVENT
+BEGIN:VEVENT
+UID:361982
+SUMMARY:Thanksgiving Recess
+DTSTAMP:20250328T173702Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261128
+URL:https://events.nyu.edu/event/361982-thanksgiving-recess
+CATEGORIES:2026-2027 Academic Year,Fall 2026,Registration Dates &amp; Deadl
+	ines,StudentLink
+END:VEVENT
+BEGIN:VEVENT
+UID:361983
+SUMMARY:Last Day of Fall 2026 Classes
+DTSTAMP:20250328T173821Z
+DTSTART;VALUE=DATE:20261214
+URL:https://events.nyu.edu/event/361983-last-day-of-fall-2026-classes
+CATEGORIES:2026-2027 Academic Year,Fall 2026,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:361984
+SUMMARY:Reading Day
+DTSTAMP:20250328T173948Z
+DTSTART;VALUE=DATE:20261215
+URL:https://events.nyu.edu/event/361984-reading-day
+CATEGORIES:2026-2027 Academic Year,Fall 2026,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:361987
+SUMMARY:Final Exam Period
+DTSTAMP:20250328T181822Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261223
+URL:https://events.nyu.edu/event/361987-final-exam-period
+CATEGORIES:2026-2027 Academic Year,Fall 2026,Registration Dates &amp; Deadl
+	ines,StudentLink
+END:VEVENT
+BEGIN:VEVENT
+UID:361988
+SUMMARY:Winter Recess for Students
+DTSTAMP:20250328T181938Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20270102
+URL:https://events.nyu.edu/event/361988-winter-recess-for-students
+CATEGORIES:2026-2027 Academic Year,Fall 2026,Registration Dates &amp; Deadl
+	ines,StudentLink
+END:VEVENT
+BEGIN:VEVENT
+UID:361989
+SUMMARY:January Term 2026 Classes Begin
+DTSTAMP:20250328T182119Z
+DTSTART;VALUE=DATE:20270104
+URL:https://events.nyu.edu/event/361989-january-term-2026-classes-begin
+CATEGORIES:2026-2027 Academic Year,January Term 2027,Registration Dates &am
+	p; Deadlines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:361990
+SUMMARY:January 2027 Census Date
+DTSTAMP:20250328T182545Z
+DTSTART;VALUE=DATE:20270106
+URL:https://events.nyu.edu/event/361990-january-2027-census-date
+CATEGORIES:2026-2027 Academic Year,January Term 2027,Registration Dates &am
+	p; Deadlines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:361991
+SUMMARY:Last Day of January Term 2026 Classes
+DTSTAMP:20250328T182659Z
+DTSTART;VALUE=DATE:20270115
+URL:https://events.nyu.edu/event/361991-last-day-of-january-term-2026-class
+	es
+CATEGORIES:2026-2027 Academic Year,January Term 2027,Registration Dates &am
+	p; Deadlines,StudentLink
+DURATION:P1DT
+END:VEVENT
 END:VCALENDAR
