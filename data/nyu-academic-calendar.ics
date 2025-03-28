@@ -1530,4 +1530,57 @@ CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Stude
 	ntLink,Summer 2026
 DURATION:P1DT
 END:VEVENT
+BEGIN:VEVENT
+UID:361977
+SUMMARY:Fall 2026 Classes Begin
+DTSTAMP:20250328T173131Z
+DTSTART;VALUE=DATE:20260902
+URL:https://events.nyu.edu/event/361977-fall-2026-classes-begin
+CATEGORIES:2026-2027 Academic Year,Fall 2026,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:361978
+SUMMARY:Fall 2026 Census Date
+DTSTAMP:20250328T173254Z
+DTSTART;VALUE=DATE:20260921
+URL:https://events.nyu.edu/event/361978-fall-2026-census-date
+CATEGORIES:2026-2027 Academic Year,Fall 2026,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:361979
+SUMMARY:Fall Break
+DTSTAMP:20250328T173400Z
+DTSTART;VALUE=DATE:20261012
+URL:https://events.nyu.edu/event/361979-fall-break
+CATEGORIES:2026-2027 Academic Year,Fall 2026,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:361981
+SUMMARY:Legislative Monday
+DTSTAMP:20250328T173517Z
+DTSTART;VALUE=DATE:20261014
+DESCRIPTION:<p><span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;
+	:&quot\;Classes meet according to a Monday schedule.&quot\;}" data-sheets-
+	userformat="{&quot\;2&quot\;:15337\,&quot\;3&quot\;:{&quot\;1&quot\;:0}\,&
+	quot\;6&quot\;:{&quot\;1&quot\;:[{&quot\;1&quot\;:2\,&quot\;2&quot\;:0\,&q
+	uot\;5&quot\;:[null\,2\,0]}\,{&quot\;1&quot\;:0\,&quot\;2&quot\;:0\,&quot\
+	;3&quot\;:3}\,{&quot\;1&quot\;:1\,&quot\;2&quot\;:0\,&quot\;4&quot\;:1}]}\
+	,&quot\;8&quot\;:{&quot\;1&quot\;:[{&quot\;1&quot\;:2\,&quot\;2&quot\;:0\,
+	&quot\;5&quot\;:[null\,2\,0]}\,{&quot\;1&quot\;:0\,&quot\;2&quot\;:0\,&quo
+	t\;3&quot\;:3}\,{&quot\;1&quot\;:1\,&quot\;2&quot\;:0\,&quot\;4&quot\;:1}]
+	}\,&quot\;9&quot\;:0\,&quot\;10&quot\;:1\,&quot\;11&quot\;:4\,&quot\;12&qu
+	ot\;:0\,&quot\;14&quot\;:[null\,2\,0]\,&quot\;15&quot\;:&quot\;Calibri\, s
+	ans-serif&quot\;\,&quot\;16&quot\;:11}">Classes meet according to a Monday
+	 schedule.</span></p>
+URL:https://events.nyu.edu/event/361981-legislative-monday
+CATEGORIES:2026-2027 Academic Year,Fall 2026,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
 END:VCALENDAR
