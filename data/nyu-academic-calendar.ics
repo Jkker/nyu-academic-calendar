@@ -912,6 +912,17 @@ CATEGORIES:2025-2026 Academic Year,2026,Fall 2025,Registration Dates &amp;
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:361992
+SUMMARY:January 2026 Class Schedule Published
+DTSTAMP:20250328T183401Z
+DTSTART;VALUE=DATE:20250922
+URL:https://events.nyu.edu/event/361992-january-2026-class-schedule-publish
+	ed
+CATEGORIES:2025-2026 Academic Year,January Term 2026,Registration Dates &am
+	p; Deadlines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:361525
 SUMMARY:First 7-Week Session Withdrawal Deadline
 DTSTAMP:20250321T210644Z
@@ -1165,6 +1176,16 @@ CATEGORIES:2025-2026 Academic Year,January Term 2026,Registration Dates &am
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:333346
+SUMMARY:January Term 2026 Drop/Add Deadline
+DTSTAMP:20250328T183036Z
+DTSTART;VALUE=DATE:20260106
+URL:https://events.nyu.edu/event/333346-january-term-2026-dropadd-deadline
+CATEGORIES:2025-2026 Academic Year,January Term 2026,Registration Dates &am
+	p; Deadlines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:347444
 SUMMARY:January 2026 Census Date
 DTSTAMP:20250109T173414Z
@@ -1175,11 +1196,12 @@ CATEGORIES:2025-2026 Academic Year,January Term 2026,Registration Dates &am
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:333346
-SUMMARY:January Term 2026 Drop/Add Deadline
-DTSTAMP:20240322T125537Z
+UID:361993
+SUMMARY:January 2026 Term Withdrawal Period Begins
+DTSTAMP:20250328T183534Z
 DTSTART;VALUE=DATE:20260107
-URL:https://events.nyu.edu/event/333346-january-term-2026-dropadd-deadline
+URL:https://events.nyu.edu/event/361993-january-2026-term-withdrawal-period
+	-begins
 CATEGORIES:2025-2026 Academic Year,January Term 2026,Registration Dates &am
 	p; Deadlines,StudentLink
 DURATION:P1DT
@@ -1198,11 +1220,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:333348
 SUMMARY:Martin Luther King\, Jr. Birthday
-DTSTAMP:20240322T125747Z
+DTSTAMP:20250328T184025Z
 DTSTART;VALUE=DATE:20260119
 URL:https://events.nyu.edu/event/333348-martin-luther-king-jr-birthday
 CATEGORIES:2025-2026 Academic Year,January Term 2026,Registration Dates &am
-	p; Deadlines,StudentLink
+	p; Deadlines,Spring 2026,StudentLink
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
@@ -1226,11 +1248,41 @@ CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Sprin
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:361995
+SUMMARY:Spring 2026 Withdrawal Period Begins
+DTSTAMP:20250328T185212Z
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:<table>\n  <tbody>\n    <tr>\n      <td>\n        <p>\n        
+	  Classes dropped on or after this date result in a “W” grade on the stude
+	nt transcript. To withdraw from a class\, students may Request a <a href="
+	https://www.nyu.edu/students/student-information-and-resources/registratio
+	n-records-and-graduation/albert-help/training/students/registration/reques
+	t-class-withdrawal.html">Class Withdrawal in Albert.</a><br />\n          
+	Students can no longer be enrolled into a class from a waitlist and waitli
+	sts are purged.\n        </p>\n      </td>\n    </tr>\n  </tbody>\n</table
+	>
+URL:https://events.nyu.edu/event/361995-spring-2026-withdrawal-period-begin
+	s
+CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2026,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:347445
 SUMMARY:Spring 2026 Census Date
 DTSTAMP:20250109T173619Z
 DTSTART;VALUE=DATE:20260209
 URL:https://events.nyu.edu/event/347445-spring-2026-census-date
+CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2026,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:361994
+SUMMARY:Summer 2026 Registration Begins
+DTSTAMP:20250328T184318Z
+DTSTART;VALUE=DATE:20260209
+URL:https://events.nyu.edu/event/361994-summer-2026-registration-begins
 CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Sprin
 	g 2026,StudentLink
 DURATION:P1DT
@@ -1267,6 +1319,26 @@ CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Sprin
 	g 2026,StudentLink
 END:VEVENT
 BEGIN:VEVENT
+UID:361996
+SUMMARY:Fall 2026 Class Schedule Published
+DTSTAMP:20250328T190107Z
+DTSTART;VALUE=DATE:20260323
+URL:https://events.nyu.edu/event/361996-fall-2026-class-schedule-published
+CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2026,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:361997
+SUMMARY:Fall 2026 Registration Begins
+DTSTAMP:20250328T190215Z
+DTSTART;VALUE=DATE:20260420
+URL:https://events.nyu.edu/event/361997-fall-2026-registration-begins
+CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2026,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:333354
 SUMMARY:Last Day of Spring 2026 Classes
 DTSTAMP:20240322T130622Z
@@ -1287,27 +1359,14 @@ CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Sprin
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:333356
-SUMMARY:Final Exam Period
-DTSTAMP:20240322T131005Z
-DTSTART;VALUE=DATE:20260507
-DTEND;VALUE=DATE:20260509
-DESCRIPTION:<p>NYU Schools of Medicine\, Law\, Dentistry\, and Graduate Ste
-	rn manage different final exam schedules. Refer to school-specific calenda
-	rs for these details.</p>
-URL:https://events.nyu.edu/event/333356-final-exam-period
-CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Sprin
-	g 2026,StudentLink
-END:VEVENT
-BEGIN:VEVENT
 UID:333357
 SUMMARY:Final Exam Period
-DTSTAMP:20240322T130933Z
-DTSTART;VALUE=DATE:20260511
+DTSTAMP:20250328T185423Z
+DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260514
-DESCRIPTION:<p>NYU Schools of Medicine\, Law\, Dentistry\, and Graduate Ste
-	rn manage different final exam schedules. Refer to school-specific calenda
-	rs for these details.</p>
+DESCRIPTION:<p>\n  NYU Schools of Medicine\, Law\, Dentistry\, and Graduate
+	 Stern manage different final exam schedules. Refer to school-specific cal
+	endars for these details.\n</p>
 URL:https://events.nyu.edu/event/333357-final-exam-period
 CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Sprin
 	g 2026,StudentLink
