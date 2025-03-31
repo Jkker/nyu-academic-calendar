@@ -504,16 +504,6 @@ CATEGORIES:2024-2025 Academic Year,Registration Dates &amp; Deadlines,Stude
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:362031
-SUMMARY:Independence Day
-DTSTAMP:20250328T203414Z
-DTSTART;VALUE=DATE:20250704
-URL:https://events.nyu.edu/event/362031-independence-day
-CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Stude
-	ntLink,Summer 2026
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:348327
 SUMMARY:Withdrawal Period Begins: Third 3-Week Session
 DTSTAMP:20250123T195506Z
@@ -1655,6 +1645,16 @@ CATEGORIES:2025-2026 Academic Year,2026,Registration Dates &amp; Deadlines,
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:362031
+SUMMARY:Independence Day
+DTSTAMP:20250331T201724Z
+DTSTART;VALUE=DATE:20260704
+URL:https://events.nyu.edu/event/362031-independence-day
+CATEGORIES:2025-2026 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2026
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:333395
 SUMMARY:Last Day of Summer 2026 Classes: 7-Week Session
 DTSTAMP:20250328T203558Z
@@ -1773,16 +1773,6 @@ CATEGORIES:2026-2027 Academic Year,Fall 2026,Registration Dates &amp; Deadl
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:362222
-SUMMARY:Fall Break
-DTSTAMP:20250331T185839Z
-DTSTART;VALUE=DATE:20261012
-URL:https://events.nyu.edu/event/362222-fall-break
-CATEGORIES:2026-2027 Academic Year,Fall 2026,Registration Dates &amp; Deadl
-	ines,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
 UID:361981
 SUMMARY:Legislative Monday
 DTSTAMP:20250328T173517Z
@@ -1801,18 +1791,6 @@ DESCRIPTION:<p><span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;
 	ans-serif&quot\;\,&quot\;16&quot\;:11}">Classes meet according to a Monday
 	 schedule.</span></p>
 URL:https://events.nyu.edu/event/361981-legislative-monday
-CATEGORIES:2026-2027 Academic Year,Fall 2026,Registration Dates &amp; Deadl
-	ines,StudentLink
-DURATION:P1DT
-END:VEVENT
-BEGIN:VEVENT
-UID:362223
-SUMMARY:Legislative Monday
-DTSTAMP:20250331T190021Z
-DTSTART;VALUE=DATE:20261014
-DESCRIPTION:<p><span data-sheets-root="1">Classes meet according to a Monda
-	y schedule.</span></p>
-URL:https://events.nyu.edu/event/362223-legislative-monday
 CATEGORIES:2026-2027 Academic Year,Fall 2026,Registration Dates &amp; Deadl
 	ines,StudentLink
 DURATION:P1DT
@@ -1901,11 +1879,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:362209
 SUMMARY:Martin Luther King\, Jr. Birthday
-DTSTAMP:20250331T184511Z
+DTSTAMP:20250331T200304Z
 DTSTART;VALUE=DATE:20270118
 URL:https://events.nyu.edu/event/362209-martin-luther-king-jr-birthday
-CATEGORIES:2026-2027 Academic Year,Registration Dates &amp; Deadlines,Sprin
-	g 2027,StudentLink
+CATEGORIES:2026-2027 Academic Year,January Term 2027,Registration Dates &am
+	p; Deadlines,Spring 2027,StudentLink
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
@@ -2002,5 +1980,138 @@ URL:https://events.nyu.edu/event/362221-spring-2027-conferral-may-graduates
 CATEGORIES:2026-2027 Academic Year,Registration Dates &amp; Deadlines,Sprin
 	g 2027,StudentLink
 DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:362305
+SUMMARY:Memorial Day
+DTSTAMP:20250331T202027Z
+DTSTART;VALUE=DATE:20270531
+URL:https://events.nyu.edu/event/362305-memorial-day
+CATEGORIES:2026-2027 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2027
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:362306
+SUMMARY:Juneteenth
+DTSTAMP:20250331T202131Z
+DTSTART;VALUE=DATE:20270619
+URL:https://events.nyu.edu/event/362306-juneteenth
+CATEGORIES:2026-2027 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2027
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:362233
+SUMMARY:Independence Day
+DTSTAMP:20250331T201613Z
+DTSTART;VALUE=DATE:20270704
+URL:https://events.nyu.edu/event/362233-independence-day
+CATEGORIES:2026-2027 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2027
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:362304
+SUMMARY:No Classes Scheduled
+DTSTAMP:20250331T201945Z
+DTSTART;VALUE=DATE:20270705
+DESCRIPTION:<p>In New York\, no classes are scheduled.</p>
+URL:https://events.nyu.edu/event/362304-no-classes-scheduled
+CATEGORIES:2026-2027 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2027
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:362225
+SUMMARY:Labor Day
+DTSTAMP:20250331T200513Z
+DTSTART;VALUE=DATE:20270906
+URL:https://events.nyu.edu/event/362225-labor-day
+CATEGORIES:2027-2028 Academic Year,Fall 2027,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:362224
+SUMMARY:Fall 2027 Classes Begin
+DTSTAMP:20250331T200429Z
+DTSTART;VALUE=DATE:20270907
+URL:https://events.nyu.edu/event/362224-fall-2027-classes-begin
+CATEGORIES:2027-2028 Academic Year,Fall 2027,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:362226
+SUMMARY:Fall 2027 Census Date
+DTSTAMP:20250331T200552Z
+DTSTART;VALUE=DATE:20271011
+URL:https://events.nyu.edu/event/362226-fall-2027-census-date
+CATEGORIES:2027-2028 Academic Year,Fall 2027,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:362232
+SUMMARY:Legislative Monday
+DTSTAMP:20250331T201358Z
+DTSTART;VALUE=DATE:20271013
+DESCRIPTION:<p><span data-sheets-root="1">Classes meet according to a Monda
+	y schedule.</span></p>
+URL:https://events.nyu.edu/event/362232-legislative-monday
+CATEGORIES:2027-2028 Academic Year,Fall 2027,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:362227
+SUMMARY:Thanksgiving Recess
+DTSTAMP:20250331T200641Z
+DTSTART;VALUE=DATE:20271125
+DTEND;VALUE=DATE:20271127
+URL:https://events.nyu.edu/event/362227-thanksgiving-recess
+CATEGORIES:2027-2028 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2027,StudentLink
+END:VEVENT
+BEGIN:VEVENT
+UID:362229
+SUMMARY:Last Day of Fall 2027 Classes
+DTSTAMP:20250331T200809Z
+DTSTART;VALUE=DATE:20271213
+URL:https://events.nyu.edu/event/362229-last-day-of-fall-2027-classes
+CATEGORIES:2027-2028 Academic Year,Fall 2027,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:362228
+SUMMARY:Reading Day
+DTSTAMP:20250331T200730Z
+DTSTART;VALUE=DATE:20271214
+URL:https://events.nyu.edu/event/362228-reading-day
+CATEGORIES:2027-2028 Academic Year,Fall 2027,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:362230
+SUMMARY:Final Exam Period
+DTSTAMP:20250331T201222Z
+DTSTART;VALUE=DATE:20271215
+DTEND;VALUE=DATE:20271222
+URL:https://events.nyu.edu/event/362230-final-exam-period
+CATEGORIES:2027-2028 Academic Year,Fall 2027,Registration Dates &amp; Deadl
+	ines,StudentLink
+END:VEVENT
+BEGIN:VEVENT
+UID:362231
+SUMMARY:Winter Recess for Students
+DTSTAMP:20250331T201011Z
+DTSTART;VALUE=DATE:20271222
+DTEND;VALUE=DATE:20280102
+URL:https://events.nyu.edu/event/362231-winter-recess-for-students
+CATEGORIES:2027-2028 Academic Year,Fall 2027,Registration Dates &amp; Deadl
+	ines,StudentLink
 END:VEVENT
 END:VCALENDAR
