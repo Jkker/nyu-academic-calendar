@@ -1773,6 +1773,16 @@ CATEGORIES:2026-2027 Academic Year,Fall 2026,Registration Dates &amp; Deadl
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
+UID:362222
+SUMMARY:Fall Break
+DTSTAMP:20250331T185839Z
+DTSTART;VALUE=DATE:20261012
+URL:https://events.nyu.edu/event/362222-fall-break
+CATEGORIES:2026-2027 Academic Year,Fall 2026,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
 UID:361981
 SUMMARY:Legislative Monday
 DTSTAMP:20250328T173517Z
@@ -1791,6 +1801,18 @@ DESCRIPTION:<p><span data-sheets-value="{&quot\;1&quot\;:2\,&quot\;2&quot\;
 	ans-serif&quot\;\,&quot\;16&quot\;:11}">Classes meet according to a Monday
 	 schedule.</span></p>
 URL:https://events.nyu.edu/event/361981-legislative-monday
+CATEGORIES:2026-2027 Academic Year,Fall 2026,Registration Dates &amp; Deadl
+	ines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:362223
+SUMMARY:Legislative Monday
+DTSTAMP:20250331T190021Z
+DTSTART;VALUE=DATE:20261014
+DESCRIPTION:<p><span data-sheets-root="1">Classes meet according to a Monda
+	y schedule.</span></p>
+URL:https://events.nyu.edu/event/362223-legislative-monday
 CATEGORIES:2026-2027 Academic Year,Fall 2026,Registration Dates &amp; Deadl
 	ines,StudentLink
 DURATION:P1DT
@@ -1874,6 +1896,111 @@ URL:https://events.nyu.edu/event/361991-last-day-of-january-term-2027-class
 	es
 CATEGORIES:2026-2027 Academic Year,January Term 2027,Registration Dates &am
 	p; Deadlines,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:362209
+SUMMARY:Martin Luther King\, Jr. Birthday
+DTSTAMP:20250331T184511Z
+DTSTART;VALUE=DATE:20270118
+URL:https://events.nyu.edu/event/362209-martin-luther-king-jr-birthday
+CATEGORIES:2026-2027 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2027,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:362211
+SUMMARY:Spring 2027 Classes Begin
+DTSTAMP:20250331T184648Z
+DTSTART;VALUE=DATE:20270119
+URL:https://events.nyu.edu/event/362211-spring-2027-classes-begin
+CATEGORIES:2026-2027 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2027,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:362212
+SUMMARY:Spring 2027 Census Date
+DTSTAMP:20250331T184732Z
+DTSTART;VALUE=DATE:20270208
+URL:https://events.nyu.edu/event/362212-spring-2027-census-date
+CATEGORIES:2026-2027 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2027,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:362214
+SUMMARY:Presidents’ Day
+DTSTAMP:20250331T184827Z
+DTSTART;VALUE=DATE:20270215
+URL:https://events.nyu.edu/event/362214-presidents-day
+CATEGORIES:2026-2027 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2027,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:362215
+SUMMARY:Legislative Monday
+DTSTAMP:20250331T184958Z
+DTSTART;VALUE=DATE:20270216
+DESCRIPTION:<p><span data-sheets-root="1">Classes meet according to a Monda
+	y schedule.</span></p>
+URL:https://events.nyu.edu/event/362215-legislative-monday
+CATEGORIES:2026-2027 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2027,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:362216
+SUMMARY:Spring Break
+DTSTAMP:20250331T185125Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270320
+URL:https://events.nyu.edu/event/362216-spring-break
+CATEGORIES:2026-2027 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2027,StudentLink
+END:VEVENT
+BEGIN:VEVENT
+UID:362218
+SUMMARY:Last Day of Spring 2027 Classes
+DTSTAMP:20250331T185233Z
+DTSTART;VALUE=DATE:20270504
+URL:https://events.nyu.edu/event/362218-last-day-of-spring-2027-classes
+CATEGORIES:2026-2027 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2027,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:362219
+SUMMARY:Reading Day
+DTSTAMP:20250331T185332Z
+DTSTART;VALUE=DATE:20270505
+URL:https://events.nyu.edu/event/362219-reading-day
+CATEGORIES:2026-2027 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2027,StudentLink
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:362220
+SUMMARY:Final Exam Period
+DTSTAMP:20250331T185505Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270513
+DESCRIPTION:<p><span data-sheets-root="1">NYU Schools of Medicine\, Law\, D
+	entistry\, and Graduate Stern manage different final exam schedules. Refer
+	 to school-specific calendars for these details.</span></p>
+URL:https://events.nyu.edu/event/362220-final-exam-period
+CATEGORIES:2026-2027 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2027,StudentLink
+END:VEVENT
+BEGIN:VEVENT
+UID:362221
+SUMMARY:Spring 2027 Conferral (May Graduates)
+DTSTAMP:20250331T185713Z
+DTSTART;VALUE=DATE:20270513
+URL:https://events.nyu.edu/event/362221-spring-2027-conferral-may-graduates
+CATEGORIES:2026-2027 Academic Year,Registration Dates &amp; Deadlines,Sprin
+	g 2027,StudentLink
 DURATION:P1DT
 END:VEVENT
 END:VCALENDAR
