@@ -1867,10 +1867,10 @@ DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
 UID:361991
-SUMMARY:Last Day of January Term 2026 Classes
-DTSTAMP:20250328T182659Z
+SUMMARY:Last Day of January Term 2027 Classes
+DTSTAMP:20250331T163900Z
 DTSTART;VALUE=DATE:20270115
-URL:https://events.nyu.edu/event/361991-last-day-of-january-term-2026-class
+URL:https://events.nyu.edu/event/361991-last-day-of-january-term-2027-class
 	es
 CATEGORIES:2026-2027 Academic Year,January Term 2027,Registration Dates &am
 	p; Deadlines,StudentLink
