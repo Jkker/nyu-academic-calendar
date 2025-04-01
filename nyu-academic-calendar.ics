@@ -2317,4 +2317,92 @@ CATEGORIES:2027-2028 Academic Year,Registration Dates &amp; Deadlines,Sprin
 	g 2028,StudentLink
 DURATION:P1DT
 END:VEVENT
+BEGIN:VEVENT
+UID:362421
+SUMMARY:Summer 2028 Classes Begin: 12-Week\, 10-Week\, 7-Week\, First 6-Wee
+	k\, First 3-Week\, and Special Sessions
+DTSTAMP:20250401T142830Z
+DTSTART;VALUE=DATE:20280515
+URL:https://events.nyu.edu/event/362421-summer-2028-classes-begin-12-week-1
+	0-week-7
+CATEGORIES:2027-2028 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2028
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:362423
+SUMMARY:Memorial Day
+DTSTAMP:20250401T143311Z
+DTSTART;VALUE=DATE:20280529
+URL:https://events.nyu.edu/event/362423-memorial-day
+CATEGORIES:2027-2028 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2028
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:362426
+SUMMARY:Juneteenth
+DTSTAMP:20250401T143557Z
+DTSTART;VALUE=DATE:20280619
+URL:https://events.nyu.edu/event/362426-juneteenth
+CATEGORIES:2027-2028 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2028
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:362424
+SUMMARY:Legislative Monday
+DTSTAMP:20250401T143423Z
+DTSTART;VALUE=DATE:20280620
+DESCRIPTION:<p><span data-sheets-root="1">Classes meet according to a Monda
+	y schedule.</span></p>
+URL:https://events.nyu.edu/event/362424-legislative-monday
+CATEGORIES:2027-2028 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2028
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:362427
+SUMMARY:Independence Day
+DTSTAMP:20250401T143652Z
+DTSTART;VALUE=DATE:20280704
+URL:https://events.nyu.edu/event/362427-independence-day
+CATEGORIES:2027-2028 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2028
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:362425
+SUMMARY:Legislative Tuesday
+DTSTAMP:20250401T143513Z
+DTSTART;VALUE=DATE:20280705
+DESCRIPTION:<p><span data-sheets-root="1">Classes meet according to a Tuesd
+	ay schedule.</span></p>
+URL:https://events.nyu.edu/event/362425-legislative-tuesday
+CATEGORIES:2027-2028 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2028
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:362422
+SUMMARY:Summer Census Date
+DTSTAMP:20250401T142918Z
+DTSTART;VALUE=DATE:20280720
+URL:https://events.nyu.edu/event/362422-summer-census-date
+CATEGORIES:2027-2028 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2028
+DURATION:P1DT
+END:VEVENT
+BEGIN:VEVENT
+UID:362428
+SUMMARY:Last Day of Summer 2028 Classes: 12-Week\, Second 6-Week\, Fourth 3
+	-Week\, and the Special Session
+DTSTAMP:20250401T143800Z
+DTSTART;VALUE=DATE:20280809
+URL:https://events.nyu.edu/event/362428-last-day-of-summer-2028-classes-12-
+	week-sec
+CATEGORIES:2027-2028 Academic Year,Registration Dates &amp; Deadlines,Stude
+	ntLink,Summer 2028
+DURATION:P1DT
+END:VEVENT
 END:VCALENDAR
