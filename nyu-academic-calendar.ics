@@ -9,22 +9,6 @@ PRODID:Jkker/nyu-academic-calendar
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:343577
-SUMMARY:REMINDER: Apply for Summer 2025 Graduation
-DTSTAMP:20241101T042535Z
-DTSTART;VALUE=DATE:20250401
-DTEND;VALUE=DATE:20250602
-DESCRIPTION:<p>\n  Students completing their graduation requirements by the
-	 end of Summer 2025 semester must Apply for Graduation via Albert.*&#160\;
-	<br />\n  <em>Though related\, your eligibility for attending All-Universi
-	ty Commencement and school ceremonies are separate unique processes and mo
-	re information can be found here…</em>\n</p>
-URL:https://events.nyu.edu/event/343577-reminder-apply-for-summer-2025-grad
-	uation
-CATEGORIES:2024-2025 Academic Year,Graduation,Spring 2025,StudentLink,Summe
-	r 2025
-END:VEVENT
-BEGIN:VEVENT
 UID:336061
 SUMMARY:Spring 2025 Deadline to Request Pass/Fail Grade Option
 DTSTAMP:20240610T141426Z
